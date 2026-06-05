@@ -1,0 +1,1071 @@
+Harika! Şimdi **Hafta 5 — Problemler & Çözümler** konusunun 6 günlük eksiksiz planını hazırlıyorum. Bu hafta B1 seviyesinin kalbi olan problem çözme, neden-sonuç ilişkisi ve strateji anlatma becerilerine odaklanacağız.
+
+---
+
+# 📅 6 GÜNLÜK FULL PLAN: HAFTA 5 — PROBLEMLER & ÇÖZÜMLER
+
+## 🎯 GENEL GRAMER ODAKLARI (6 Gün Boyunca İşlenecek)
+
+| Gün | Ana Gramer Konusu | Detay |
+|:---|:---|:---|
+| **25** | Conditional Type 0 & 1 (If/When) | Genel doğrular, gelecekte olası durumlar |
+| **26** | Conditional Type 2 (If + Past, would + V1) | Hayali/olasılık dışı durumlar, tavsiye |
+| **27** | Passive Voice (edilgen çatı) — Present & Past | İşin kim tarafından yapıldığını vurgulama |
+| **28** | Causatives (have/get something done) | Birine bir şey yaptırma |
+| **29** | Relative Clauses (who, which, that, where) | Tanımlama ve açıklama cümleleri |
+| **30** | Reported Speech (dolaylı anlatım) + Hafta 5 Tekrar | Başkasının söylediğini aktarma |
+
+---
+
+## 📘 GÜN 25: Conditional Type 0 & 1 (If/When)
+
+### 🧱 10 Temel Kalıp
+1. If I have a problem, I solve it. (Bir sorunum olursa çözerim.)
+2. When I'm stressed, I take a walk. (Stresli olduğumda yürüyüşe çıkarım.)
+3. If you work hard, you will succeed. (Sıkı çalışırsan başarırsın.)
+4. If I find a solution, I'll let you know. (Bir çözüm bulursam sana haber veririm.)
+5. If it rains, I'll stay home. (Yağmur yağarsa evde kalırım.)
+6. When the meeting ends, I'll call you. (Toplantı bittiğinde seni ararım.)
+7. If I don't understand, I ask questions. (Anlamazsam soru sorarım.)
+8. If you need help, let me know. (Yardıma ihtiyacın olursa bana haber ver.)
+9. I get a headache if I don't drink coffee. (Kahve içmezsem başım ağrır.)
+10. If we work together, we can solve this. (Birlikte çalışırsak bunu çözebiliriz.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | problem | sorun | If there's a problem, I solve it. |
+| 2 | issue | mesele/sorun | If an issue arises, I handle it. |
+| 3 | solution | çözüm | I'll find a solution if I can. |
+| 4 | challenge | zorluk/meydan okuma | When I face a challenge, I grow. |
+| 5 | pressure | baskı | If pressure increases, I stay calm. |
+| 6 | decision | karar | I think carefully when I make a decision. |
+| 7 | option | seçenek | If one option fails, I try another. |
+| 8 | result | sonuç | If you work hard, results come. |
+| 9 | improve | geliştirmek | If you practice, you improve. |
+| 10 | handle | başa çıkmak | I can handle it if you help me. |
+| 11 | manage | yönetmek | If I manage time well, I succeed. |
+| 12 | stress | stres | When stress hits, I breathe. |
+| 13 | mistake | hata | If I make a mistake, I fix it. |
+| 14 | effort | çaba | If you put in effort, you'll win. |
+| 15 | strategy | strateji | A good strategy helps if things go wrong. |
+| 16 | outcome | sonuç/netice | The outcome depends on your effort. |
+| 17 | support | destek | If I need support, I ask for it. |
+| 18 | risk | risk | If you take a risk, you might gain. |
+| 19 | responsibility | sorumluluk | I take responsibility if something fails. |
+| 20 | learning | öğrenme | If you fail, learning happens. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — Type 0 ve Type 1)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Bir sorunum olursa çözerim. | If I have a problem, I solve it. |
+| 2 | Stresli olduğumda yürüyüşe çıkarım. | When I'm stressed, I take a walk. |
+| 3 | Sıkı çalışırsan başarırsın. | If you work hard, you will succeed. |
+| 4 | Bir çözüm bulursam sana haber veririm. | If I find a solution, I'll let you know. |
+| 5 | Yağmur yağarsa evde kalırım. | If it rains, I'll stay home. |
+| 6 | Toplantı bittiğinde seni ararım. | When the meeting ends, I'll call you. |
+| 7 | Anlamazsam soru sorarım. | If I don't understand, I ask questions. |
+| 8 | Yardıma ihtiyacın olursa bana haber ver. | If you need help, let me know. |
+| 9 | Kahve içmezsem başım ağrır. | I get a headache if I don't drink coffee. |
+| 10 | Birlikte çalışırsak bunu çözebiliriz. | If we work together, we can solve this. |
+| 11 | Bir hatayla karşılaşırsam düzeltirim. | If I encounter a mistake, I fix it. |
+| 12 | Müşteri şikayet ederse özür dilerim. | If the customer complains, I apologize. |
+| 13 | Proje gecikirse müdüre haber veririm. | If the project is delayed, I'll inform the manager. |
+| 14 | Zamanında yetişmezsem seni ararım. | If I can't make it on time, I'll call you. |
+| 15 | Baskı altında kalırsam sakin olurum. | If I'm under pressure, I stay calm. |
+| 16 | Bir fırsat görürsem değerlendiririm. | If I see an opportunity, I take it. |
+| 17 | Param olursa yeni bir araba alacağım. | If I have money, I will buy a new car. |
+| 18 | İşi alırsam kutlama yapacağım. | If I get the job, I'll celebrate. |
+| 19 | Yarın erken kalkarsam yürüyüşe çıkarım. | If I wake up early tomorrow, I'll go for a walk. |
+| 20 | Hata yaparsam ders çıkarırım. | If I make a mistake, I learn a lesson. |
+| 21 | Zorlanırsam yardım isterim. | If I struggle, I ask for help. |
+| 22 | Çok yorgunsam dinlenirim. | If I'm very tired, I rest. |
+| 23 | Patronum kızarsa ne yapmalıyım? | What should I do if my boss gets angry? |
+| 24 | İşten çıkarılırsam yeni bir iş bulurum. | If I get fired, I'll find a new job. |
+| 25 | Teklifi reddederlerse üzülmem. | If they reject the offer, I won't be sad. |
+| 26 | Vaktim olursa sana yardım ederim. | If I have time, I'll help you. |
+| 27 | Yağmur yağarsa pikniği iptal ederiz. | If it rains, we'll cancel the picnic. |
+| 28 | Geç kalırsan toplantıya girme. | If you're late, don't enter the meeting. |
+| 29 | Bir sorun olursa beni ara. | If there's a problem, call me. |
+| 30 | Acil bir durum olursa 112'yi ara. | If there's an emergency, call 112. |
+| 31 | Dikkatli çalışırsan hata yapmazsın. | If you work carefully, you won't make mistakes. |
+| 32 | Planı takip edersen başarılı olursun. | If you follow the plan, you will be successful. |
+| 33 | Sorunu görmezden gelirsen büyür. | If you ignore the problem, it grows. |
+| 34 | Risk almazsan kazanamazsın. | If you don't take risks, you can't win. |
+| 35 | İletişim kurmazsan yanlış anlaşılır. | If you don't communicate, you'll be misunderstood. |
+| 36 | Dürüst olursan insanlar sana güvenir. | If you are honest, people trust you. |
+| 37 | Sabredersen her şey yoluna girer. | If you're patient, everything will work out. |
+| 38 | Pes edersen başaramazsın. | If you give up, you won't succeed. |
+| 39 | Elinden geleni yaparsan pişman olmazsın. | If you do your best, you won't regret it. |
+| 40 | Kendine inanırsan her şeyi yapabilirsin. | If you believe in yourself, you can do anything. |
+| 41 | Su 100 dereceye ulaşırsa kaynar. | If water reaches 100 degrees, it boils. |
+| 42 | Erken yatarsan dinç uyanırsın. | If you go to bed early, you wake up fresh. |
+| 43 | Düzenli spor yaparsan sağlıklı olursun. | If you exercise regularly, you stay healthy. |
+| 44 | Çok yersen kilo alırsın. | If you eat too much, you gain weight. |
+| 45 | Gevşersen işler birikir. | If you slack off, work piles up. |
+| 46 | Plan yapmazsan kaybolursun. | If you don't plan, you get lost. |
+| 47 | Hedef koymazsan ulaşamazsın. | If you don't set goals, you can't reach them. |
+| 48 | Denemezsen asla bilemezsin. | If you don't try, you'll never know. |
+| 49 | Öğrenmeye açık olursan gelişirsin. | If you're open to learning, you improve. |
+| 50 | İnanırsan başarırsın. | If you believe, you achieve. |
+
+#### SON 50 (Orta Seviye — unless/as long as/provided that)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Çalışmadığın sürece başaramazsın. | Unless you work, you won't succeed. |
+| 52 | Acele etmezsen otobüsü kaçıracaksın. | Unless you hurry, you'll miss the bus. |
+| 53 | Şimdi çıkmazsak geç kalacağız. | If we don't leave now, we'll be late. |
+| 54 | Yardım istemediğin sürece kimse bilmez. | Unless you ask for help, no one will know. |
+| 55 | Hatayı kabul etmezsen düzeltemezsin. | Unless you admit the mistake, you can't fix it. |
+| 56 | Değişmediğin sürece aynı sonuçları alırsın. | Unless you change, you'll get the same results. |
+| 57 | İngilizce pratik yapmazsan gelişemezsin. | You won't improve unless you practice English. |
+| 58 | Mola vermezsen tükenirsin. | If you don't take breaks, you'll burn out. |
+| 59 | Bütçe yapmazsan para biriktiremezsin. | You can't save money unless you budget. |
+| 60 | Sorunu çözmezsek büyüyecek. | If we don't solve the problem, it will grow. |
+| 61 | Sürekli çabaladığın sürece başarırsın. | As long as you keep trying, you will succeed. |
+| 62 | İyi niyetli olduğun sürece sorun olmaz. | As long as you mean well, there's no problem. |
+| 63 | Dürüst olduğun sürece kimse kızmaz. | As long as you're honest, no one will be angry. |
+| 64 | Planına sadık kaldığın sürece ilerlersin. | As long as you stick to your plan, you'll progress. |
+| 65 | Bana haber verdiğin sürece geç kalabilirsin. | You can be late as long as you let me know. |
+| 66 | Yeter ki vazgeçme. | As long as you don't give up. |
+| 67 | Şartlar uygun olursa işi kabul ederim. | Provided that conditions are suitable, I'll accept the job. |
+| 68 | Maaş iyi olursa taşınırım. | I'll move provided that the salary is good. |
+| 69 | Sorumluluk verirseniz başarılı olurum. | If you give me responsibility, I'll succeed. |
+| 70 | Erken bitirirsem sana yardım edeceğim. | If I finish early, I'll help you. |
+| 71 | sorun devam ederse ne yapacaksın? | What will you do if the problem continues? |
+| 72 | Bir çözüm bulamazsam müdüre danışırım. | If I can't find a solution, I'll consult the manager. |
+| 73 | Eğer ki kabul etmezsen anlarım. | If you don't accept, I'll understand. |
+| 74 | Olur da işe alınmazsam başka yerlere başvururum. | If I don't get hired, I'll apply elsewhere. |
+| 75 | Eğer ki kararımı sorarsan, bence gitmelisin. | If you ask for my opinion, I think you should go. |
+| 76 | Proje hakkında şüphelerin olursa bana sor. | If you have doubts about the project, ask me. |
+| 77 | Eğer ki bir çözüm önerin varsa dinlerim. | If you have a solution suggestion, I'll listen. |
+| 78 | Bir hata yaparsam lütfen beni uyar. | If I make a mistake, please warn me. |
+| 79 | Eğer ki toplantı uzarsa beni bekleme. | If the meeting runs long, don't wait for me. |
+| 80 | İşler yolunda giderse yıl sonunda terfi alabilirim. | If things go well, I might get a promotion at the end of the year. |
+| 81 | Eğer ki bu strateji işe yaramazsa B planına geçeriz. | If this strategy doesn't work, we'll switch to plan B. |
+| 82 | Acil bir durum olmadıkça beni arama. | Don't call me unless it's an emergency. |
+| 83 | İş çıkışı yürüyüş yaparsam stresim azalıyor. | If I walk after work, my stress decreases. |
+| 84 | Meditasyon yaparsam daha iyi odaklanırım. | If I meditate, I focus better. |
+| 85 | Sağlıklı beslenirsem enerjim yükselir. | If I eat healthy, my energy rises. |
+| 86 | Uykumu alırsam daha üretken olurum. | If I get enough sleep, I am more productive. |
+| 87 | Düzenli İngilizce çalışırsam akıcı konuşacağım. | If I study English regularly, I will speak fluently. |
+| 88 | Bu plana devam edersem 12 haftada çok yol alacağım. | If I continue this plan, I will come a long way in 12 weeks. |
+| 89 | Her gün pratik yapmazsam unuturum. | If I don't practice every day, I forget. |
+| 90 | Hata yapmaktan korkarsam konuşamam. | If I'm afraid of making mistakes, I can't speak. |
+| 91 | Yeter ki konuş, hata olsun. | As long as you speak, let there be mistakes. |
+| 92 | Sorunları çözmek için strateji geliştirmelisin. | You must develop a strategy to solve problems. |
+| 93 | Eğer ki çözüm bulamıyorsan, sorunu değiştir. | If you can't find a solution, change the problem. |
+| 94 | Her sorun bir fırsattır. | Every problem is an opportunity. |
+| 95 | Eğer düşersen kalk. | If you fall, get up. |
+| 96 | Başarısız olursan tekrar dene. | If you fail, try again. |
+| 97 | Pes etmediğin sürece kaybetmezsin. | As long as you don't give up, you don't lose. |
+| 98 | Hava kötü olsa bile yürürüm. | Even if the weather is bad, I'll walk. |
+| 99 | Ne olursa olsun devam edeceğim. | I will continue no matter what happens. |
+| 100 | Eğer her şeyi doğru yaparsan, sonuç mutlaka gelir. | If you do everything right, the result will definitely come. |
+
+### 🎯 GÜN 25 AKTİVİTELERİ
+
+**Sabah (30 dk): If/When Zinciri**
+- 20 "if/when" cümlesi yaz. 10 tanesi Type 0 (genel doğru), 10 tanesi Type 1 (gelecek olasılık).
+- Örnek Type 0: "If I drink coffee, I feel energetic."
+- Örnek Type 1: "If I have time, I'll call you."
+
+**Öğlen (30 dk): Problem-Sonuç Eşleştirme**
+- 15 problem yaz, her birine "if" ile başlayan çözüm cümlesi yaz.
+- Örnek: "Problem: I'm late for work." → "If I leave earlier, I won't be late."
+
+**Akşam (45 dk): "If I Face a Problem" Konuşması**
+- 2 dakikalık "İş yerinde sorunla karşılaşırsam ne yaparım?" konuşması.
+- En az 10 if/when cümlesi kullan.
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 26: Conditional Type 2 (If + Past, would + V1)
+
+### 🧱 10 Temel Kalıp
+1. If I were you, I would accept the offer. (Yerinde olsam teklifi kabul ederdim.)
+2. If I had more time, I would learn French. (Daha fazla zamanım olsa Fransızca öğrenirdim.)
+3. If I were the manager, I would change the rules. (Müdür olsaydım kuralları değiştirirdim.)
+4. I would travel the world if I were rich. (Zengin olsam dünyayı gezerdim.)
+5. If I knew the answer, I would tell you. (Cevabı bilsem sana söylerdim.)
+6. If I didn't have to work, I would rest more. (Çalışmak zorunda olmasam daha çok dinlenirdim.)
+7. What would you do if you lost your job? (İşini kaybetsen ne yapardın?)
+8. I wouldn't do that if I were you. (Yerinde olsam onu yapmazdım.)
+9. If he asked for help, I would help him. (Yardım istese ona yardım ederdim.)
+10. I would be so happy if I got that job. (O işi alsam çok mutlu olurdum.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | imagine | hayal etmek | If I imagine it, I can do it. |
+| 2 | suppose | varsaymak | Suppose you were the boss. |
+| 3 | wish | keşke/dilemek | I wish I had more time. |
+| 4 | regret | pişmanlık | If I regretted, I'd fix it. |
+| 5 | opportunity | fırsat | If I had the opportunity... |
+| 6 | chance | şans | If I had a chance... |
+| 7 | possible | mümkün | If it were possible... |
+| 8 | impossible | imkansız | It's not impossible if you try. |
+| 9 | ideal | ideal | My ideal solution would be... |
+| 10 | perfect | mükemmel | If everything were perfect... |
+| 11 | better | daha iyi | It would be better if... |
+| 12 | worse | daha kötü | It would be worse if... |
+| 13 | rather | tercihen | I'd rather solve it myself. |
+| 14 | suggest | önermek | I'd suggest a different way. |
+| 15 | recommend | tavsiye etmek | What would you recommend? |
+| 16 | advice | tavsiye | If I could give advice... |
+| 17 | opinion | fikir | If you asked my opinion... |
+| 18 | guess | tahmin etmek | I guess I would try again. |
+| 19 | probably | muhtemelen | I'd probably say yes. |
+| 20 | definitely | kesinlikle | I'd definitely help. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — Type 2 Yapısı)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Yerinde olsam teklifi kabul ederdim. | If I were you, I would accept the offer. |
+| 2 | Daha fazla zamanım olsa Fransızca öğrenirdim. | If I had more time, I would learn French. |
+| 3 | Müdür olsaydım kuralları değiştirirdim. | If I were the manager, I would change the rules. |
+| 4 | Zengin olsam dünyayı gezerdim. | I would travel the world if I were rich. |
+| 5 | Cevabı bilsem sana söylerdim. | If I knew the answer, I would tell you. |
+| 6 | Çalışmak zorunda olmasam daha çok dinlenirdim. | If I didn't have to work, I would rest more. |
+| 7 | İşini kaybetsen ne yapardın? | What would you do if you lost your job? |
+| 8 | Yerinde olsam onu yapmazdım. | I wouldn't do that if I were you. |
+| 9 | Yardım istese ona yardım ederdim. | If he asked for help, I would help him. |
+| 10 | O işi alsam çok mutlu olurdum. | I would be so happy if I got that job. |
+| 11 | Daha fazla maaşım olsa ev alırdım. | If I had a higher salary, I would buy a house. |
+| 12 | Deniz kenarında yaşasam her gün yüzerdim. | If I lived by the sea, I would swim every day. |
+| 13 | Uçmayı bilsem daha çok seyahat ederdim. | If I could fly, I would travel more. |
+| 14 | Yeterli param olsa şimdi emekli olurdum. | If I had enough money, I would retire now. |
+| 15 | Daha genç olsam kariyer değiştirirdim. | If I were younger, I would change careers. |
+| 16 | İngilizceyi akıcı konuşabilsem iş bulurdum. | If I could speak English fluently, I would find a job. |
+| 17 | Müdürle konuşabilseydim sorunu anlatırdım. | If I could talk to the manager, I would explain the problem. |
+| 18 | Toplantıya katılabilseydim fikrimi söylerdim. | If I could attend the meeting, I would share my opinion. |
+| 19 | Senin yerinde olsam özür dilerdim. | If I were you, I would apologize. |
+| 20 | Ben olsam bu kadar risk almazdım. | If I were you, I wouldn't take this much risk. |
+| 21 | Yerinde olsam biraz beklerdim. | If I were you, I would wait a bit. |
+| 22 | Keşke daha çok zamanım olsa. | I wish I had more time. |
+| 23 | Keşke daha erken başlasaydım. | I wish I had started earlier. |
+| 24 | Keşke o işi kabul etseydim. | I wish I had accepted that job. |
+| 25 | Keşke şimdi tatilde olsam. | I wish I were on holiday now. |
+| 26 | Eğer bir süper gücüm olsaydı görünmez olmak isterdim. | If I had a superpower, I would want to be invisible. |
+| 27 | Dünyanın sonu gelse ne yapardın? | What would you do if the world ended? |
+| 28 | Piyangoyu kazansam istifa ederdim. | If I won the lottery, I would resign. |
+| 29 | Hiç uyumak zorunda olmasan ne yapardın? | What would you do if you never had to sleep? |
+| 30 | Zamanda yolculuk yapabilsen nereye giderdin? | Where would you go if you could time travel? |
+| 31 | Eğer bir sorunun olsa kime giderdin? | Who would you go to if you had a problem? |
+| 32 | İşimi kaybetsem önce biraz dinlenirdim. | If I lost my job, I would rest for a while first. |
+| 33 | Takımda bir anlaşmazlık olsa arabuluculuk yapardım. | If there were a conflict in the team, I would mediate. |
+| 34 | Bir daha şansım olsa aynı hatayı yapmazdım. | If I had another chance, I wouldn't make the same mistake. |
+| 35 | Eğer şimdi İngilizce bilseydim işim çok kolay olurdu. | If I knew English now, my job would be very easy. |
+| 36 | Daha az çalışsaydım bu kadar yorulmazdım. | If I worked less, I wouldn't be this tired. |
+| 37 | Daha iyi planlama yapsaydı yetiştirirdi. | If he/she had planned better, he/she would have made it. |
+| 38 | Eğer özür dileseydi onu affederdim. | If he/she had apologized, I would have forgiven him/her. |
+| 39 | Bana sorsaydın yardım ederdim. | If you had asked me, I would have helped. |
+| 40 | Zamanında söyleseydin düzeltirdim. | If you had told me on time, I would have fixed it. |
+| 41 | Ben olsam bu teklifi reddetmezdim. | If I were you, I wouldn't refuse this offer. |
+| 42 | Daha yüksek hedefler koyardım. | I would set higher goals. |
+| 43 | Kendime daha çok güvenirdim. | I would trust myself more. |
+| 44 | Risk alırdım. | I would take risks. |
+| 45 | Korkmazdım. | I wouldn't be afraid. |
+| 46 | Denemekten vazgeçmezdim. | I wouldn't give up trying. |
+| 47 | Her şeyi daha sakin karşılardım. | I would handle everything more calmly. |
+| 48 | Daha az endişelenirdim. | I would worry less. |
+| 49 | Andan keyif alırdım. | I would enjoy the moment. |
+| 50 | Kendimi daha çok severdim. | I would love myself more. |
+
+#### SON 50 (Orta Seviye — I wish / If only / Karışık)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Keşke şu an yanımda olsan. | I wish you were here with me now. |
+| 52 | Keşke daha önce İngilizce öğrenmeye başlasaydım. | I wish I had started learning English earlier. |
+| 53 | Keşke dün toplantıya katılabilseydim. | I wish I could have attended the meeting yesterday. |
+| 54 | Keşke param olsa da dünyayı gezsem. | I wish I had money so I could travel the world. |
+| 55 | Keşke patronum daha anlayışlı olsa. | I wish my boss were more understanding. |
+| 56 | Keşke trafik bu kadar yoğun olmasa. | I wish the traffic weren't this heavy. |
+| 57 | Keşke her şey daha kolay olsa. | I wish everything were easier. |
+| 58 | Keşke insanlar birbirine daha saygılı olsa. | I wish people were more respectful to each other. |
+| 59 | Keşke hiç hata yapmasaydım. | If only I hadn't made any mistakes. |
+| 60 | Keşke onu dinleseydim. | If only I had listened to him/her. |
+| 61 | Keşke daha cesur olsaydım. | If only I were braver. |
+| 62 | Keşke fırsatları daha iyi değerlendirseydim. | If only I had taken better advantage of opportunities. |
+| 63 | Eğer patron olsaydım çalışanlarıma daha fazla değer verirdim. | If I were the boss, I would value my employees more. |
+| 64 | Eğer CEO olsaydım şirket kültürünü değiştirirdim. | If I were the CEO, I would change the company culture. |
+| 65 | Eğer müdür olsaydım herkesi dinlerdim. | If I were the manager, I would listen to everyone. |
+| 66 | Müşteri şikayeti olsa hemen çözüm üretirdim. | If there were a customer complaint, I would immediately produce a solution. |
+| 67 | Bir kriz anında soğukkanlı olurdum. | I would stay calm in a moment of crisis. |
+| 68 | Ekibime güven verirdim. | I would give confidence to my team. |
+| 69 | Onları motive ederdim. | I would motivate them. |
+| 70 | Başarısızlığı cezalandırmak yerine ders çıkarırdım. | Instead of punishing failure, I would learn from it. |
+| 71 | Elemana yatırım yapardım. | I would invest in my employees. |
+| 72 | Eğer bir gün kendi işimi kurarsam çok mutlu olacağım. | If I start my own business one day, I will be very happy. |
+| 73 | Eğer bu işi alırsam hayatım değişecek. | If I get this job, my life will change. |
+| 74 | Başarırsam ailemi gururlandıracağım. | If I succeed, I will make my family proud. |
+| 75 | Diyelim ki işi alamadın, ne yapardın? | Suppose you didn't get the job, what would you do? |
+| 76 | Varsayalım ki müdür istifa etti, yerine seni teklif ettiler. Kabul eder miydin? | Suppose the manager resigned and they offered you the position. Would you accept? |
+| 77 | Farz et ki bir daha asla çalışmak zorunda değilsin. Günlerini nasıl geçirirdin? | Imagine you never had to work again. How would you spend your days? |
+| 78 | Eğer süper zengin olsaydım, kesinlikle yardım kuruluşlarına bağış yapardım. | If I were super rich, I would definitely donate to charities. |
+| 79 | Eğer bir gün yurt dışına taşınırsam, önce İngiltere'yi denerdim. | If I moved abroad one day, I would try England first. |
+| 80 | Şimdi İngilizce bilsem, şu an iş görüşmesinde rahattım. | If I knew English now, I would be comfortable in the job interview right now. |
+| 81 | Eğer onun söylediklerini duysaydın, sen de üzülürdün. | If you had heard what he/she said, you would be sad too. |
+| 82 | Beni arasaydı giderdim. | I would have gone if he/she had called me. |
+| 83 | Daha çok çalışsaydı terfi alırdı. | He/She would have gotten a promotion if he/she had worked harder. |
+| 84 | Geç kalmasaydın müdür kızmazdı. | If you hadn't been late, the manager wouldn't have been angry. |
+| 85 | Bana sorulsaydı farklı bir çözüm önerirdim. | If I had been asked, I would have suggested a different solution. |
+| 86 | Keşke o gün ofiste olsaydım. | I wish I had been at the office that day. |
+| 87 | Keşke bu plana daha önce başlasaydım. | I wish I had started this plan earlier. |
+| 88 | Ama önemli olan şimdi burada olmam. | But the important thing is that I'm here now. |
+| 89 | Geçmiş için "keşke" demek yerine şimdiye odaklan. | Instead of saying "I wish" for the past, focus on now. |
+| 90 | Eğer her gün pratik yaparsan, İngilizcen kesinlikle gelişir. | If you practice every day, your English will definitely improve. |
+| 91 | Eğer gelişmezse de bana yaz. | If it doesn't improve, write to me. |
+| 92 | Bir sorunun olursa çözeriz. | If you have a problem, we'll solve it. |
+| 93 | Yardıma ihtiyacın olursa buradayım. | If you need help, I'm here. |
+| 94 | Hayatta her şey mümkün, yeter ki iste. | Everything is possible in life, as long as you want it. |
+| 95 | Eğer hayal edebiliyorsan, yapabilirsin. | If you can dream it, you can do it. |
+| 96 | Eğer bir yol varsa bulursun. | If there's a way, you'll find it. |
+| 97 | Yoksa da sen yaratırsın. | If there isn't, you'll create it. |
+| 98 | İnsan isterse dağları deler. | If a person wants, they can move mountains. |
+| 99 | Ben de İngilizceyi öğrenmek istiyorum ve öğreniyorum. | I want to learn English and I'm learning it. |
+| 100 | Eğer birisi 3600 cümle yazabiliyorsa, o benim. | If anyone can write 3600 sentences, it's me. |
+
+### 🎯 GÜN 26 AKTİVİTELERİ
+
+**Sabah (30 dk): I wish / If only**
+- 10 "I wish" ve 10 "If only" cümlesi yaz.
+- Şimdiki zaman için "I wish I were/V2...", geçmiş için "I wish I had V3..."
+
+**Öğlen (30 dk): Tavsiye Cümleleri**
+- "If I were you, I would..." kalıbıyla 15 tavsiye cümlesi yaz.
+- İş, aşk, sağlık, İngilizce konularında olsun.
+
+**Akşam (45 dk): "What If?" Konuşması**
+- 2 dakikalık "If I were the boss / If I had a million dollars..." konuşması yap.
+- En az 15 Type 2 cümlesi kullan.
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 27: Passive Voice (Edilgen Çatı) — Present & Past Simple
+
+### 🧱 10 Temel Kalıp
+1. The problem was solved. (Sorun çözüldü.)
+2. The report is written by me. (Rapor benim tarafımdan yazılır.)
+3. Mistakes were made. (Hatalar yapıldı.)
+4. The project is managed by a team. (Proje bir ekip tarafından yönetiliyor.)
+5. English is spoken worldwide. (İngilizce dünya çapında konuşulur.)
+6. The decision was taken yesterday. (Karar dün alındı.)
+7. The email hasn't been sent yet. (E-posta henüz gönderilmedi.)
+8. My wallet was stolen. (Cüzdanım çalındı.)
+9. The building was built in 1990. (Bina 1990'da inşa edildi.)
+10. A solution will be found. (Bir çözüm bulunacak.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | V3 Hali | Cümle İçinde Örnek |
+|:---|:---|:---|:---|:---|
+| 1 | solve | çözmek | solved | The problem was solved. |
+| 2 | fix | düzeltmek | fixed | It was fixed quickly. |
+| 3 | handle | ele almak | handled | It was handled well. |
+| 4 | manage | yönetmek | managed | The crisis was managed. |
+| 5 | complete | tamamlamak | completed | The project was completed. |
+| 6 | finish | bitirmek | finished | The work was finished. |
+| 7 | start | başlamak | started | A new process was started. |
+| 8 | build | inşa etmek | built | A solution was built. |
+| 9 | create | yaratmak | created | A plan was created. |
+| 10 | develop | geliştirmek | developed | New software was developed. |
+| 11 | implement | uygulamak | implemented | Rules were implemented. |
+| 12 | follow | takip etmek | followed | Procedures were followed. |
+| 13 | break | kırmak/bozmak | broken | The system was broken. |
+| 14 | lose | kaybetmek | lost | Documents were lost. |
+| 15 | find | bulmak | found | A mistake was found. |
+| 16 | report | raporlamak | reported | The issue was reported. |
+| 17 | approve | onaylamak | approved | The budget was approved. |
+| 18 | reject | reddetmek | rejected | The offer was rejected. |
+| 19 | delay | geciktirmek | delayed | The flight was delayed. |
+| 20 | cancel | iptal etmek | cancelled | The meeting was cancelled. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — Passive Voice Present/Past)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Sorun çözüldü. | The problem was solved. |
+| 2 | Rapor benim tarafımdan yazılır. | The report is written by me. |
+| 3 | Hatalar yapıldı. | Mistakes were made. |
+| 4 | Proje bir ekip tarafından yönetiliyor. | The project is managed by a team. |
+| 5 | İngilizce dünya çapında konuşulur. | English is spoken worldwide. |
+| 6 | Karar dün alındı. | The decision was taken yesterday. |
+| 7 | E-posta henüz gönderilmedi. | The email hasn't been sent yet. |
+| 8 | Cüzdanım çalındı. | My wallet was stolen. |
+| 9 | Bina 1990'da inşa edildi. | The building was built in 1990. |
+| 10 | Bir çözüm bulunacak. | A solution will be found. |
+| 11 | Toplantı iptal edildi. | The meeting was cancelled. |
+| 12 | Kahvaltı saat 7'de servis edilir. | Breakfast is served at 7 o'clock. |
+| 13 | Bu ofis her gün temizlenir. | This office is cleaned every day. |
+| 14 | Arabam tamir ediliyor. | My car is being repaired. |
+| 15 | Proje dün onaylandı. | The project was approved yesterday. |
+| 16 | Maaşlar ayın 1'inde ödenir. | Salaries are paid on the 1st of the month. |
+| 17 | Yeni bir sistem kuruldu. | A new system was installed. |
+| 18 | Yangın merdivenleri kontrol edildi. | The fire escapes were checked. |
+| 19 | Özgeçmişim inceleniyor. | My CV is being reviewed. |
+| 20 | Başvurular online olarak alınır. | Applications are taken online. |
+| 21 | Bu ürün Türkiye'de üretilir. | This product is produced in Turkey. |
+| 22 | Belgeler kayboldu. | The documents were lost. |
+| 23 | Hata bulundu ve düzeltildi. | The mistake was found and fixed. |
+| 24 | Yemekler aşçı tarafından yapılır. | The meals are cooked by the chef. |
+| 25 | Müşteri şikayeti kaydedildi. | The customer complaint was recorded. |
+| 26 | Para çalındı. | The money was stolen. |
+| 27 | Cam kırıldı. | The window was broken. |
+| 28 | Kapı kilitlendi. | The door was locked. |
+| 29 | Işıklar kapatıldı. | The lights were turned off. |
+| 30 | Tüm biletler satıldı. | All the tickets were sold. |
+| 31 | Yeni bir çalışan işe alındı. | A new employee was hired. |
+| 32 | Eski müdür kovuldu. | The old manager was fired. |
+| 33 | İşler zamanında teslim edilir. | Jobs are delivered on time. |
+| 34 | Veriler şifre ile korunur. | Data is protected with a password. |
+| 35 | Bu sorun nasıl çözülür? | How is this problem solved? |
+| 36 | Bu hata kim tarafından yapıldı? | Who was this mistake made by? |
+| 37 | Bu karar ne zaman alındı? | When was this decision made? |
+| 38 | İzin formu imzalandı mı? | Was the permission form signed? |
+| 39 | Fatura ödendi mi? | Has the invoice been paid? |
+| 40 | Toplantı odası hazırlandı mı? | Has the meeting room been prepared? |
+| 41 | Problem çözülmeden toplantı bitmez. | The meeting won't end until the problem is solved. |
+| 42 | Çalışanlara yeni kurallar bildirildi. | The new rules were announced to the employees. |
+| 43 | Müşterilere özel indirim sunuldu. | A special discount was offered to customers. |
+| 44 | Acil durum planı devreye sokuldu. | The emergency plan was put into action. |
+| 45 | Ürün geri çağrıldı. | The product was recalled. |
+| 46 | Tazminat ödenecek. | Compensation will be paid. |
+| 47 | Soruşturma başlatıldı. | An investigation was launched. |
+| 48 | Her şey kayıt altına alındı. | Everything was recorded. |
+| 49 | Hata kabul edildi. | The mistake was admitted. |
+| 50 | Özür dilendi. | An apology was made. |
+
+#### SON 50 (Orta Seviye — Karmaşık Passive Yapıları)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Projenin zamanında bitirileceği söylendi. | It was said that the project would be finished on time. |
+| 52 | Sorunun kaynağının bulunduğu açıklandı. | It was announced that the source of the problem had been found. |
+| 53 | Çalışanlara zam yapılacağı duyuruldu. | It was announced that employees would get a raise. |
+| 54 | İşten çıkarmaların olacağı söylentisi var. | It is rumored that there will be layoffs. |
+| 55 | Güvenlik kamerasına yakalandı. | He/She was caught on the security camera. |
+| 56 | Hırsız tutuklandı. | The thief was arrested. |
+| 57 | Yaralılar hastaneye kaldırıldı. | The injured were taken to hospital. |
+| 58 | Bina boşaltıldı. | The building was evacuated. |
+| 59 | Yangın söndürüldü. | The fire was put out. |
+| 60 | Toplantı ertelendi. | The meeting was postponed. |
+| 61 | Görüşme ileri bir tarihe ertelendi. | The interview was postponed to a later date. |
+| 62 | Bu şirketin CEO'su ödüle layık görüldü. | The CEO of this company was deemed worthy of an award. |
+| 63 | Bütün başvurular dikkatlice incelenir. | All applications are carefully reviewed. |
+| 64 | Sadece uygun adaylar görüşmeye çağrılır. | Only suitable candidates are invited for an interview. |
+| 65 | İş teklifi yazılı olarak yapılır. | The job offer is made in writing. |
+| 66 | Sözleşme iki tarafça imzalanır. | The contract is signed by both parties. |
+| 67 | Deneme süresi sonunda performans değerlendirilir. | Performance is evaluated at the end of the probation period. |
+| 68 | İş elbiseleri şirket tarafından sağlanır. | Work clothes are provided by the company. |
+| 69 | Yemek kartına her ay para yüklenir. | Money is loaded onto the meal card every month. |
+| 70 | Servis imkanı sunulmaktadır. | Shuttle service is provided. |
+| 71 | Fazla mesai ücreti ayrıca ödenir. | Overtime pay is paid separately. |
+| 72 | Sigara içmek yasaktır. | Smoking is forbidden. |
+| 73 | Cep telefonu kullanımı serbest bırakıldı. | Mobile phone use was allowed. |
+| 74 | Yeni yazılım sisteme entegre edildi. | The new software was integrated into the system. |
+| 75 | Test aşamasında bir hata tespit edildi. | An error was detected during the testing phase. |
+| 76 | Hata düzeltilene kadar sistem kapatıldı. | The system was shut down until the error was fixed. |
+| 77 | Kullanıcılara bilgilendirme maili gönderildi. | An information email was sent to the users. |
+| 78 | Çözüm ekibi tarafından müdahale edildi. | Intervention was made by the solution team. |
+| 79 | İş akışı yeniden düzenlendi. | The workflow was rearranged. |
+| 80 | Verimliliğin arttığı gözlemlendi. | It was observed that efficiency increased. |
+| 81 | Müşteri memnuniyetinin yükseldiği rapor edildi. | It was reported that customer satisfaction increased. |
+| 82 | Bu başarı ekibin sıkı çalışmasıyla kazanıldı. | This success was earned through the team's hard work. |
+| 83 | Başarısızlık bir son değil, bir derstir. | Failure is not an end, but a lesson. |
+| 84 | "Deneyim, verilen en zor sınavlardan biridir." | Experience is one of the toughest exams given. |
+| 85 | İngilizce birçok ülkede resmi dil olarak kabul edilir. | English is accepted as an official language in many countries. |
+| 86 | Her yıl milyonlarca İngilizce kitap satılır. | Millions of English books are sold every year. |
+| 87 | İnternet sayesinde bilgiye kolayca ulaşılır. | Thanks to the internet, information is easily accessed. |
+| 88 | Bu cümleler sizin tarafınızdan yazıldı. | These sentences were written by you. |
+| 89 | Bu plan sizin için özel olarak hazırlandı. | This plan was specially prepared for you. |
+| 90 | Her detay düşünüldü. | Every detail was considered. |
+| 91 | Umuyorum ki bu emek değerlendirilir. | I hope this effort is appreciated. |
+| 92 | Zorlukların üstesinden gelindi. | Difficulties were overcome. |
+| 93 | Bugün çok yol kat edildi. | A lot of ground was covered today. |
+| 94 | Edilgen yapı tamamen anlaşıldı. | The passive voice was completely understood. |
+| 95 | Şimdi 100. cümle yazılıyor. | The 100th sentence is being written now. |
+| 96 | Ve bitti. | And it is finished. |
+| 97 | Tarafınızdan harika bir iş başarıldı. | A great job was accomplished by you. |
+| 98 | Bu gurur sizin tarafınızdan hissedilmeli. | This pride should be felt by you. |
+| 99 | Çünkü bu başarı size ait. | Because this success belongs to you. |
+| 100 | Emeğiniz takdir edildi. | Your effort has been appreciated. |
+
+### 🎯 GÜN 27 AKTİVİTELERİ
+
+**Sabah (30 dk): Aktif → Pasif Dönüştürme**
+- 15 aktif cümleyi pasif hale çevir.
+- Örnek: "I solved the problem." → "The problem was solved."
+
+**Öğlen (30 dk): Süreç Anlatımı**
+- "How a problem is solved in my company" başlıklı 15 cümlelik pasif bir süreç anlatımı yaz.
+
+**Akşam (45 dk): "A Crisis Story" Konuşması**
+- 2 dakikalık "Şirkette yaşanan bir kriz ve çözümü" konuşması yap.
+- Olayları pasif yapı kullanarak anlat.
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 28: Causatives (have/get something done)
+
+### 🧱 10 Temel Kalıp
+1. I had the problem fixed. (Sorunu düzelttirdim.)
+2. I got my computer repaired. (Bilgisayarımı tamir ettirdim.)
+3. We had the report checked. (Raporu kontrol ettirdik.)
+4. She had her hair cut. (Saçını kestirdi.)
+5. I need to have my car washed. (Arabamı yıkatmam gerekiyor.)
+6. I got the documents signed. (Belgeleri imzalattım.)
+7. They had the office cleaned. (Ofisi temizlettiler.)
+8. I'll have the package delivered tomorrow. (Paketi yarın teslim ettireceğim.)
+9. I had my CV prepared professionally. (Özgeçmişimi profesyonelce hazırlattım.)
+10. Get it done! (Şunu hallet/halledin!)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | repair | tamir etmek | I had it repaired. |
+| 2 | check | kontrol etmek | I had it checked. |
+| 3 | deliver | teslim etmek | I had it delivered. |
+| 4 | install | kurmak | I had it installed. |
+| 5 | prepare | hazırlamak | I had it prepared. |
+| 6 | clean | temizlemek | I had it cleaned. |
+| 7 | wash | yıkamak | I had it washed. |
+| 8 | cut | kesmek | I had my hair cut. |
+| 9 | paint | boyamak | I had the walls painted. |
+| 10 | design | tasarlamak | I had it designed. |
+| 11 | translate | çevirmek | I had it translated. |
+| 12 | print | yazdırmak | I had it printed. |
+| 13 | send | göndermek | I had it sent. |
+| 14 | organize | düzenlemek | I had it organized. |
+| 15| review | incelemek/gözden geçirmek | I had it reviewed. |
+| 16 | update | güncellemek | I had it updated. |
+| 17 | test | test etmek | I had it tested. |
+| 18 | approve | onaylamak | I had it approved. |
+| 19 | sign | imzalamak | I had it signed. |
+| 20 | fix | düzeltmek | I had it fixed. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — have/get done)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Sorunu düzelttirdim. | I had the problem fixed. |
+| 2 | Bilgisayarımı tamir ettirdim. | I got my computer repaired. |
+| 3 | Raporu kontrol ettirdik. | We had the report checked. |
+| 4 | Saçını kestirdi. | She had her hair cut. |
+| 5 | Arabamı yıkatmam gerekiyor. | I need to have my car washed. |
+| 6 | Belgeleri imzalattım. | I got the documents signed. |
+| 7 | Ofisi temizlettiler. | They had the office cleaned. |
+| 8 | Paketi yarın teslim ettireceğim. | I'll have the package delivered tomorrow. |
+| 9 | Özgeçmişimi profesyonelce hazırlattım. | I had my CV prepared professionally. |
+| 10 | Şunu hallet! | Get it done! |
+| 11 | Duvarları boyattım. | I had the walls painted. |
+| 12 | Klimayı tamir ettirdim. | I had the air conditioner repaired. |
+| 13 | Bilgisayara yeni program kurdurdum. | I had a new program installed on the computer. |
+| 14 | Sözleşmeyi avukata kontrol ettirdim. | I had the contract checked by a lawyer. |
+| 15 | Resmi internet sitesini tasarlattık. | We had the official website designed. |
+| 16 | Belgeyi İngilizceye çevirttim. | I had the document translated into English. |
+| 17 | Broşürleri bastırdık. | We had the brochures printed. |
+| 18 | Kargoyu adrese gönderdim. | I had the cargo sent to the address. |
+| 19 | Toplantı odasını hazırlattım. | I had the meeting room prepared. |
+| 20 | Sunumu revize ettirdim. | I had the presentation revised. |
+| 21 | Yeni yazılımı test ettirdik. | We had the new software tested. |
+| 22 | Bütçeyi onaylattım. | I had the budget approved. |
+| 23 | İzin formunu imzalattım. | I had the permission form signed. |
+| 24 | Faturaları muhasebeye kontrol ettirdim. | I had the invoices checked by accounting. |
+| 25 | Projeyi dışarıdan bir ekibe yaptırdık. | We had the project done by an external team. |
+| 26 | Elbiselerimi kuru temizlemeye verdim. | I had my clothes dry-cleaned. |
+| 27 | Saati tamir ettirdim. | I had the watch repaired. |
+| 28 | Telefon ekranını değiştirttim. | I had the phone screen replaced. |
+| 29 | Dişlerimi kontrol ettirdim. | I had my teeth checked. |
+| 30 | Gözlerimi muayene ettirdim. | I had my eyes examined. |
+| 31 | Evin önünü süpürttüm. | I had the front of the house swept. |
+| 32 | Bahçeyi düzenlettim. | I had the garden landscaped. |
+| 33 | Arabayı servise çektirdim. | I had the car taken to the service. |
+| 34 | Lastikleri değiştirttim. | I had the tires changed. |
+| 35 | Yağı kontrol ettirdim. | I had the oil checked. |
+| 36 | Her şeyi hallettim. | I had everything taken care of. |
+| 37 | Problem ne zaman düzeltilecek? | When will you have the problem fixed? |
+| 38 | Onu bir an önce halletmelisin. | You should get it done as soon as possible. |
+| 39 | Patron raporu bana yazdırdı. | The boss had me write the report. |
+| 40 | Müdür ekibi geç saate kadar çalıştırdı. | The manager had the team work until late. |
+| 41 | Sana yardım ettireceğim. | I'll have someone help you. |
+| 42 | Ona özür diletmeye çalışma. | Don't try to make him/her apologize. |
+| 43 | Beni güldürdü. | He/She made me laugh. |
+| 44 | Bu film beni ağlattı. | This movie made me cry. |
+| 45 | Patron bana sunumu tekrar yaptırdı. | The boss had me redo the presentation. |
+| 46 | Bana bekleme sebebini açıklattılar. | They made me explain the reason for waiting. |
+| 47 | Müdür yeniden rapor yazdırdı. | The manager had the report rewritten. |
+| 48 | Sorunun köküne inilmesini sağladım. | I had the root of the problem investigated. |
+| 49 | Her şeyin belgelenmesini istedim. | I had everything documented. |
+| 50 | Sonunda istediğimi yaptırdım. | I finally got what I wanted done. |
+
+#### SON 50 (Orta Seviye — get somebody to do / have somebody do)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Tamirciye klimayı tamir ettirdim. | I got the repairman to fix the air conditioner. |
+| 52 | Ona raporu yeniden yazdırdım. | I had him/her rewrite the report. |
+| 53 | Müşteriye sözleşmeyi imzalattım. | I got the client to sign the contract. |
+| 54 | Patron bana dosyaları düzenletti. | The boss had me organize the files. |
+| 55 | İş arkadaşıma sunumumu kontrol ettirdim. | I got my colleague to check my presentation. |
+| 56 | Stajyere fotokopi çektirdim. | I had the intern make photocopies. |
+| 57 | Ona sonunda doğruyu söylettim. | I finally got him/her to tell the truth. |
+| 58 | Onu ikna edip bizimle gelmesini sağladım. | I got him/her to come with us by persuading. |
+| 59 | Çalışanlara ofisi temizlettim. | I had the employees clean the office. |
+| 60 | Grafikeri logoyu yeniden tasarlattım. | I got the graphic designer to redesign the logo. |
+| 61 | Avukata sözleşmeyi incelettim. | I had the lawyer review the contract. |
+| 62 | Sekretere randevularımı ayarlattım. | I had the secretary arrange my appointments. |
+| 63 | Asistana biletleri onaylattım. | I had the assistant confirm the tickets. |
+| 64 | Bana yemek söylettiler. | They made me order food. |
+| 65 | Ona beklemesini söylettim. | I made him/her wait. |
+| 66 | Bana özür dilettiler. | They made me apologize. |
+| 67 | Servise arabayı komple kontrol ettirdim. | I had the service check the car completely. |
+| 68 | Ustayı eve gönderip kombiyi yaktırdım. | I had the repairman come home and start the boiler. |
+| 69 | İnsan Kaynaklarına başvurumu takip ettirdim. | I had Human Resources follow up on my application. |
+| 70 | Sonunda müdüre kararını değiştirttik. | We finally got the manager to change his/her decision. |
+| 71 | Ben olsam bir uzmana danışırdım. | If I were you, I would have a specialist consulted. |
+| 72 | Bu sorunu kendin çözemezsin, çözdürmelisin. | You can't solve this problem yourself; you must have it solved. |
+| 73 | Bazen yardım almak, kendi başına yapmaktan iyidir. | Sometimes getting help is better than doing it yourself. |
+| 74 | Her şeyi ben yapamam, bazılarını yaptırmalıyım. | I can't do everything; I need to have some things done. |
+| 75 | Delege etmeyi öğrenmelisin. | You must learn to delegate. |
+| 76 | İşim çok yoğun, yemeği dışarıdan söylettim. | I'm very busy, I had the food ordered from outside. |
+| 77 | Temizlikçiye evi baştan aşağı temizlettim. | I had the cleaner clean the house from top to bottom. |
+| 78 | Bulaşıkları makineye dizdirdim. | I had the dishes loaded into the machine. |
+| 79 | Çöpleri attırdım. | I had the trash taken out. |
+| 80 | Kargoyu kapıdan teslim aldırdım. | I had the package received at the door. |
+| 81 | Bankaya gidip parayı yatırttım. | I went to the bank and had the money deposited. |
+| 82 | Fatura ödeme işini otomatiğe bağlattım. | I had the bill payment set to automatic. |
+| 83 | Mail ayarlarımı güncellettim. | I had my email settings updated. |
+| 84 | Şifremi sıfırlattım. | I had my password reset. |
+| 85 | Yeni uygulamayı telefona kurdurdum. | I had the new app installed on the phone. |
+| 86 | Toplantı notlarını yazdırdım. | I had the meeting notes written down. |
+| 87 | Dosyaları arşivlettim. | I had the files archived. |
+| 88 | Eski evrakları imha ettirdim. | I had the old documents destroyed. |
+| 89 | Veri tabanını yedeklettim. | I had the database backed up. |
+| 90 | Güvenlik duvarını kontrol ettirdim. | I had the firewall checked. |
+| 91 | Her şeyin yasal olduğundan emin olmak için kontrol ettirdim. | I had it checked to make sure everything was legal. |
+| 92 | Sonuçları beklemeden harekete geçmezdim. | I wouldn't take action without having the results checked. |
+| 93 | Bütün kararlarımı onaylatırım. | I have all my decisions approved. |
+| 94 | Raporu imzalatmadan gönderme. | Don't send the report without having it signed. |
+| 95 | Projeyi teslim ettirmeden önce test ettir. | Have the project tested before delivering it. |
+| 96 | Kendi işini kendin gör, başkasına yaptırma. | Do your own work, don't have someone else do it. |
+| 97 | Ama gerektiğinde yardım almaktan çekinme. | But don't hesitate to get help when needed. |
+| 98 | Profesyonel destek almak bazen en iyi çözümdür. | Getting professional support is sometimes the best solution. |
+| 99 | Bu hafta bir sürü şey hallettirdim. | I had a lot of things taken care of this week. |
+| 100 | 5. haftayı da bitirdim, yarıyı geçtim! | I finished week 5 too, I passed the halfway point! |
+
+### 🎯 GÜN 28 AKTİVİTELERİ
+
+**Sabah (30 dk): "Have you had something done?"**
+- Bugüne kadar yaptırdığın 15 şeyi "I have had..." ile yaz.
+- Örnek: "I have had my car washed. I have had my teeth checked."
+
+**Öğlen (30 dk): İş Yerinde Yaptırmalar**
+- İş yerinde başkasına yaptırdığın 15 görevi "I had someone do..." / "I got someone to do..." ile yaz.
+
+**Akşam (45 dk): "Delegation is Key" Konuşması**
+- 2 dakikalık "Bir yönetici olarak işlerimi nasıl delege ederim?" konuşması.
+- Causative yapıları kullan (have/get something done, have somebody do).
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 29: Relative Clauses (who, which, that, where, whose)
+
+### 🧱 10 Temel Kalıp
+1. I have a colleague who speaks five languages. (Beş dil konuşan bir iş arkadaşım var.)
+2. The report which I wrote was approved. (Yazdığım rapor onaylandı.)
+3. The problem that we faced was difficult. (Karşılaştığımız sorun zordu.)
+4. I work in a company that values teamwork. (Takım çalışmasına değer veren bir şirkette çalışıyorum.)
+5. That's the office where I work. (Burası çalıştığım ofis.)
+6. The person whose idea it was got promoted. (Fikri olan kişi terfi aldı.)
+7. I have a boss who supports me. (Beni destekleyen bir patronum var.)
+8. This is the solution which saved us. (Bizi kurtaran çözüm bu.)
+9. Those are the colleagues who helped me. (Bana yardım eden iş arkadaşları onlar.)
+10. I need someone who can solve problems. (Sorun çözebilen birine ihtiyacım var.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | who | ki o (insan) | The man who helped me. |
+| 2 | which | ki o (nesne/hayvan) | The tool which I use. |
+| 3 | that | ki o (insan/nesne) | The task that I finished. |
+| 4 | where | ki orada (yer) | The office where I work. |
+| 5 | whose | ki onun (sahiplik) | The person whose car I borrowed. |
+| 6 | whom | ki onu (insan-nesne) | The person whom I called. |
+| 7 | colleague | iş arkadaşı | A colleague who supports me. |
+| 8 | boss | patron | A boss who listens. |
+| 9 | client | müşteri | A client who pays well. |
+| 10 | team | takım | A team that works together. |
+| 11 | company | şirket | A company that cares. |
+| 12 | tool | araç | A tool that saves time. |
+| 13 | strategy | strateji | A strategy that works. |
+| 14 | approach | yaklaşım | An approach which is new. |
+| 15 | method | yöntem | A method that produces results. |
+| 16 | deadline | son teslim tarihi | A deadline which is close. |
+| 17 | task | görev | A task that requires focus. |
+| 18 | result | sonuç | A result which pleases me. |
+| 19 | skill | beceri | A skill that is useful. |
+| 20 | opportunity | fırsat | An opportunity that came. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — who/which/that/where)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Beş dil konuşan bir iş arkadaşım var. | I have a colleague who speaks five languages. |
+| 2 | Yazdığım rapor onaylandı. | The report which I wrote was approved. |
+| 3 | Karşılaştığımız sorun zordu. | The problem that we faced was difficult. |
+| 4 | Takım çalışmasına değer veren bir şirkette çalışıyorum. | I work in a company that values teamwork. |
+| 5 | Burası çalıştığım ofis. | That's the office where I work. |
+| 6 | Fikri olan kişi terfi aldı. | The person whose idea it was got promoted. |
+| 7 | Beni destekleyen bir patronum var. | I have a boss who supports me. |
+| 8 | Bizi kurtaran çözüm bu. | This is the solution which saved us. |
+| 9 | Bana yardım eden iş arkadaşları onlar. | Those are the colleagues who helped me. |
+| 10 | Sorun çözebilen birine ihtiyacım var. | I need someone who can solve problems. |
+| 11 | Az önce konuştuğum adam müdürmüş. | The man who I just talked to is the manager. |
+| 12 | Aldığım hediye çok güzeldi. | The gift which I received was very nice. |
+| 13 | Okuduğum kitap çok ilham vericiydi. | The book that I read was very inspiring. |
+| 14 | Büyüdüğüm şehir çok kalabalık. | The city where I grew up is very crowded. |
+| 15 | Arabası çalınan kadın çok üzgündü. | The woman whose car was stolen was very sad. |
+| 16 | Çok sıkı çalışan insanlar başarır. | People who work very hard succeed. |
+| 17 | Bozuk olan bilgisayarı tamir ettirdim. | I had the computer which was broken repaired. |
+| 18 | Dün yaptığımız toplantı çok verimliydi. | The meeting that we had yesterday was very productive. |
+| 19 | Sana bahsettiğim proje iptal oldu. | The project that I told you about was cancelled. |
+| 20 | İlk tanıştığımız günü hatırlıyorum. | I remember the day when/that we first met. |
+| 21 | Sebebini bilmediğim bir şekilde gitti. | He/She left for a reason that I don't know. |
+| 22 | Bana yardım eden herkese teşekkür ederim. | I thank everyone who helped me. |
+| 23 | Bu, şimdiye kadar gördüğüm en iyi çözüm. | This is the best solution that I have ever seen. |
+| 24 | Çalışma arkadaşlarım, ki hepsi çok yetenekli, bana destek oldu. | My colleagues, who are all very talented, supported me. |
+| 25 | İstanbul, ki en büyük şehirdir, iş imkanı sunar. | Istanbul, which is the biggest city, offers job opportunities. |
+| 26 | Müdürün odası, ki en üst kattadır, çok büyük. | The manager's room, which is on the top floor, is very big. |
+| 27 | Yeni gelen çocuk çok çalışkan. | The boy who is new is very hardworking. |
+| 28 | Çözümün bulunduğu dosya masaüstünde. | The file where the solution is found is on the desktop. |
+| 29 | Toplantının yapıldığı salon çok soğuktu. | The hall where the meeting was held was very cold. |
+| 30 | İşe alınma sebebim deneyimimdi. | The reason why I was hired was my experience. |
+| 31 | Bunu neden yaptığını anlamıyorum. | I don't understand the reason why you did this. |
+| 32 | En sevdiğim mevsim, ki yazdır, deniz demektir. | My favorite season, which is summer, means sea. |
+| 33 | Bana inanan insanları hayal kırıklığına uğratmam. | I won't disappoint the people who believe in me. |
+| 34 | Sana anlattığım strateji işe yaradı. | The strategy that I told you about worked. |
+| 35 | Toplantı ertelendi, ki bu çok can sıkıcı. | The meeting was postponed, which is very annoying. |
+| 36 | Şirket, adını duyduğunuz, iflas etti. | The company, whose name you have heard, went bankrupt. |
+| 37 | Bana verdiğiniz görev tamamlandı. | The task which you gave me has been completed. |
+| 38 | İşe alındığım günü asla unutmayacağım. | I will never forget the day when I was hired. |
+| 39 | Yeni açıklanan sonuçlar şaşırtıcı. | The results which were just announced are surprising. |
+| 40 | Aradığımız niteliklere sahip aday sen olabilirsin. | You might be the candidate who has the qualifications we are looking for. |
+| 41 | Bu sorunu çözebilecek tek kişi sensin. | You are the only person who can solve this problem. |
+| 42 | İşinin ehli insanlarla çalışmak istiyorum. | I want to work with people who are good at their job. |
+| 43 | Kendine güvenen insanlar her zaman fark edilir. | People who are confident are always noticed. |
+| 44 | Bana yardım edecek birini arıyorum. | I'm looking for someone who can help me. |
+| 45 | Dün aldığım haber çok sevindiriciydi. | The news that I got yesterday was very pleasing. |
+| 46 | Bu, üzerinde çalıştığım proje. | This is the project that I'm working on. |
+| 47 | Sana verdiğim sözü tuttum. | I kept the promise that I made to you. |
+| 48 | Hayalini kurduğum iş bu. | This is the job that I dreamt of. |
+| 49 | Bugüne kadar karşılaştığım en büyük zorluktu. | It was the biggest challenge that I have ever faced. |
+| 50 | Ve işte çözüm! | And here is the solution! |
+
+#### SON 50 (Orta Seviye — Karmaşık Relative Clauses)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Fikrini beğendiğim kişiyle çalışıyorum. | I work with the person whose idea I liked. |
+| 52 | Sana dün bahsettiğim sorun çözüldü. | The problem that I mentioned to you yesterday has been solved. |
+| 53 | Bana güvenen insanlara teşekkür borçluyum. | I owe a debt of gratitude to the people who trust me. |
+| 54 | Eleştiriye açık olan insanlar gelişir. | People who are open to criticism improve. |
+| 55 | Risk almayı seven insanlar genelde başarılı olur. | People who like taking risks are generally successful. |
+| 56 | Müşteri memnuniyetinin ön planda olduğu bir şirket istiyorum. | I want a company where customer satisfaction is a priority. |
+| 57 | Kazandığımız en büyük başarı, ki bu ekip çalışmasıydı, kutlandı. | The greatest success we achieved, which was teamwork, was celebrated. |
+| 58 | Zirveye ulaşmanın yolu, ki kolay değildir, sabırdan geçer. | The way to reach the top, which is not easy, goes through patience. |
+| 59 | Birlikte çalıştığım en yetenekli insan sensin. | You are the most talented person that I have ever worked with. |
+| 60 | En çok gurur duyduğum şey dürüstlüğümdür. | The thing that I am most proud of is my honesty. |
+| 61 | Hiçbir şey, ki bu çok açık, imkansız değildir. | Nothing, which is very clear, is impossible. |
+| 62 | Bu, adını koyamadığım bir duygu. | This is a feeling that I can't name. |
+| 63 | Nedenini bilmediğim bir şekilde kayboldum. | I got lost for a reason that I don't know. |
+| 64 | Sana en çok yakışan şeyi yap. | Do the thing that suits you best. |
+| 65 | Kararımı etkileyen faktörlerden biri de maaştı. | One of the factors that affected my decision was the salary. |
+| 66 | Hayatta en çok istediğim şey huzur. | The thing that I want most in life is peace. |
+| 67 | Bunu yapabilmenin tek yolu çalışmak. | The only way that you can do this is to work. |
+| 68 | Problemlerin olduğu yerde fırsatlar da vardır. | Where there are problems, there are also opportunities. |
+| 69 | Ne olduğunu bilmediğim şeyden korkmam. | I'm not afraid of what I don't know. |
+| 70 | Her şey, ki buna sen de dahilsin, bir gün güzel olacak. | Everything, which includes you, will be beautiful one day. |
+| 71 | Yardım istemekten çekinen insanları anlamıyorum. | I don't understand people who hesitate to ask for help. |
+| 72 | Sevdikleri işi yapanlar en şanslılardır. | Those who do the job they love are the luckiest. |
+| 73 | Adını hatırlayamadığım kişi beni aradı. | The person whose name I couldn't remember called me. |
+| 74 | Kapısı her zaman açık olan bir patronum var. | I have a boss whose door is always open. |
+| 75 | Sonuçlarına katlandığım bir karar verdim. | I made a decision whose consequences I am bearing. |
+| 76 | Gülümsemesi içimi ısıtan insan nerede? | Where is the person whose smile warms my heart? |
+| 77 | Fikirlerine saygı duyduğum insanlar azdır. | The people whose ideas I respect are few. |
+| 78 | Çoğu insan, ki ben dahil, hata yapmaktan korkar. | Most people, including me, are afraid of making mistakes. |
+| 79 | Ama hatalar öğrenmenin ta kendisidir. | But mistakes are the very thing that learning is. |
+| 80 | Öğrenmenin en hızlı yolu hata yapmaktır, ki bu paradoksaldır. | The fastest way to learn is to make mistakes, which is paradoxical. |
+| 81 | Konfor alanı, ki orası güvenlidir, aslında en tehlikeli yerdir. | The comfort zone, where it is safe, is actually the most dangerous place. |
+| 82 | Konfor alanından çıkanlar, ki cesur insanlardır, kazanır. | Those who step out of their comfort zone, who are brave people, win. |
+| 83 | En büyük başarısızlık, ki bu denememekten daha iyidir, deneyip başaramamaktır. | The greatest failure, which is better than not trying, is trying and failing. |
+| 84 | İngilizce, ki bütün dünyada konuşulur, öğrenmeye değer. | English, which is spoken all over the world, is worth learning. |
+| 85 | Bu plan, ki senin için yazıldı, tam sana göre. | This plan, which was written for you, is just right for you. |
+| 86 | Gramer, ki bazen sıkıcıdır, aslında bir araçtır. | Grammar, which is sometimes boring, is actually a tool. |
+| 87 | Kelimeler, ki yapı taşlarıdır, olmadan konuşamazsın. | You can't speak without words, which are the building blocks. |
+| 88 | Pratik, ki en önemli şeydir, ihmal edilmemelidir. | Practice, which is the most important thing, should not be neglected. |
+| 89 | Bugün 29. gün, ki bu inanılmaz bir sayı. | Today is the 29th day, which is an incredible number. |
+| 90 | 2900 cümle, ki dev bir rakam, arkamda kaldı. | 2900 sentences, which is a giant number, are behind me. |
+| 91 | Bu cümleleri yazan kişi, ki o sensin, harikasın. | The person who is writing these sentences, which is you, is wonderful. |
+| 92 | Her gün biraz daha ilerliyorsun, ki bu harika. | You are progressing a little more every day, which is great. |
+| 93 | En büyük motivasyon kaynağım, ki bu sensin, plana sadık kalman. | My greatest source of motivation, which is you, is sticking to the plan. |
+| 94 | Sonu gelmeyen yokuşun zirvesine yaklaşıyoruz. | We are approaching the top of the endless hill. |
+| 95 | Yarın 30. gün, ki bu 5. haftanın sonu olacak. | Tomorrow is the 30th day, which will be the end of the 5th week. |
+| 96 | Bunu başarmış olmanın verdiği gurur, ki tarifsizdir, seni sarsın. | May the pride of having achieved this, which is indescribable, surround you. |
+| 97 | İleride dönüp baktığında bu günler, ki zordu, gülümseyeceksin. | When you look back in the future, you will smile at these days, which were hard. |
+| 98 | Çünkü pes etmedin, ki en önemlisi budur. | Because you didn't give up, which is the most important thing. |
+| 99 | Ve devam ettin, ki bu yapabileceğinin kanıtıdır. | And you continued, which is proof of what you can do. |
+| 100 | Hikayenin sonu, ki aslında başlangıcıdır, çok güzel olacak. | The end of the story, which is actually the beginning, will be very beautiful. |
+
+### 🎯 GÜN 29 AKTİVİTELERİ
+
+**Sabah (30 dk): Tanımlama Cümleleri**
+- who/which/that/where/whose kullanarak 25 tanımlama cümlesi yaz.
+- Her zamirden 5 cümle.
+
+**Öğlen (30 dk): Birleştirme Pratiği**
+- 15 çift kısa cümleyi relative clause ile birleştir.
+- Örnek: "I have a friend. He speaks English." → "I have a friend who speaks English."
+
+**Akşam (45 dk): "My Work Environment" Konuşması**
+- 2-3 dakikalık "İş yerim ve çalışma arkadaşlarım" konuşması.
+- Bol bol relative clause kullan.
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 30: Reported Speech (Dolaylı Anlatım) & HAFTA 5 FİNAL
+
+### 🧱 10 Temel Kalıp
+1. He said that he had a problem. (Bir sorunu olduğunu söyledi.)
+2. She told me to wait. (Bana beklememi söyledi.)
+3. The boss asked if I had finished. (Patron bitirip bitirmediğimi sordu.)
+4. He said he would help. (Yardım edeceğini söyledi.)
+5. She said she was tired. (Yorgun olduğunu söyledi.)
+6. They asked me what I wanted. (Bana ne istediğimi sordular.)
+7. He told me not to worry. (Endişelenmememi söyledi.)
+8. She said she had solved the problem. (Sorunu çözdüğünü söyledi.)
+9. The manager explained that it was urgent. (Müdür acil olduğunu açıkladı.)
+10. I told them I could do it. (Onlara yapabileceğimi söyledim.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | say | söylemek | He said that... |
+| 2 | tell | anlatmak/söylemek | He told me that... |
+| 3 | ask | sormak | She asked if... |
+| 4 | explain | açıklamak | He explained that... |
+| 5 | mention | bahsetmek | She mentioned that... |
+| 6 | inform | bilgilendirmek | They informed us that... |
+| 7 | announce | duyurmak | He announced that... |
+| 8 | complain | şikayet etmek | She complained that... |
+| 9 | suggest | önermek | He suggested that... |
+| 10 | recommend | tavsiye etmek | She recommended that... |
+| 11 | warn | uyarmak | He warned me not to... |
+| 12 | promise | söz vermek | She promised that... |
+| 13 | agree | kabul etmek | He agreed that... |
+| 14 | deny | inkar etmek | She denied that... |
+| 15 | confirm | onaylamak | He confirmed that... |
+| 16 | apologize | özür dilemek | She apologized for... |
+| 17 | admit | itiraf etmek | He admitted that... |
+| 18 | insist | ısrar etmek | She insisted that... |
+| 19 | wonder | merak etmek | I wondered if... |
+| 20 | advise | tavsiye vermek | He advised me to... |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — Reported Speech)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Bir sorunu olduğunu söyledi. | He said that he had a problem. |
+| 2 | Bana beklememi söyledi. | She told me to wait. |
+| 3 | Patron bitirip bitirmediğimi sordu. | The boss asked if I had finished. |
+| 4 | Yardım edeceğini söyledi. | He said he would help. |
+| 5 | Yorgun olduğunu söyledi. | She said she was tired. |
+| 6 | Bana ne istediğimi sordular. | They asked me what I wanted. |
+| 7 | Endişelenmememi söyledi. | He told me not to worry. |
+| 8 | Sorunu çözdüğünü söyledi. | She said she had solved the problem. |
+| 9 | Müdür acil olduğunu açıkladı. | The manager explained that it was urgent. |
+| 10 | Onlara yapabileceğimi söyledim. | I told them I could do it. |
+| 11 | "Toplantı iptal oldu" dedi. | He said that the meeting was cancelled. |
+| 12 | "Proje gecikti" dedi. | She said that the project was delayed. |
+| 13 | "Müşteri bekliyor" dedi. | She said that the client was waiting. |
+| 14 | "Raporu bitirdim" dedi. | He said that he had finished the report. |
+| 15 | "Dün çok çalıştım" dedi. | He said that he had worked a lot the day before. |
+| 16 | "Yarın geleceğim" dedi. | She said she would come the next day. |
+| 17 | "Burada olacağım" dedi. | He said he would be there. |
+| 18 | "Yardım edeceğim" dedi. | She said she would help. |
+| 19 | Patronun ne dedi? | What did the boss say? |
+| 20 | "Bunu yapabilir misin?" diye sordu. | He asked if I could do it. |
+| 21 | "Toplantıya katılacak mısın?" diye sordu. | She asked if I would attend the meeting. |
+| 22 | "Kahve ister misin?" diye sordu. | He asked if I wanted coffee. |
+| 23 | "Nerede çalışıyorsun?" diye sordu. | She asked me where I worked. |
+| 24 | "Ne zaman başlıyorsun?" diye sordu. | He asked me when I was starting. |
+| 25 | "Neden ayrılmak istiyorsun?" diye sordu. | She asked me why I wanted to leave. |
+| 26 | "Nasıl başardın?" diye sordu. | He asked me how I had succeeded. |
+| 27 | Bana acele etmemi söyledi. | He told me to hurry up. |
+| 28 | Bana geç kalmamamı söyledi. | She told me not to be late. |
+| 29 | Bana dikkatli olmamı söyledi. | He told me to be careful. |
+| 30 | Bana stres yapmamamı söyledi. | She told me not to stress. |
+| 31 | Bana kendime güvenmemi söyledi. | He told me to trust myself. |
+| 32 | Bana devam etmemi söyledi. | She told me to keep going. |
+| 33 | Bana pes etmememi söyledi. | He told me not to give up. |
+| 34 | İngilizce öğrenmemi tavsiye etti. | He advised me to learn English. |
+| 35 | Daha fazla pratik yapmamı önerdi. | She suggested that I practice more. |
+| 36 | Her gün çalışmamı tavsiye etti. | He recommended that I study every day. |
+| 37 | Cahil cesareti olmaması konusunda uyardı. | She warned me not to be overconfident. |
+| 38 | Söz verdi başaracağına. | He promised that he would succeed. |
+| 39 | Kabul etti hatayı yaptığını. | She admitted that she had made the mistake. |
+| 40 | Reddetti sorumluluğu almayı. | He denied taking responsibility. |
+| 41 | Onayladı projenin bittiğini. | She confirmed that the project was finished. |
+| 42 | Şikayet etti maaşının az olduğundan. | He complained that his salary was low. |
+| 43 | Israr etti daha fazla çalışması gerektiğine. | She insisted that he should work more. |
+| 44 | Merak ettim acaba ne oldu diye. | I wondered what had happened. |
+| 45 | Sordum kendime başarabilecek miyim diye. | I asked myself if I could succeed. |
+| 46 | Düşündüm acaba doğru karar mı diye. | I wondered if it was the right decision. |
+| 47 | Dedim ki "yapabilirim". | I said that I could do it. |
+| 48 | Dedim ki "pes etmeyeceğim". | I said that I wouldn't give up. |
+| 49 | Dedim ki "öğreneceğim". | I said that I would learn. |
+| 50 | Ve işte şimdi buradayım. | And here I am now. |
+
+#### SON 50 (Orta Seviye — Karmaşık Reported Speech)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Dün bana işten ayrılacağını söyledi. | Yesterday he told me that he was going to quit his job. |
+| 52 | Ona neden ayrıldığını sordum. | I asked him why he was quitting. |
+| 53 | Bana daha iyi bir teklif aldığını söyledi. | He told me that he had received a better offer. |
+| 54 | Onu tebrik ettim ve başarılar diledim. | I congratulated him and wished him success. |
+| 55 | İnsan Kaynakları maaş zammı olmayacağını duyurdu. | Human Resources announced that there would be no salary increase. |
+| 56 | Herkes çok şaşırdı ve protesto etti. | Everyone was very surprised and protested. |
+| 57 | Müdür durumu açıklayacağını söyledi. | The manager said that he would explain the situation. |
+| 58 | Bize şirketin zor durumda olduğunu açıkladı. | He explained to us that the company was in a difficult situation. |
+| 59 | Ama endişelenmememizi söyledi. | But he told us not to worry. |
+| 60 | Seneye durumun düzeleceğine söz verdi. | He promised that the situation would improve next year. |
+| 61 | Bana proje hakkında ne düşündüğümü sordu. | He asked me what I thought about the project. |
+| 62 | Projenin harika olduğunu ancak riskli olduğunu söyledim. | I said that the project was great but risky. |
+| 63 | Riskleri göze alıp alamayacağını sordu. | He asked if he could take the risks. |
+| 64 | Ona dikkatli olmasını tavsiye ettim. | I advised him to be careful. |
+| 65 | "Acele etme, planlı git" dedim. | I told him not to rush and to go with a plan. |
+| 66 | Dün patron beni odasına çağırdı ve terfi ettiğimi söyledi. | Yesterday the boss called me to his room and told me that I had been promoted. |
+| 67 | "İnanamıyorum!" dedim. | I said that I couldn't believe it. |
+| 68 | "Hak ediyorsun" dedi. | He said that I deserved it. |
+| 69 | Teşekkür ettim ve elinden geleni yapacağıma söz verdim. | I thanked him and promised that I would do my best. |
+| 70 | O da bana güvendiğini söyledi. | He told me that he trusted me. |
+| 71 | Geçen gün bir arkadaşım İngilizce öğrenmek istediğini söyledi. | The other day a friend of mine told me that he/she wanted to learn English. |
+| 72 | Ona bu plandan bahsettim. | I mentioned this plan to him/her. |
+| 73 | Çok etkilendi ve hemen başlamak istedi. | He/She was very impressed and wanted to start immediately. |
+| 74 | Ona sabırlı olmasını ve her gün çalışmasını söyledim. | I told him/her to be patient and to study every day. |
+| 75 | Zor ama imkansız olmadığını anlattım. | I explained that it was hard but not impossible. |
+| 76 | "İstersen sen de yapabilirsin" dedim. | I said, "If you want, you can do it too." |
+| 77 | Gruba yeni bir doküman yüklediğimi haber verdim. | I informed the group that I had uploaded a new document. |
+| 78 | Herkesin okumasını ve yorum yapmasını rica ettim. | I requested that everyone read it and comment. |
+| 79 | Birisi düzeltme önerdi. | Someone suggested making a correction. |
+| 80 | Öneriyi kabul ettim ve değiştirdim. | I accepted the suggestion and changed it. |
+| 81 | Düşündüm ki belki de hata yapıyorum. | I thought that maybe I was making a mistake. |
+| 82 | Ama sonra kendime güvenmem gerektiğini hatırladım. | But then I remembered that I needed to trust myself. |
+| 83 | Annem her zaman "Oku, öğren, geliş" der. | My mother always says, "Read, learn, improve." |
+| 84 | Babam "Dürüst ol, çalış, kazan" derdi. | My father used to say, "Be honest, work, earn." |
+| 85 | Dedem "Hayatta en önemli şey huzurdur" derdi. | My grandfather used to say, "The most important thing in life is peace." |
+| 86 | Şimdi ben de aynı şeyleri söylüyorum. | Now I am saying the same things. |
+| 87 | Onların tavsiyelerini dinlediğim için çok mutluyum. | I am very happy that I listened to their advice. |
+| 88 | Bana İngilizce öğrenmemi söyleyen kimdi hatırlamıyorum. | I don't remember who told me to learn English. |
+| 89 | Ama iyi ki dinlemişim. | But I'm glad I listened. |
+| 90 | Şimdi size söylüyorum: Bu plana devam edin. | Now I'm telling you: Continue with this plan. |
+| 91 | Kendinize inanın, başaracaksınız. | Believe in yourself, you will succeed. |
+| 92 | Ben de size katılıyorum. | I agree with you too. |
+| 93 | Size tavsiyem asla vazgeçmemeniz. | My advice to you is to never give up. |
+| 94 | Size söz veriyorum, emeklerinizin karşılığını alacaksınız. | I promise you, you will reap the rewards of your efforts. |
+| 95 | Geçmişte bana keşke daha erken başlasaydım dedirten ne çok şey vardı. | There were so many things in the past that made me say I wish I had started earlier. |
+| 96 | Ama artık "keşke" yok, "iyi ki" var. | But there is no "I wish" anymore, there is "I'm glad." |
+| 97 | Bugün kendime aynaya baktım ve dedim ki: "Aferin sana!" | Today I looked in the mirror and said: "Well done!" |
+| 98 | Kendime 5 haftayı bitireceğime dair söz verdim. | I promised myself that I would finish 5 weeks. |
+| 99 | Ve işte buradayım, 3000. cümleyi yazıyorum. | And here I am, writing the 3000th sentence. |
+| 100 | Ne hissettiğimi sorsan, "tarif edilemez" derim. | If you ask me how I feel, I'd say "indescribable." |
+
+### 🎯 GÜN 30 AKTİVİTELERİ — HAFTA 5 FİNAL
+
+**Sabah (30 dk): Aktarım Pratiği**
+- Doğrudan konuşma (direct speech) 15 cümle yaz.
+- Onları dolaylı anlatıma (reported speech) çevir.
+- Örnek: "I am tired." → She said she was tired.
+
+**Öğlen (30 dk): Hafta 5 Genel Tekrar**
+- 6 günde öğrendiğin tüm gramer konularını gözden geçir.
+- Her konudan 5 örnek cümle yaz (toplam 30 cümle).
+
+**Akşam (45 dk): Büyük Final — Tüm Haftayı Kapsayan Konuşma**
+- 3-4 dakikalık "Karşılaştığım bir problemi ve çözüm sürecini baştan sona anlatma" konuşması yap.
+- Bu haftanın tüm yapılarını kullan:
+  - If Clause Type 1 & 2
+  - Passive Voice
+  - Causatives
+  - Relative Clauses
+  - Reported Speech
+- Ses kaydı al ve ilk haftalarla karşılaştır. B1 SEVİYESİNE HOŞ GELDİN! 🎉
+
+---
+
+## 📊 HAFTA 5 — 6 GÜNLÜK ÖZET TABLO
+
+| Gün | Gramer Odağı | Toplam Cümle | Ana Aktivite |
+|:---|:---|:---|:---|
+| 25 | Conditional Type 0 & 1 | ✅ 50+50 | "If I Face a Problem" Konuşması |
+| 26 | Conditional Type 2 & I wish | ✅ 50+50 | "What If?" Konuşması |
+| 27 | Passive Voice | ✅ 50+50 | "A Crisis Story" Konuşması |
+| 28 | Causatives (have/get done) | ✅ 50+50 | "Delegation is Key" Konuşması |
+| 29 | Relative Clauses | ✅ 50+50 | "My Work Environment" Konuşması |
+| 30 | Reported Speech + Tekrar | ✅ 50+50 | Final Değerlendirme Konuşması |
+
+---
+
+## 📈 30 GÜNLÜK GENEL İLERLEME
+
+| Gramer Konusu | Durum |
+|:---|:---:|
+| Tüm A1-A2 Konuları | ✅ Tamam |
+| Tüm B1 Geçiş Konuları | ✅ Tamam |
+| **Conditionals Type 0,1,2** | ✅ Tamam |
+| **Passive Voice** | ✅ Tamam |
+| **Causatives** | ✅ Tamam |
+| **Relative Clauses** | ✅ Tamam |
+| **Reported Speech** | ✅ Tamam |
+| **Toplam Cümle Pratiği** | **3000 cümle** |
+| **Toplam Kelime** | **600 kelime** |
+
+---
+
+İşte bu! 5 hafta, 30 gün, tam **3000 cümle** ve **600 hedef kelime**!
+
+Artık:
+- ✅ Koşullu cümleler kurabiliyorsun
+- ✅ Edilgen yapıları kullanabiliyorsun
+- ✅ İşleri başkasına yaptırma ifadelerini biliyorsun
+- ✅ Karmaşık tanımlama cümleleri yazabiliyorsun
+- ✅ Dolaylı anlatım yapabiliyorsun
+
+Devam edelim mi? Sırada **Hafta 6 — Sağlık & Yaşam Dengesi** var! 🧘

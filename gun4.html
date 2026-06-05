@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gün 4 - Infinitive of Purpose (Amaç Bildirme — to + V1)</title>
+<style>
+:root {
+    --bg-color: #FAFAFA;
+    --text-color: #333;
+    --heading-color: #2C3E50;
+    --primary-color: #3498DB;
+    --primary-hover: #2980B9;
+    --card-bg: #FFFFFF;
+    --shadow: 0 2px 12px rgba(0,0,0,0.08);
+    --border-radius: 12px;
+}
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #f0f0f0;
+    --heading-color: #e0e0e0;
+    --primary-color: #3498DB;
+    --card-bg: #2d2d2d;
+    --shadow: 0 2px 12px rgba(0,0,0,0.3);
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+.container {
+    max-width: 750px;
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+h1, h2, h3 {
+    color: var(--heading-color);
+}
+.theme-toggle {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: var(--text-color);
+}
+.tabs {
+    display: flex;
+    overflow-x: auto;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+}
+.tab {
+    padding: 10px 15px;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    font-weight: bold;
+    color: #777;
+    white-space: nowrap;
+}
+.tab.active {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+}
+.progress-container {
+    height: 4px;
+    background: #ddd;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.progress-bar {
+    height: 100%;
+    background: var(--primary-color);
+    width: 20%;
+    transition: width 0.3s;
+}
+.tab-content {
+    display: none;
+}
+.tab-content.active {
+    display: block;
+    animation: fadeIn 0.3s;
+}
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+.card {
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    padding: 20px;
+    margin-bottom: 15px;
+}
+button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+button:hover {
+    background-color: var(--primary-hover);
+}
+button.success { background-color: #2ECC71; }
+button.success:hover { background-color: #27AE60; }
+button.warning { background-color: #E67E22; }
+button.warning:hover { background-color: #D35400; }
+button.icon-btn {
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+.grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+@media (max-width: 600px) {
+    .grid-2 { grid-template-columns: 1fr; }
+}
+.hidden { display: none !important; }
+.sentence-card {
+    text-align: center;
+    padding: 40px 20px;
+}
+.tr-sentence {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.en-sentence {
+    font-size: 20px;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+    min-height: 30px;
+}
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.milestone {
+    text-align: center;
+    font-size: 24px;
+    color: var(--primary-color);
+    margin: 30px 0;
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h2>Gün 4: Infinitive of Purpose (Amaç Bildirme — to + V1)</h2>
+        <button class="theme-toggle" id="themeToggle" title="Tema Değiştir">🌙</button>
+    </header>
+
+    <div class="tabs">
+        <div class="tab active" data-target="gramer">📘 Gramer</div>
+        <div class="tab" data-target="kelimeler">📝 Kelimeler</div>
+        <div class="tab" data-target="kaliplar">💬 Kalıplar</div>
+        <div class="tab" data-target="cumleler">✍️ Cümleler</div>
+        <div class="tab" data-target="aktivite">✅ Aktivite</div>
+    </div>
+    
+    <div class="progress-container">
+        <div class="progress-bar" id="tabProgress" style="width: 20%;"></div>
+    </div>
+
+    <!-- 1. GRAMER -->
+    <div id="gramer" class="tab-content active">
+        <div class="card">
+            <h3>Gramer Konusu: Infinitive of Purpose (Amaç Bildirme — to + V1)</h3>
+            <p>Aşağıda bu günün temel kalıpları ve örnekleri yer almaktadır.</p>
+            <ul>
+                <li><strong>Egzersiz yapmak için erken uyanırım.</strong> <br> <span style='color: var(--primary-color);'>I wake up early to exercise.</span></li>
+            </ul>
+            <div style="margin-top: 20px;">
+                <button onclick="switchTab(1)">Anladım, Devam Et →</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. KELİMELER -->
+    <div id="kelimeler" class="tab-content">
+        <div style="margin-bottom: 15px;">
+            <button onclick="toggleAllWords()">Türkçesini Göster/Gizle</button>
+        </div>
+        <div class="grid-2">
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>improve</strong>
+                    <button class="icon-btn" onclick="speak(`improve`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">geliştirmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>stay</strong>
+                    <button class="icon-btn" onclick="speak(`stay`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">kalmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>feel</strong>
+                    <button class="icon-btn" onclick="speak(`feel`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">hissetmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>save</strong>
+                    <button class="icon-btn" onclick="speak(`save`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">biriktirmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>learn</strong>
+                    <button class="icon-btn" onclick="speak(`learn`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">öğrenmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>earn</strong>
+                    <button class="icon-btn" onclick="speak(`earn`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">kazanmak (para)</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>avoid</strong>
+                    <button class="icon-btn" onclick="speak(`avoid`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">kaçınmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>relax</strong>
+                    <button class="icon-btn" onclick="speak(`relax`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">rahatlamak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>achieve</strong>
+                    <button class="icon-btn" onclick="speak(`achieve`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">başarmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>reach</strong>
+                    <button class="icon-btn" onclick="speak(`reach`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">ulaşmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>reduce</strong>
+                    <button class="icon-btn" onclick="speak(`reduce`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">azaltmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>increase</strong>
+                    <button class="icon-btn" onclick="speak(`increase`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">artırmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>maintain</strong>
+                    <button class="icon-btn" onclick="speak(`maintain`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">sürdürmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>build</strong>
+                    <button class="icon-btn" onclick="speak(`build`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">inşa etmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>lose</strong>
+                    <button class="icon-btn" onclick="speak(`lose`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">kaybetmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>gain</strong>
+                    <button class="icon-btn" onclick="speak(`gain`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">kazanmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>boost</strong>
+                    <button class="icon-btn" onclick="speak(`boost`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">yükseltmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>prepare</strong>
+                    <button class="icon-btn" onclick="speak(`prepare`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">hazırlanmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>prevent</strong>
+                    <button class="icon-btn" onclick="speak(`prevent`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">önlemek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>connect</strong>
+                    <button class="icon-btn" onclick="speak(`connect`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">bağlanmak</div>
+            </div>
+        </div>
+        <div style="margin-top: 20px;">
+            <button onclick="switchTab(2)">Kelimeleri Öğrendim →</button>
+        </div>
+    </div>
+
+    <!-- 3. KALIPLAR -->
+    <div id="kaliplar" class="tab-content">
+        <div class="grid-2">
+            <div class="card pattern-card">
+                <h3 style="margin-top: 0;">Egzersiz yapmak için erken uyanırım.</h3>
+                <div class="pattern-en hidden" style="color: var(--primary-color); margin-bottom: 10px;">I wake up early to exercise.</div>
+                <div style="display: flex; gap: 10px;">
+                    <button onclick="togglePattern(this)">Göster/Gizle</button>
+                    <button class="icon-btn" onclick="speak(`I wake up early to exercise.`)">🔊</button>
+                </div>
+            </div>
+        </div>
+        <div style="margin-top: 20px;">
+            <button onclick="switchTab(3)">Kalıpları Öğrendim →</button>
+        </div>
+    </div>
+
+    <!-- 4. CÜMLELER -->
+    <div id="cumleler" class="tab-content">
+        <div class="card sentence-card" id="sentenceContainer">
+            <div style="text-align: left; margin-bottom: 10px; font-weight: bold;">Cümle <span id="sIndex">1</span> / <span id="sTotal">100</span></div>
+            <div class="progress-container" style="height: 6px;">
+                <div class="progress-bar" id="sentenceProgress" style="width: 1%;"></div>
+            </div>
+            
+            <div id="milestoneMsg" class="milestone hidden"></div>
+
+            <div id="sentenceStudyArea">
+                <div class="tr-sentence" id="trSentence">Türkçe cümle burada</div>
+                <div class="en-sentence hidden" id="enSentence">English sentence here</div>
+                
+                <button id="showAnswerBtn" onclick="showAnswer()">Cevabı Göster</button>
+                
+                <div class="action-buttons hidden" id="answerBtns">
+                    <button class="success" onclick="nextSentence(true)">✅ Doğru Bildim</button>
+                    <button class="warning" onclick="nextSentence(false)">🔄 Tekrar Et</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3 style="cursor: pointer; margin: 0;" onclick="toggleWrongList()">Tekrar Listesi (<span id="wrongCount">0</span> cümle) 🔽</h3>
+            <div id="wrongListContainer" class="hidden" style="margin-top: 15px;">
+                <ul id="wrongList"></ul>
+                <button onclick="startWrongListReview()" id="reviewBtn" class="hidden" style="margin-top: 10px;">Tümünü Tekrar Et</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 5. AKTİVİTE -->
+    <div id="aktivite" class="tab-content">
+        <div class="card">
+            <h3>Günün Aktivitesi</h3>
+            <div style="line-height: 1.6; margin-bottom: 20px;">
+                **Sabah (30 dk): Nedenler Zinciri**<br>- Gün içinde yaptığın 15 şeyi listele.<br>- Her birine "Neden?" sor ve "to" ile cevap ver.<br>- Örnek: "I wake up at 7." → "Why?" → "I wake up at 7 to have time for breakfast."<br><br>**Öğlen (30 dk): Birleştirme Pratiği**<br>- 25 kısa cümleyi "to" veya "in order to" ile birleştir.<br>- Örnek: "I save money." + "I want to buy a house." → "I save money to buy a house."<br><br>**Akşam (45 dk): Niyet Mektubu**<br>- "Why I want to improve my English" konulu 150 kelimelik kısa bir niyet mektubu yaz.<br>- En az 10 tane "to/in order to/so as to" yapısı kullan.<br>- Yazdığını sesli kaydet ve dinle.
+            </div>
+            <label style="display: flex; align-items: center; cursor: pointer; font-size: 18px;">
+                <input type="checkbox" style="width: 20px; height: 20px; margin-right: 10px;">
+                Tamamladım ✅
+            </label>
+        </div>
+        
+        <div class="card" style="text-align: center; font-style: italic; color: var(--primary-color);">
+            "Success is the sum of small efforts, repeated day in and day out."
+        </div>
+    </div>
+</div>
+
+<script>
+    // Data
+    const sentences = [{"tr": "Erken uyanırım ki egzersiz yapabileyim.", "en": "I wake up early to exercise."}, {"tr": "Sağlıklı kalmak için spor yaparım.", "en": "I exercise to stay healthy."}, {"tr": "Para kazanmak için çalışırım.", "en": "I work to earn money."}, {"tr": "Kilo vermek için diyet yaparım.", "en": "I diet to lose weight."}, {"tr": "İngilizce öğrenmek için kursa giderim.", "en": "I go to a course to learn English."}, {"tr": "Rahatlamak için müzik dinlerim.", "en": "I listen to music to relax."}, {"tr": "Formda kalmak için koşarım.", "en": "I run to stay fit."}, {"tr": "Susuzluğumu gidermek için su içerim.", "en": "I drink water to quench my thirst."}, {"tr": "Enerjik hissetmek için kahvaltı yaparım.", "en": "I have breakfast to feel energetic."}, {"tr": "Araba almak için para biriktiririm.", "en": "I save money to buy a car."}, {"tr": "Haberleri öğrenmek için gazete okurum.", "en": "I read the newspaper to learn the news."}, {"tr": "Dinlenmek için mola veririm.", "en": "I take a break to rest."}, {"tr": "Temiz hava almak için dışarı çıkarım.", "en": "I go outside to get fresh air."}, {"tr": "Ailemi görmek için memlekete giderim.", "en": "I go to my hometown to see my family."}, {"tr": "Uyanık kalmak için kahve içerim.", "en": "I drink coffee to stay awake."}, {"tr": "Daha iyi uyumak için erken yatarım.", "en": "I go to bed early to sleep better."}, {"tr": "Yeni şeyler öğrenmek için kitap okurum.", "en": "I read books to learn new things."}, {"tr": "Stresi azaltmak için meditasyon yaparım.", "en": "I meditate to reduce stress."}, {"tr": "Daha güçlü olmak için ağırlık kaldırırım.", "en": "I lift weights to get stronger."}, {"tr": "Trafikten kaçınmak için erken çıkarım.", "en": "I leave early to avoid traffic."}, {"tr": "Yemek yapmayı öğrenmek için video izlerim.", "en": "I watch videos to learn cooking."}, {"tr": "Hatalarımı düzeltmek için tekrar ederim.", "en": "I repeat to correct my mistakes."}, {"tr": "Özgeçmişimi güncellemek için zaman ayırırım.", "en": "I make time to update my CV."}, {"tr": "Arkadaşlarımla sohbet etmek için ararım.", "en": "I call to chat with my friends."}, {"tr": "Odaklanmak için telefonumu kapatırım.", "en": "I turn off my phone to focus."}, {"tr": "Tok hissetmek için çok su içerim.", "en": "I drink a lot of water to feel full."}, {"tr": "Yeni bir dil öğrenmek için uygulama kullanırım.", "en": "I use an app to learn a new language."}, {"tr": "Daha iyi hissetmek için yürürüm.", "en": "I walk to feel better."}, {"tr": "Motivasyon bulmak için podcast dinlerim.", "en": "I listen to podcasts to find motivation."}, {"tr": "Fikir almak için arkadaşıma sorarım.", "en": "I ask my friend to get an idea."}, {"tr": "İş bulmak için Linkedin kullanırım.", "en": "I use LinkedIn to find a job."}, {"tr": "Uyku kalitemi artırmak için bitki çayı içerim.", "en": "I drink herbal tea to improve my sleep quality."}, {"tr": "Sakinleşmek için derin nefes alırım.", "en": "I take deep breaths to calm down."}, {"tr": "Kilo kontrolü için yediklerimi yazarım.", "en": "I write what I eat to control my weight."}, {"tr": "Zaman kazanmak için online alışveriş yaparım.", "en": "I shop online to save time."}, {"tr": "Yeni insanlarla tanışmak için etkinliklere katılırım.", "en": "I attend events to meet new people."}, {"tr": "Kendimi ödüllendirmek için tatlı yerim.", "en": "I eat dessert to reward myself."}, {"tr": "Hafızamı güçlendirmek için bulmaca çözerim.", "en": "I solve puzzles to strengthen my memory."}, {"tr": "Daha üretken olmak için plan yaparım.", "en": "I plan to be more productive."}, {"tr": "Yeteneklerimi göstermek için portfolyo hazırlarım.", "en": "I prepare a portfolio to show my skills."}, {"tr": "Terfi almak için çok çalışırım.", "en": "I work hard to get a promotion."}, {"tr": "Yorgunluğu atmak için duş alırım.", "en": "I take a shower to refresh."}, {"tr": "Eğlenmek için film izlerim.", "en": "I watch movies to have fun."}, {"tr": "İlham almak için doğada yürürüm.", "en": "I walk in nature to get inspiration."}, {"tr": "Güvende olmak için emniyet kemeri takarım.", "en": "I wear a seatbelt to be safe."}, {"tr": "Ders çalışmak için kütüphaneye giderim.", "en": "I go to the library to study."}, {"tr": "Sessizlik olması için kapıyı kapatırım.", "en": "I close the door to have silence."}, {"tr": "Anlamak için tekrar sorarım.", "en": "I ask again to understand."}, {"tr": "Mutlu olmak için küçük şeylerle yetinirim.", "en": "I am content with little things to be happy."}, {"tr": "Hatırlatmak için not alırım.", "en": "I take notes to remember."}, {"tr": "Daha iyi bir hayat yaşamak amacıyla çok çalışırım.", "en": "I work hard in order to live a better life."}, {"tr": "Geç kalmamak için alarmı iki kez kurarım.", "en": "I set two alarms so as not to be late."}, {"tr": "Kendimi yormamak için düzenli molalar veririm.", "en": "I take regular breaks in order not to tire myself."}, {"tr": "Sınavı geçmek amacıyla her gün çalışıyorum.", "en": "I study every day in order to pass the exam."}, {"tr": "Yanlış anlaşılmamak için yavaş konuşurum.", "en": "I speak slowly so as not to be misunderstood."}, {"tr": "Daha verimli çalışmak amacıyla masamı düzenlerim.", "en": "I organize my desk in order to work more efficiently."}, {"tr": "Enerjimi korumak için gün içinde kısa şekerlemeler yaparım.", "en": "I take short naps during the day to conserve my energy."}, {"tr": "Motivasyonumu yüksek tutmak için hedeflerimi duvara asarım.", "en": "I hang my goals on the wall to keep my motivation high."}, {"tr": "Sağlıklı yemekler yapmayı öğrenmek amacıyla bir kursa yazıldım.", "en": "I signed up for a course in order to learn to cook healthy meals."}, {"tr": "Yabancı dil pratiği yapmak için dil değişim uygulaması kullanırım.", "en": "I use a language exchange app to practice foreign languages."}, {"tr": "Uyku düzenimi iyileştirmek için her gece aynı saatte yatarım.", "en": "I go to bed at the same time every night in order to improve my sleep schedule."}, {"tr": "Stres seviyemi kontrol etmek için günlük tutarım.", "en": "I keep a diary to control my stress level."}, {"tr": "Zamanımı boşa harcamamak için bir ajanda kullanırım.", "en": "I use a planner so as not to waste my time."}, {"tr": "Bilgilerimi taze tutmak için hafta sonları tekrar yaparım.", "en": "I review on weekends to keep my knowledge fresh."}, {"tr": "Patronumu etkilemek amacıyla sunuma ekstra çalıştım.", "en": "I worked extra on the presentation in order to impress my boss."}, {"tr": "Daha sağlıklı olayım diye şekeri bıraktım.", "en": "I quit sugar to be healthier."}, {"tr": "İş görüşmesinde iyi bir izlenim bırakmak için takım elbise giydim.", "en": "I wore a suit to make a good impression at the job interview."}, {"tr": "Daha hızlı yazabilmek için on parmak öğreniyorum.", "en": "I am learning touch typing to be able to type faster."}, {"tr": "Dünyayı gezmek için para biriktiriyorum.", "en": "I am saving money in order to travel the world."}, {"tr": "Yaşlanınca rahat etmek için emeklilik fonu oluşturuyorum.", "en": "I am building a retirement fund to be comfortable when I get old."}, {"tr": "Daha iyi iletişim kurmak amacıyla aktif dinleme pratiği yaparım.", "en": "I practice active listening in order to communicate better."}, {"tr": "Hasta olmamak için ellerimi sık sık yıkarım.", "en": "I wash my hands frequently so as not to get sick."}, {"tr": "İş-yaşam dengesi kurabilmek için hafta sonları çalışmıyorum.", "en": "I don't work on weekends in order to maintain work-life balance."}, {"tr": "Kariyerimde ilerlemek amacıyla bir mentör buldum.", "en": "I found a mentor in order to advance in my career."}, {"tr": "Yaratıcılığımı artırmak için hobiler edinirim.", "en": "I take up hobbies to boost my creativity."}, {"tr": "Proje teslim tarihine yetişmek için bu hafta fazla mesai yapıyorum.", "en": "I am doing overtime this week to meet the project deadline."}, {"tr": "Yorgunluğu azaltmak için magnezyum takviyesi alırım.", "en": "I take magnesium supplements to reduce fatigue."}, {"tr": "Kelime haznemi genişletmek için her gün 20 kelime ezberlerim.", "en": "I memorize 20 words every day to expand my vocabulary."}, {"tr": "Sosyal becerilerimi geliştirmek için gönüllü çalışmalara katılırım.", "en": "I join volunteer work to improve my social skills."}, {"tr": "Kendi işimi kurmak amacıyla girişimcilik eğitimi alıyorum.", "en": "I am taking entrepreneurship training in order to start my own business."}, {"tr": "Pişman olmamak için her kararı dikkatle düşünürüm.", "en": "I think carefully about every decision so as not to regret it."}, {"tr": "İngilizceyi akıcı konuşabilmek için gölgeleme tekniği uygularım.", "en": "I practice the shadowing technique to be able to speak English fluently."}, {"tr": "Sabahları daha zinde olmak için akşamdan kahvaltımı hazırlarım.", "en": "I prepare my breakfast the night before to feel more energetic in the morning."}, {"tr": "Para israf etmemek için aylık bütçe yaparım.", "en": "I make a monthly budget so as not to waste money."}, {"tr": "Anılarımı canlı tutmak için fotoğraf albümü yaparım.", "en": "I make photo albums to keep my memories alive."}, {"tr": "Daha iyi bir ebeveyn olmak için kitap okurum.", "en": "I read books to be a better parent."}, {"tr": "Gürültüyü engellemek amacıyla gürültü önleyici kulaklık takarım.", "en": "I wear noise-canceling headphones in order to block out noise."}, {"tr": "Duruşumu düzeltmek için her gün esneme hareketleri yaparım.", "en": "I do stretches every day to fix my posture."}, {"tr": "Kendime güvenimi artırmak için küçük hedefler koyarım.", "en": "I set small goals to increase my self-confidence."}, {"tr": "Daha az ekrana bakmak için kitap okuma alışkanlığı edindim.", "en": "I developed a reading habit to look at screens less."}, {"tr": "Şehirden uzaklaşmak için hafta sonu doğa yürüyüşüne çıkarım.", "en": "I go hiking on weekends to get away from the city."}, {"tr": "Hayallerimi gerçekleştirmek için her gün bir adım atarım.", "en": "I take a step every day to realize my dreams."}, {"tr": "Kalabalıkta kaybolmamak için telefonumu açık tutarım.", "en": "I keep my phone on so as not to get lost in the crowd."}, {"tr": "Düşüncelerimi netleştirmek için yürüyüş yaparım.", "en": "I take a walk to clear my thoughts."}, {"tr": "İyi görünmek amacıyla spor salonuna giderim.", "en": "I go to the gym in order to look good."}, {"tr": "Kendimi geliştirmek için her ay bir kitap bitiririm.", "en": "I finish one book every month to improve myself."}, {"tr": "Yarın dinç uyanabilmek için bu gece erken yatacağım.", "en": "I will go to bed early tonight to be able to wake up fresh tomorrow."}, {"tr": "İşleri yetiştirebilmek için önceliklere göre sıralarım.", "en": "I prioritize my tasks in order to get things done."}, {"tr": "Daha mutlu olmak için şükür günlüğü tutuyorum.", "en": "I keep a gratitude journal to be happier."}, {"tr": "Hayattan keyif almak için anı yaşamaya çalışırım.", "en": "I try to live in the moment to enjoy life."}];
+    
+    // Theme logic
+    const themeToggle = document.getElementById('themeToggle');
+    let isDark = false;
+    themeToggle.addEventListener('click', () => {
+        isDark = !isDark;
+        document.body.setAttribute('data-theme', isDark ? 'dark' : 'light');
+        themeToggle.textContent = isDark ? '☀️' : '🌙';
+    });
+
+    // Tab logic
+    const tabs = document.querySelectorAll('.tab');
+    const tabContents = document.querySelectorAll('.tab-content');
+    const tabProgress = document.getElementById('tabProgress');
+    
+    function switchTab(index) {
+        tabs.forEach(t => t.classList.remove('active'));
+        tabContents.forEach(c => c.classList.remove('active'));
+        tabs[index].classList.add('active');
+        const target = tabs[index].getAttribute('data-target');
+        document.getElementById(target).classList.add('active');
+        tabProgress.style.width = ((index + 1) / tabs.length * 100) + '%';
+        window.scrollTo(0,0);
+    }
+
+    tabs.forEach((tab, index) => {
+        tab.addEventListener('click', () => switchTab(index));
+    });
+
+    // Words logic
+    let wordsVisible = false;
+    function toggleAllWords() {
+        wordsVisible = !wordsVisible;
+        document.querySelectorAll('.word-tr').forEach(el => {
+            if(wordsVisible) el.classList.remove('hidden');
+            else el.classList.add('hidden');
+        });
+    }
+
+    // Patterns logic
+    function togglePattern(btn) {
+        const enDiv = btn.parentElement.parentElement.querySelector('.pattern-en');
+        enDiv.classList.toggle('hidden');
+    }
+
+    // TTS
+    function speak(text) {
+        if ('speechSynthesis' in window) {
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'en-US';
+            window.speechSynthesis.speak(utterance);
+        }
+    }
+
+    // Sentences logic
+    let currentIndex = 0;
+    let wrongSentences = [];
+    let isReviewMode = false;
+    let currentList = sentences;
+
+    const trEl = document.getElementById('trSentence');
+    const enEl = document.getElementById('enSentence');
+    const showBtn = document.getElementById('showAnswerBtn');
+    const ansBtns = document.getElementById('answerBtns');
+    const sIndexEl = document.getElementById('sIndex');
+    const sTotalEl = document.getElementById('sTotal');
+    const sProgEl = document.getElementById('sentenceProgress');
+    const studyArea = document.getElementById('sentenceStudyArea');
+    const milestoneMsg = document.getElementById('milestoneMsg');
+
+    function loadSentence() {
+        if (currentIndex >= currentList.length) {
+            studyArea.classList.add('hidden');
+            milestoneMsg.classList.remove('hidden');
+            milestoneMsg.innerHTML = isReviewMode ? "Tekrar tamamlandı! 🎉<br><br><button onclick='location.reload()'>Başa Dön</button>" : "Tüm cümleler tamamlandı! 🎉";
+            return;
+        }
+        
+        studyArea.classList.remove('hidden');
+        milestoneMsg.classList.add('hidden');
+        
+        trEl.textContent = currentList[currentIndex].tr;
+        enEl.textContent = currentList[currentIndex].en;
+        enEl.classList.add('hidden');
+        showBtn.classList.remove('hidden');
+        ansBtns.classList.add('hidden');
+        
+        sIndexEl.textContent = currentIndex + 1;
+        sTotalEl.textContent = currentList.length;
+        sProgEl.style.width = ((currentIndex + 1) / currentList.length * 100) + '%';
+    }
+
+    function showAnswer() {
+        enEl.classList.remove('hidden');
+        showBtn.classList.add('hidden');
+        ansBtns.classList.remove('hidden');
+        speak(currentList[currentIndex].en);
+    }
+
+    function nextSentence(knewIt) {
+        if (!knewIt) {
+            if (!isReviewMode) {
+                wrongSentences.push(currentList[currentIndex]);
+                updateWrongListUI();
+            } else {
+                wrongSentences.push(currentList[currentIndex]);
+            }
+        }
+
+        currentIndex++;
+        
+        if (!isReviewMode && currentIndex > 0) {
+            if (currentIndex === 50) {
+                showMilestone("Yarı yoldasın! 🎯");
+                return;
+            } else if (currentIndex % 10 === 0 && currentIndex !== currentList.length && currentIndex !== 50) {
+                showMilestone(currentIndex + " cümle tamamlandı! ☕");
+                return;
+            }
+        }
+        
+        loadSentence();
+    }
+    
+    function showMilestone(msg) {
+        studyArea.classList.add('hidden');
+        milestoneMsg.classList.remove('hidden');
+        milestoneMsg.innerHTML = msg + '<br><br><button onclick="loadSentence()">Devam Et</button>';
+    }
+
+    function updateWrongListUI() {
+        document.getElementById('wrongCount').textContent = wrongSentences.length;
+        const ul = document.getElementById('wrongList');
+        ul.innerHTML = '';
+        wrongSentences.forEach((s) => {
+            const li = document.createElement('li');
+            li.textContent = s.tr + " - " + s.en;
+            li.style.marginBottom = "5px";
+            ul.appendChild(li);
+        });
+        if(wrongSentences.length > 0) document.getElementById('reviewBtn').classList.remove('hidden');
+    }
+
+    function toggleWrongList() {
+        document.getElementById('wrongListContainer').classList.toggle('hidden');
+    }
+    
+    function startWrongListReview() {
+        if(wrongSentences.length === 0) return;
+        isReviewMode = true;
+        currentList = [...wrongSentences];
+        wrongSentences = []; 
+        updateWrongListUI();
+        currentIndex = 0;
+        document.getElementById('wrongListContainer').classList.add('hidden');
+        loadSentence();
+    }
+
+    loadSentence();
+</script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+Aşağıdaki özelliklere sahip, İngilizce çalışmak için TEK BİR HTML dosyası oluştur. Sadece HTML, CSS ve JS kodunu ver. Açıklama yapma.
+
+## TASARIM
+- Açık tema: Arka plan beyaz (#FAFAFA), kartlar beyaz gölgeli
+- Başlık rengi: Koyu lacivert (#2C3E50)
+- Vurgu rengi: Yumuşak mavi (#3498DB) - butonlar ve aktif sekmeler
+- Buton hover: Koyu mavi (#2980B9)
+- Font: System font stack (hızlı yüklenir, modern)
+- Kartlar: border-radius 12px, hafif gölge (0 2px 12px rgba(0,0,0,0.08))
+- Sağ üstte koyu/açık mod geçiş butonu (ay/güneş ikonu)
+- Mobil uyumlu (max-width: 750px, ortalanmış)
+- Sayfa padding: 20px
+
+## YAPI (SEKMELİ SİSTEM)
+Sayfa üst kısmında yatay sekmeler (tab navigation). Sekmeler sırayla:
+
+1. 📘 Gramer
+2. 📝 Kelimeler
+3. 💬 Kalıplar
+4. ✍️ Cümleler (ANA BÖLÜM)
+5. ✅ Aktivite
+
+Her sekmeye tıklandığında ilgili içerik gösterilir. Sekmelerin altında ince bir ilerleme çubuğu olur (hangi sekmede olduğunu gösterir, 1/5, 2/5 gibi).
+
+### 1. GRAMER SEKME İÇERİĞİ
+- Gramer konusu başlık
+- Kısa açıklama metni (Türkçe)
+- 3-4 örnek cümle (Türkçe - İngilizce yan yana, iki ayrı sütun)
+- "Anladım, Devam Et →" butonu - tıklayınca Kelimeler sekmesine geçer
+
+### 2. KELİME SEKME İÇERİĞİ
+- 20 kelime, her biri bir kart içinde
+- Kart düzeni: 2 sütunlu grid (mobilde tek sütun)
+- Her kartta: İngilizce kelime, altında Türkçesi (başlangıçta gizli)
+- "Türkçesini Göster/Gizle" butonu (tümünü aynı anda açar/kapatır)
+- Her kelimenin yanında küçük bir seslendirme butonu (🔊 Web Speech API)
+- "Kelimeleri Öğrendim →" butonu - Kalıplar sekmesine geçer
+
+### 3. KALIP SEKME İÇERİĞİ
+- 10 kalıp, her biri bir kart içinde
+- Her kartta Türkçe kalıp büyük yazı
+- Altında İngilizcesi (başlangıçta gizli, "Göster" butonu ile açılır)
+- Seslendirme butonu
+- "Kalıpları Öğrendim →" butonu - Cümleler sekmesine geçer
+
+### 4. CÜMLELER SEKME İÇERİĞİ (ANA ÇALIŞMA ALANI)
+Burası en önemli bölüm. Tasarımı sade ve odaklanmayı sağlayıcı olsun.
+
+- Üstte ilerleme göstergesi: "Cümle 1 / 100"
+- Altında ince ilerleme çubuğu
+
+**ÇALIŞMA ŞEKLİ (ÇOK ÖNEMLİ):**
+- Ortada BÜYÜK bir kart içinde TÜRKÇE CÜMLE gösterilir (font-size: 22px, ortalanmış)
+- Kullanıcı cümleyi okur, İngilizcesini ZİHNİNDEN düşünür
+- Altında "Cevabı Göster" butonu
+- Butona tıklayınca İngilizce cümle aşağıda BELİRİR (fade-in animasyonu, font-size: 20px, farklı renk)
+- Aynı anda seslendirme otomatik okur (Web Speech API)
+- İngilizce cümle gösterildikten sonra iki buton belirir:
+  - "✅ Doğru Bildim" (yeşil)
+  - "🔄 Tekrar Et" (turuncu)
+- "Tekrar Et" denilirse cümle "Tekrar Listesi"ne eklenir
+- Altında "Sonraki Cümle →" butonu
+
+**GRUPLAMA:**
+- 10'ar cümlelik gruplar
+- Her 10 cümlede bir: "10 cümle tamamlandı! ☕" yazısı ve "Devam Et" butonu
+- 50. cümlede: "Yarı yoldasın! 🎯"
+- 100. cümlede: "Tüm cümleler tamamlandı! 🎉"
+
+**YANLIŞ LİSTESİ:**
+- Cümleler sekmesinin alt kısmında "Tekrar Listesi (X cümle)" başlığı
+- Tıklayınca açılır, yanlış yapılan cümleler listelenir
+- Aynı çalışma mantığıyla tekrar edilebilir
+- "Tümünü Tekrar Et" butonu
+
+### 5. AKTİVİTE SEKME İÇERİĞİ
+- Günün aktivite görevi (yazma veya konuşma)
+- Açıklama metni
+- "Tamamladım ✅" işaretleme butonu (checkbox görünümünde)
+- Günün motivasyon sözü (İngilizce, altta güzel bir kartta)
+
+## İÇERİK FORMATI
+Sana günün içeriğini şu formatta TXT olarak vereceğim. Her satırı ayrıştırıp HTML'e yerleştir:

@@ -1,0 +1,1070 @@
+Harika! Şimdi **Hafta 7 — Teknoloji & Araçlar** konusunun 6 günlük eksiksiz planını hazırlıyorum. Bu hafta açıklama becerisi, teknoloji araçlarını anlatma ve süreç açıklama yeteneklerine odaklanacağız.
+
+---
+
+# 📅 6 GÜNLÜK FULL PLAN: HAFTA 7 — TEKNOLOJİ & ARAÇLAR
+
+## 🎯 GENEL GRAMER ODAKLARI (6 Gün Boyunca İşlenecek)
+
+| Gün | Ana Gramer Konusu | Detay |
+|:---|:---|:---|
+| **37** | Passive Voice — Tüm Zamanlar | Teknoloji ve sistem süreçlerini anlatma |
+| **38** | Relative Clauses with Prepositions | "The tool with which...", "The app on which..." |
+| **39** | Clauses of Purpose — so that / in order that | Amaç cümleleri, araçların kullanım sebepleri |
+| **40** | Zero & First Conditional in Tech Context | Teknoloji kullanımı, sistem uyarıları, otomasyon |
+| **41** | Modal Verbs — can/could/may/might/will for functions | Bir aracın ne yapabildiğini anlatma |
+| **42** | Linking Words for Process Description | Süreç anlatımı (first, then, next, finally) + Hafta 7 Final |
+
+---
+
+## 📘 GÜN 37: Passive Voice — Tüm Zamanlar (Teknoloji Bağlamında)
+
+### 🧱 10 Temel Kalıp
+1. The software is updated regularly. (Yazılım düzenli olarak güncellenir.)
+2. The data is stored in the cloud. (Veriler bulutta saklanır.)
+3. The system was developed in 2020. (Sistem 2020'de geliştirildi.)
+4. A new feature has been added. (Yeni bir özellik eklendi.)
+5. The app is being downloaded right now. (Uygulama şu anda indiriliyor.)
+6. The update will be released next week. (Güncelleme gelecek hafta yayınlanacak.)
+7. My account was hacked yesterday. (Hesabım dün hacklendi.)
+8. The files have been backed up. (Dosyalar yedeklendi.)
+9. The password must be changed every month. (Şifre her ay değiştirilmelidir.)
+10. The problem is being fixed. (Sorun şu anda düzeltiliyor.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | V3 Hali | Cümle İçinde Örnek |
+|:---|:---|:---|:---|:---|
+| 1 | technology | teknoloji | — | Technology is used everywhere. |
+| 2 | tool | araç | — | This tool was created in 2020. |
+| 3 | system | sistem | — | The system is maintained weekly. |
+| 4 | software | yazılım | — | The software was installed. |
+| 5 | process | süreç | processed | The process is automated. |
+| 6 | feature | özellik | — | A feature has been added. |
+| 7 | function | işlev | — | The function was tested. |
+| 8 | improve | geliştirmek | improved | The app has been improved. |
+| 9 | efficiency | verimlilik | — | Efficiency has been increased. |
+| 10 | automate | otomatikleştirmek | automated | The task is automated. |
+| 11 | manage | yönetmek | managed | Data is managed securely. |
+| 12 | support | desteklemek | supported | The device is supported. |
+| 13 | platform | platform | — | The platform was launched. |
+| 14 | device | cihaz/aygıt | — | The device was designed well. |
+| 15 | solution | çözüm | solved | A solution has been found. |
+| 16 | update | güncelleme | updated | The update was released. |
+| 17 | user | kullanıcı | — | Users are notified regularly. |
+| 18 | performance | performans | performed | Performance has been boosted. |
+| 19 | access | erişim | accessed | Access is granted to admins. |
+| 20 | data | veri | — | Data is encrypted. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — Passive Voice Teknoloji)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Yazılım düzenli olarak güncellenir. | The software is updated regularly. |
+| 2 | Veriler bulutta saklanır. | The data is stored in the cloud. |
+| 3 | Sistem 2020'de geliştirildi. | The system was developed in 2020. |
+| 4 | Yeni bir özellik eklendi. | A new feature has been added. |
+| 5 | Uygulama şu anda indiriliyor. | The app is being downloaded right now. |
+| 6 | Güncelleme gelecek hafta yayınlanacak. | The update will be released next week. |
+| 7 | Hesabım dün hacklendi. | My account was hacked yesterday. |
+| 8 | Dosyalar yedeklendi. | The files have been backed up. |
+| 9 | Şifre her ay değiştirilmelidir. | The password must be changed every month. |
+| 10 | Sorun şu anda düzeltiliyor. | The problem is being fixed. |
+| 11 | E-postalar otomatik olarak sıralanır. | The emails are sorted automatically. |
+| 12 | Veriler her gece yedeklenir. | The data is backed up every night. |
+| 13 | Sunucular soğuk bir odada tutulur. | The servers are kept in a cold room. |
+| 14 | Kullanıcı adı ve şifre istenir. | A username and password are required. |
+| 15 | Bu mesaj dün gönderildi. | This message was sent yesterday. |
+| 16 | Rapor dün oluşturuldu. | The report was generated yesterday. |
+| 17 | Proje müdür tarafından onaylandı. | The project was approved by the manager. |
+| 18 | Hata tespit edildi. | A bug was detected. |
+| 19 | Hata düzeltildi. | The bug has been fixed. |
+| 20 | Güncelleme yayınlandı. | The update has been released. |
+| 21 | Yeni bir sürüm indirilebilir. | A new version can be downloaded. |
+| 22 | Ekran görüntüsü alındı. | A screenshot was taken. |
+| 23 | Dosya silindi. | The file was deleted. |
+| 24 | Geri dönüşüm kutusu boşaltıldı. | The recycle bin has been emptied. |
+| 25 | Program kapatıldı. | The program has been closed. |
+| 26 | Bilgisayar yeniden başlatıldı. | The computer has been restarted. |
+| 27 | Wi-Fi şifresi değiştirildi. | The Wi-Fi password was changed. |
+| 28 | Yazıcıya kağıt takıldı. | Paper was loaded into the printer. |
+| 29 | Mürekkep değiştirildi. | The ink has been replaced. |
+| 30 | Tarayıcı güncellendi. | The browser has been updated. |
+| 31 | Uygulama mağazadan kaldırıldı. | The app was removed from the store. |
+| 32 | Kullanım kılavuzu yazıldı. | The user manual was written. |
+| 33 | Eğitim videosu hazırlandı. | The training video has been prepared. |
+| 34 | Yedekleme tamamlandı. | The backup has been completed. |
+| 35 | Sistem yeniden kuruldu. | The system was reinstalled. |
+| 36 | Antivirüs yazılımı yüklendi. | The antivirus software has been installed. |
+| 37 | Tarama başlatıldı. | The scan has been started. |
+| 38 | Tehdit temizlendi. | The threat has been cleaned. |
+| 39 | Log kayıtları inceleniyor. | The log records are being examined. |
+| 40 | Hata raporu oluşturuldu. | An error report was generated. |
+| 41 | Çerezler silindi. | The cookies were deleted. |
+| 42 | Önbellek temizlendi. | The cache has been cleared. |
+| 43 | Dosyalar sıkıştırıldı. | The files were compressed. |
+| 44 | E-posta şifrelendi. | The email was encrypted. |
+| 45 | Toplantı kaydedildi. | The meeting was recorded. |
+| 46 | Ekran paylaşıldı. | The screen was shared. |
+| 47 | Mikrofon kapatıldı. | The microphone was muted. |
+| 48 | Kamera açıldı. | The camera was turned on. |
+| 49 | Bağlantı kesildi. | The connection was lost. |
+| 50 | Tekrar bağlanıldı. | It was reconnected. |
+
+#### SON 50 (Orta Seviye — Karmaşık Passive Yapıları)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Verilerin güvenli bir şekilde saklandığından emin olunmalıdır. | It must be ensured that the data is stored securely. |
+| 52 | Sistemin her gün kontrol edilmesi gerektiği söylendi. | It was said that the system needed to be checked every day. |
+| 53 | Kullanıcıların bilgilendirileceği duyuruldu. | It was announced that the users would be informed. |
+| 54 | Projenin zamanında teslim edileceğine söz verildi. | It was promised that the project would be delivered on time. |
+| 55 | Sistem çökmeden önce veriler yedeklenmişti. | The data had been backed up before the system crashed. |
+| 56 | Şifre değiştirilene kadar hesaba erişilemedi. | The account couldn't be accessed until the password was changed. |
+| 57 | Sorun çözüldüğünde kullanıcılara bildirim gönderildi. | A notification was sent to users when the problem was solved. |
+| 58 | Bu uygulama öğrenciler tarafından geliştirildi. | This app was developed by students. |
+| 59 | Kodlar baştan yazılmak zorunda kalındı. | The codes had to be rewritten from scratch. |
+| 60 | Test aşamasında birçok hata bulundu. | Many bugs were found during the testing phase. |
+| 61 | Bulunan hatalar anında geliştirici ekibe iletildi. | The bugs found were immediately reported to the developer team. |
+| 62 | Yeni sürüm piyasaya sürülmeden önce kapsamlı test yapıldı. | Extensive testing was done before the new version was released. |
+| 63 | Kullanıcı geri bildirimleri dikkate alındı. | User feedback was taken into consideration. |
+| 64 | İstenen özellikler listeye eklendi. | The requested features were added to the list. |
+| 65 | Öncelik sırasına göre görev dağılımı yapıldı. | Task distribution was done according to priority. |
+| 66 | Mobil uyumluluk artırıldı. | Mobile compatibility has been increased. |
+| 67 | Arayüz tamamen yeniden tasarlandı. | The interface has been completely redesigned. |
+| 68 | Karanlık mod özelliği eklendi. | The dark mode feature has been added. |
+| 69 | Performans iyileştirmeleri yapıldı. | Performance improvements have been made. |
+| 70 | Ram kullanımı optimize edildi. | RAM usage has been optimized. |
+| 71 | Gereksiz dosyalar sistemden temizlendi. | Unnecessary files were cleaned from the system. |
+| 72 | Güvenlik duvarı güçlendirildi. | The firewall was strengthened. |
+| 73 | Saldırı tespit sistemi devreye alındı. | The intrusion detection system was put into action. |
+| 74 | Veri ihlali durumunda acil durum protokolü uygulanır. | The emergency protocol is applied in case of a data breach. |
+| 75 | Tüm hareketler kayıt altına alınmaktadır. | All actions are being recorded. |
+| 76 | Şüpheli aktiviteler bildirilmelidir. | Suspicious activities must be reported. |
+| 77 | İki faktörlü kimlik doğrulama zorunlu kılındı. | Two-factor authentication was made mandatory. |
+| 78 | Biyometrik veriler şifrelenmiş olarak saklanır. | Biometric data is stored encrypted. |
+| 79 | Oturum süresi aşımında otomatik çıkış yapılır. | Automatic logout is performed upon session timeout. |
+| 80 | Erişim yetkileri yönetici tarafından belirlenir. | Access permissions are determined by the administrator. |
+| 81 | Çalışanların cihazlarına uzaktan müdahale edilebilir. | Employees' devices can be intervened remotely. |
+| 82 | Yazılım lisansları merkezi olarak yönetilir. | Software licenses are managed centrally. |
+| 83 | Toplu güncelleme hafta sonu yapılacak. | The bulk update will be done at the weekend. |
+| 84 | Kesinti süresi hakkında önceden bilgi verildi. | Information about the downtime was given in advance. |
+| 85 | Etkilenen kullanıcılara özel mail gönderildi. | A special email was sent to the affected users. |
+| 86 | Yedekten dönme işlemi başarıyla gerçekleştirildi. | The rollback operation was completed successfully. |
+| 87 | Tüm fonksiyonların çalıştığı doğrulandı. | It was verified that all functions work. |
+| 88 | Sistem izleme araçlarıyla anlık takip yapılıyor. | Real-time monitoring is carried out with system monitoring tools. |
+| 89 | Anomali tespit edildiğinde alarm tetiklenir. | When an anomaly is detected, an alarm is triggered. |
+| 90 | Arıza kaydı otomatik olarak oluşturulur. | A fault record is created automatically. |
+| 91 | Ekip bilgilendirilir ve müdahale başlatılır. | The team is informed and intervention is started. |
+| 92 | Sorun giderildiğinde raporlama yapılır. | When the problem is resolved, reporting is done. |
+| 93 | Elde edilen veriler analiz edilir. | The data obtained is analyzed. |
+| 94 | Gelecekteki sorunların önlenmesi için strateji belirlenir. | A strategy is determined to prevent future problems. |
+| 95 | Düzenli bakım anlaşması yapıldı. | A regular maintenance agreement was made. |
+| 96 | Yedek parça stoğu oluşturuldu. | A spare parts stock was created. |
+| 97 | Felaket kurtarma planı güncellendi. | The disaster recovery plan has been updated. |
+| 98 | Tüm bu süreçler dokümante edilmiştir. | All these processes have been documented. |
+| 99 | Denetim için hazır hale getirilmiştir. | They have been made ready for audit. |
+| 100 | Teknoloji ile işlerimiz kolaylaştırılmıştır. | Our tasks have been made easier with technology. |
+
+### 🎯 GÜN 37 AKTİVİTELERİ
+
+**Sabah (30 dk): Pasif Çatı Zaman Çekimleri**
+- 10 cümleyi Present Simple Passive, 10 cümleyi Past Simple Passive, 5 cümleyi Present Perfect Passive, 5 cümleyi Future Passive olarak yaz.
+- Teknoloji konusunda olsun.
+
+**Öğlen (30 dk): Süreç Anlatımı**
+- "How a software update is done" başlıklı pasif çatı ağırlıklı bir süreç yazısı yaz (15 cümle).
+
+**Akşam (45 dk): "A Day in the Life of a System Admin" Konuşması**
+- 2-3 dakikalık konuşma yap. Bir sistem yöneticisinin günlük yaptığı işleri pasif çatıyla anlat.
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 38: Relative Clauses with Prepositions (Edatlı İlgi Cümleleri)
+
+### 🧱 10 Temel Kalıp
+1. This is the tool with which I work. (Bu, çalıştığım araçtır.)
+2. The app on which I rely crashed. (Güvendiğim uygulama çöktü.)
+3. The company for which I work is great. (Çalıştığım şirket harika.)
+4. The problem about which we talked is solved. (Hakkında konuştuğumuz sorun çözüldü.)
+5. The data from which the report was generated is lost. (Raporun oluşturulduğu veri kayboldu.)
+6. The person to whom I sent the email replied. (E-posta gönderdiğim kişi cevap verdi.)
+7. The project in which I am involved is confidential. (Dahil olduğum proje gizlidir.)
+8. The tool without which I can't work is my laptop. (Onsuz çalışamadığım araç dizüstü bilgisayarımdır.)
+9. The system through which all data passes is secure. (Tüm verilerin içinden geçtiği sistem güvenlidir.)
+10. The person from whom I got the idea is my mentor. (Fikri aldığım kişi mentorumdur.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | rely on | güvenmek | The tool I rely on. |
+| 2 | work with | ile çalışmak | The software I work with. |
+| 3 | talk about | hakkında konuşmak | The topic we talked about. |
+| 4 | deal with | başa çıkmak/ilgilenmek | Issues I deal with. |
+| 5 | refer to | atıfta bulunmak | The document I referred to. |
+| 6 | depend on | bağlı olmak | Systems I depend on. |
+| 7 | think about | hakkında düşünmek | The idea I thought about. |
+| 8 | look for | aramak | The file I was looking for. |
+| 9 | wait for | beklemek | The update I waited for. |
+| 10 | listen to | dinlemek | The podcast I listened to. |
+| 11 | belong to | ait olmak | The device belongs to me. |
+| 12 | apply for | başvurmak | The job I applied for. |
+| 13 | pay for | ödemek | The app I paid for. |
+| 14 | ask for | istemek | The help I asked for. |
+| 15 | search for | aramak | The solution I searched for. |
+| 16 | log into | giriş yapmak | The system I logged into. |
+| 17 | connect to | bağlanmak | The network I connected to. |
+| 18 | download from | indirmek | The site I downloaded from. |
+| 19 | upload to | yüklemek | The cloud I uploaded to. |
+| 20 | benefit from | faydalanmak | The technology I benefit from. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — Preposition + which/whom)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Bu, çalıştığım araç. | This is the tool with which I work. |
+| 2 | Güvendiğim uygulama çöktü. | The app on which I rely crashed. |
+| 3 | Çalıştığım şirket harika. | The company for which I work is great. |
+| 4 | Hakkında konuştuğumuz sorun çözüldü. | The problem about which we talked is solved. |
+| 5 | Raporun oluşturulduğu veri kayboldu. | The data from which the report was generated is lost. |
+| 6 | E-posta gönderdiğim kişi cevap verdi. | The person to whom I sent the email replied. |
+| 7 | Dahil olduğum proje gizlidir. | The project in which I am involved is confidential. |
+| 8 | Onsuz çalışamadığım araç dizüstü bilgisayarım. | The tool without which I can't work is my laptop. |
+| 9 | Tüm verilerin içinden geçtiği sistem güvenli. | The system through which all data passes is secure. |
+| 10 | Fikri aldığım kişi mentorum. | The person from whom I got the idea is my mentor. |
+| 11 | Her gün kullandığım program çok hızlı. | The program which I use every day is very fast. |
+| 12 | Bahsettiğin uygulama çok pahalı. | The app about which you talked is very expensive. |
+| 13 | Güvendiğim yazılım bu. | This is the software on which I rely. |
+| 14 | Birlikte çalıştığım ekip çok yetenekli. | The team with which I work is very talented. |
+| 15 | Başvurduğum iş teknoloji alanında. | The job for which I applied is in the technology field. |
+| 16 | Beklediğim güncelleme geldi. | The update for which I waited has arrived. |
+| 17 | Aradığım dosya masaüstündeymiş. | The file for which I was looking was on the desktop. |
+| 18 | Abone olduğum hizmet çok iyi. | The service to which I subscribed is very good. |
+| 19 | Bağlandığım ağ çok yavaş. | The network to which I connected is very slow. |
+| 20 | Para ödediğim uygulama çöktü. | The app for which I paid crashed. |
+| 21 | İndirdiğim site güvenli değilmiş. | The site from which I downloaded was not safe. |
+| 22 | Faydalandığım teknolojiler çok gelişmiş. | The technologies from which I benefit are very advanced. |
+| 23 | İlgilendiğim proje iptal oldu. | The project with which I was dealing was cancelled. |
+| 24 | Atıfta bulunduğum belge silinmiş. | The document to which I referred has been deleted. |
+| 25 | Sorumlu olduğum sistem çöktü. | The system for which I am responsible crashed. |
+| 26 | Katıldığım webinar çok öğreticiydi. | The webinar in which I participated was very educational. |
+| 27 | Kaydolduğum kurs harika. | The course for which I registered is great. |
+| 28 | Yatırım yaptığım kripto para düştü. | The cryptocurrency in which I invested dropped. |
+| 29 | Konuştuğum teknik destek elemanı çok yardımcı oldu. | The support agent with whom I spoke was very helpful. |
+| 30 | Şikayet ettiğim sorun çözüldü. | The problem about which I complained was solved. |
+| 31 | İhtiyacım olan dosyayı buldum. | I found the file which I need. |
+| 32 | Baktığım ekran aniden karardı. | The screen at which I was looking suddenly went black. |
+| 33 | Yazdığım kod hatasız çalıştı. | The code which I wrote worked without errors. |
+| 34 | Tasarladığım arayüz çok beğenildi. | The interface which I designed was very much liked. |
+| 35 | Geliştirdiğim oyun çok indirildi. | The game which I developed was downloaded a lot. |
+| 36 | Ürettiğim çözüm işe yaradı. | The solution which I produced worked. |
+| 37 | Önerdiğin site çok faydalı. | The site which you suggested is very useful. |
+| 38 | Sildiğin dosyayı geri getirebilir misin? | Can you recover the file which you deleted? |
+| 39 | Değiştirdiğim ayarlar kaybolmuş. | The settings which I changed were lost. |
+| 40 | Kurduğum uygulama virüslü çıktı. | The app which I installed turned out to be infected. |
+| 41 | Aldığım cihaz bozuk çıktı. | The device which I bought turned out to be defective. |
+| 42 | Onardığım bilgisayar şimdi çalışıyor. | The computer which I repaired is working now. |
+| 43 | Sıfırladığım telefon hızlandı. | The phone which I reset became faster. |
+| 44 | Güncellediğim yazılım daha iyi. | The software which I updated is better. |
+| 45 | Bastırdığım rapor nerede? | Where is the report which I printed? |
+| 46 | Tarattığım belgeyi bulamıyorum. | I can't find the document which I scanned. |
+| 47 | Yüklediğim video silinmiş. | The video which I uploaded was deleted. |
+| 48 | Paylaştığım bağlantı çalışmıyor. | The link which I shared doesn't work. |
+| 49 | Kaydettiğim şifreyi unuttum. | I forgot the password which I saved. |
+| 50 | Emanet ettiğim laptop geri geldi. | The laptop which I lent came back. |
+
+#### SON 50 (Orta Seviye — Karmaşık Edatlı İlgi Cümleleri)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Sistemin arkasındaki mantığı anlamak zorundayız. | We have to understand the logic behind the system. |
+| 52 | İçinden veri çektiğimiz API değişmiş. | The API from which we pull data has changed. |
+| 53 | Projeyi sunacağımız platform hazır değil. | The platform on which we will present the project is not ready. |
+| 54 | İçinde çalıştığımız sektör hızla değişiyor. | The industry in which we work is changing rapidly. |
+| 55 | Bana bu konuda yardım eden kişiye minnettarım. | I am grateful to the person by whom I was helped on this matter. |
+| 56 | Başarısının arkasındaki sır çok çalışmakmış. | The secret behind his/her success was hard work. |
+| 57 | Kullanıcıların en çok şikayet ettiği özellik kaldırıldı. | The feature about which users complained the most was removed. |
+| 58 | Geliştiricilerin üzerinde çalıştığı hata düzeltildi. | The bug on which the developers were working was fixed. |
+| 59 | Bu kütüphane olmadan kodu yazamazdım. | I couldn't have written the code without this library. |
+| 60 | Kendisine hayran olduğum yazılımcı Steve Jobs'tur. | The programmer to whom I look up is Steve Jobs. |
+| 61 | Sonuçlarına göre karar vereceğimiz testler devam ediyor. | The tests according to the results of which we will decide are ongoing. |
+| 62 | Uğruna yıllarca çalıştığı proje sonunda hayata geçti. | The project for the sake of which he/she worked for years finally came to life. |
+| 63 | Altında çalıştığım müdür çok anlayışlı. | The manager under whom I work is very understanding. |
+| 64 | Hakkında daha fazla bilgi istediğim konu yapay zeka. | The topic about which I want more information is artificial intelligence. |
+| 65 | Bana ilham veren teknoloji uzay teknolojisidir. | The technology by which I am inspired is space technology. |
+| 66 | Şirketin üzerine inşa edildiği değerler dürüstlük ve yenilikçilik. | The values upon which the company is built are honesty and innovation. |
+| 67 | Karşısında durduğum şey teknoloji değil, kötüye kullanımı. | The thing against which I stand is not technology, but its misuse. |
+| 68 | Çözümün arkasındaki beyin oydu. | The brain behind the solution was him/her. |
+| 69 | Uygulamanın içinde gezindiğim menüler çok karmaşık. | The menus through which I navigated in the app are very complex. |
+| 70 | Aramızda konuştuğumuz mesele gizli kalmalı. | The matter about which we spoke between us must remain secret. |
+| 71 | Eğitimini aldığım teknoloji artık demode oldu. | The technology in which I was trained has now become obsolete. |
+| 72 | Sorumluluğunu taşıdığım sistemler sorunsuz çalışıyor. | The systems for which I carry responsibility are working smoothly. |
+| 73 | Birlikte proje yaptığımız ekip dağıldı. | The team with which we did the project together disbanded. |
+| 74 | Kendisine danıştığım uzman konuyu açıklığa kavuşturdu. | The expert whom I consulted clarified the issue. |
+| 75 | Verilerin üzerinde işlendiği sunucu yurt dışında. | The server on which the data is processed is abroad. |
+| 76 | Sonunda ulaştığım sonuç bu. | This is the conclusion at which I finally arrived. |
+| 77 | İçinde bulunduğumuz dijital çağda her şey hızlı. | Everything is fast in the digital age in which we are. |
+| 78 | Bu teknolojinin ötesinde bir şey yok. | There is nothing beyond this technology. |
+| 79 | Verimlilik adına her şeyin feda edilmemesi gerektiğini savunuyorum. | I argue that everything should not be sacrificed in the name of efficiency. |
+| 80 | Kullanıcı deneyimi odak noktası olmalıdır. | User experience should be the focal point. |
+| 81 | Bunun üzerine düşünmemiz gereken bir konu olduğunu düşünüyorum. | I think this is a topic about which we need to think. |
+| 82 | Teknoloji bağımlılığının altında yatan sebepler araştırılıyor. | The reasons underlying technology addiction are being researched. |
+| 83 | Dijital detoks yapmanın faydaları hakkında çok şey okudum. | I read a lot about the benefits of doing a digital detox. |
+| 84 | Ekran süresini kıstığım bir dönemdeyim. | I am in a period in which I am cutting down on screen time. |
+| 85 | Teknoloji olmadan yapamadığımız doğru. | It is true that we cannot do without technology. |
+| 86 | Ama onunla nasıl bir ilişki kuracağımız bize bağlı. | But what kind of relationship we will establish with it is up to us. |
+| 87 | Teknolojinin efendisi mi yoksa kölesi mi olacağız? | Will we be the master or the slave of technology? |
+| 88 | Bu cevaplamamız gereken kritik bir soru. | This is a critical question which we must answer. |
+| 89 | Kendimi en üretken hissettiğim araç kalem ve kağıt aslında. | The tool with which I feel most productive is actually pen and paper. |
+| 90 | Bazen en basit çözüm en iyisidir. | Sometimes the simplest solution is the best. |
+| 91 | İçinde kaybolduğumuz sanal dünyalar gerçek değil. | The virtual worlds in which we get lost are not real. |
+| 92 | Gerçek dünyaya bağlanmak için teknolojiyi araç olarak kullanmalıyız. | We should use technology as a tool to connect to the real world. |
+| 93 | Teknoloji iyi bir hizmetkâr, kötü bir efendidir. | Technology is a good servant but a bad master. |
+| 94 | Bu haftaki konuların biraz felsefi olduğunu biliyorum. | I know that this week's topics are a bit philosophical. |
+| 95 | Ama teknolojiyi anlamak sadece kod bilmek değildir. | But understanding technology is not just knowing code. |
+| 96 | Onu nasıl kullandığımız da bir o kadar önemlidir. | How we use it is just as important. |
+| 97 | Etik değerler olmadan teknoloji tehlikelidir. | Technology is dangerous without ethical values. |
+| 98 | Bu cümleyi okuduğun cihaz bile bir tercih sonucu. | Even the device on which you are reading this sentence is a result of a choice. |
+| 99 | Umarım bu tercihler seni daha iyi bir yere götürür. | I hope these choices take you to a better place. |
+| 100 | Teknoloji yolculuğunda denge seninle olsun. | May balance be with you on your technology journey. |
+
+### 🎯 GÜN 38 AKTİVİTELERİ
+
+**Sabah (30 dk): Edat + which/whom Dönüştürme**
+- 20 tane normal relative clause cümlesini edatlı hale çevir.
+- Örnek: "The tool that I work with" → "The tool with which I work."
+
+**Öğlen (30 dk): Teknoloji Araçları Tanımlama**
+- Kullandığın 10 teknoloji aracı için "This is the... with which I..." kalıbıyla cümle yaz.
+
+**Akşam (45 dk): "My Essential Tools" Konuşması**
+- 2 dakikalık konuşma: "Onsuz yapamadığım teknolojik araçlar ve nedenleri."
+- Edatlı relative clause kullan.
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 39: Clauses of Purpose — so that / in order that
+
+### 🧱 10 Temel Kalıp
+1. I use this tool so that I can work faster. (Daha hızlı çalışabileyim diye bu aracı kullanıyorum.)
+2. We update the software in order that it stays secure. (Yazılım güvende kalsın diye güncelliyoruz.)
+3. I set an alarm so that I won't oversleep. (Uyuyakalmayayım diye alarm kurarım.)
+4. I use a password manager so that I don't forget my passwords. (Şifrelerimi unutmayayım diye şifre yöneticisi kullanırım.)
+5. The app sends notifications in order that users are informed. (Kullanıcılar bilgilensin diye uygulama bildirim gönderir.)
+6. I back up my files so that I won't lose them. (Kaybetmeyeyim diye dosyalarımı yedeklerim.)
+7. The system was designed so that it can handle high traffic. (Sistem yüksek trafiği kaldırabilsin diye tasarlandı.)
+8. I use a VPN so that my connection is encrypted. (Bağlantım şifrelensin diye VPN kullanırım.)
+9. I mute notifications so that I can focus. (Odaklanabileyim diye bildirimleri sessize alırım.)
+10. We use AI in order that tasks are automated. (Görevler otomatikleşsin diye yapay zeka kullanırız.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | so that | ...sin diye | I do it so that it works. |
+| 2 | in order that | amacıyla | We act in order that... |
+| 3 | in order to | -mek için | I study in order to learn. |
+| 4 | so as to | -mek amacıyla | I work so as to earn. |
+| 5 | for | için | A tool for writing. |
+| 6 | in case | ...durumuna karşı | Save in case it crashes. |
+| 7 | prevent | önlemek | To prevent data loss. |
+| 8 | avoid | kaçınmak | To avoid errors. |
+| 9 | enable | olanak sağlamak | To enable access. |
+| 10 | allow | izin vermek | To allow editing. |
+| 11 | ensure | sağlamak/emin olmak | To ensure security. |
+| 12 | protect | korumak | To protect data. |
+| 13 | boost | artırmak | To boost speed. |
+| 14 | reduce | azaltmak | To reduce errors. |
+| 15 | optimize | optimize etmek | To optimize performance. |
+| 16 | simplify | basitleştirmek | To simplify workflow. |
+| 17 | speed up | hızlandırmak | To speed up the process. |
+| 18 | maximize | en üst düzeye çıkarmak | To maximize output. |
+| 19 | minimize | en aza indirmek | To minimize downtime. |
+| 20 | enhance | geliştirmek | To enhance UX. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — so that / in order that)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Daha hızlı çalışabileyim diye bu aracı kullanırım. | I use this tool so that I can work faster. |
+| 2 | Yazılım güvende kalsın diye güncelliyoruz. | We update the software in order that it stays secure. |
+| 3 | Uyuyakalmayayım diye alarm kurarım. | I set an alarm so that I won't oversleep. |
+| 4 | Şifrelerimi unutmayayım diye şifre yöneticisi kullanırım. | I use a password manager so that I don't forget my passwords. |
+| 5 | Kullanıcılar bilgilensin diye uygulama bildirim gönderir. | The app sends notifications in order that users are informed. |
+| 6 | Kaybetmeyeyim diye dosyalarımı yedeklerim. | I back up my files so that I won't lose them. |
+| 7 | Sistem yüksek trafiği kaldırabilsin diye tasarlandı. | The system was designed so that it can handle high traffic. |
+| 8 | Bağlantım şifrelensin diye VPN kullanırım. | I use a VPN so that my connection is encrypted. |
+| 9 | Odaklanabileyim diye bildirimleri sessize alırım. | I mute notifications so that I can focus. |
+| 10 | Görevler otomatikleşsin diye yapay zeka kullanırız. | We use AI in order that tasks are automated. |
+| 11 | Yetkisiz erişim olmasın diye güvenlik katmanı ekledik. | We added a security layer so that there is no unauthorized access. |
+| 12 | Veri kaybı olmasın diye RAID sistemi kullanıyoruz. | We use a RAID system so that there is no data loss. |
+| 13 | Müşteri temsilcisine hızlı ulaşabileyim diye chatbot kullanıyorum. | I use a chatbot so that I can reach customer service quickly. |
+| 14 | Geçmiş konuşmalar kaybolmasın diye arşivliyorum. | I archive so that past conversations are not lost. |
+| 15 | Proje yönetimi kolaylaşsın diye Trello kullanırız. | We use Trello so that project management becomes easier. |
+| 16 | Her şey gözümün önünde olsun diye ikinci monitör aldım. | I got a second monitor so that everything is in front of my eyes. |
+| 17 | Toplantı notlarım kayıtlı olsun diye Notion kullanıyorum. | I use Notion so that my meeting notes are saved. |
+| 18 | Gözlerim yorulmasın diye karanlık mod kullanırım. | I use dark mode so that my eyes don't get tired. |
+| 19 | Uyku düzenim bozulmasın diye mavi ışık filtresi kullanırım. | I use a blue light filter so that my sleep schedule is not disrupted. |
+| 20 | Daha hızlı yazabileyim diye mekanik klavye aldım. | I bought a mechanical keyboard so that I can type faster. |
+| 21 | Veriler bozulmasın diye sürekli yedekleme yapıyorum. | I do continuous backup so that data doesn't get corrupted. |
+| 22 | Virüs bulaşmasın diye antivirüs programı yükledim. | I installed an antivirus program so that viruses don't infect my computer. |
+| 23 | E-postalarım düzenli olsun diye filtreler kurdum. | I set up filters so that my emails are organized. |
+| 24 | Spam mailler rahatsız etmesin diye kara listeye ekledim. | I blacklisted them so that spam emails don't bother me. |
+| 25 | Şifremi unutmayayım diye bir yere not ettim. | I noted it down somewhere so that I don't forget my password. |
+| 26 | Her yerden erişebileyim diye buluta yükledim. | I uploaded it to the cloud so that I can access it from anywhere. |
+| 27 | Kimse görmesin diye dosyayı şifreledim. | I encrypted the file so that no one can see it. |
+| 28 | Uzaktan çalışma kolay olsun diye VPN kurduk. | We set up a VPN so that remote working is easy. |
+| 29 | İnternetim kesilmesin diye yedek hat aldım. | I got a backup line so that my internet doesn't go down. |
+| 30 | Telefonumun şarjı bitsin diye güç tasarrufu modunu açtım. | I turned on power saving mode so that my phone's battery doesn't die. |
+| 31 | Müşteri memnuniyeti artsın diye canlı destek ekledik. | We added live support so that customer satisfaction increases. |
+| 32 | Satışları artıralım diye yeni bir kampanya başlattık. | We launched a new campaign so that we can increase sales. |
+| 33 | Daha iyi anlaşabileyim diye İngilizce öğreniyorum. | I'm learning English so that I can communicate better. |
+| 34 | İşlerimi hızlandırayım diye kısayolları ezberledim. | I memorized shortcuts so that I can speed up my work. |
+| 35 | Kimlik avına düşmeyeyim diye gelen mailleri kontrol ederim. | I check incoming emails so that I don't fall for phishing. |
+| 36 | Dosya boyutu küçülsün diye sıkıştırma yaptım. | I compressed it so that the file size becomes smaller. |
+| 37 | Görüntü kalitesi bozulmasın diye yüksek çözünürlük seçtim. | I chose high resolution so that image quality is not ruined. |
+| 38 | Sesim karşıya net gitsin diye harici mikrofon aldım. | I bought an external microphone so that my voice goes clearly to the other side. |
+| 39 | Kablolardan kurtulayım diye kablosuz cihazlara geçtim. | I switched to wireless devices so that I can get rid of cables. |
+| 40 | Daha iyi odaklanabileyim diye gürültü önleyici kulaklık aldım. | I bought noise-canceling headphones so that I can focus better. |
+| 41 | Otomatik cevap gitsin diye e-posta şablonu oluşturdum. | I created an email template so that an automatic reply goes out. |
+| 42 | Takvimim herkese açık olsun diye paylaşıma açtım. | I shared it so that my calendar is open to everyone. |
+| 43 | Zamanı verimli kullanabileyim diye zamanlayıcı kullanıyorum. | I use a timer so that I can use time efficiently. |
+| 44 | Güncellemeleri kaçırmayayım diye bültene abone oldum. | I subscribed to the newsletter so that I don't miss updates. |
+| 45 | Anlık haberler gelsin diye bildirimleri açtım. | I turned on notifications so that breaking news comes in. |
+| 46 | Bilgisayarım ısınmasın diye soğutucu aldım. | I bought a cooler so that my computer doesn't overheat. |
+| 47 | Enerji tasarrufu olsun diye ayarları değiştirdim. | I changed the settings so that there is energy saving. |
+| 48 | Çocuklar zararlı içerik görmesin diye ebeveyn kilidi koydum. | I put a parental lock so that children don't see harmful content. |
+| 49 | Misafirler şifre sormasın diye QR kod oluşturdum. | I created a QR code so that guests don't ask for the password. |
+| 50 | Hayatım kolaylaşsın diye teknolojiyi kullanıyorum. | I use technology so that my life becomes easier. |
+
+#### SON 50 (Orta Seviye — Karmaşık Amaç Cümleleri)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Sistem çökmesi durumuna karşı verileri sürekli yedekliyoruz. | We continuously back up data in case the system crashes. |
+| 52 | Elektrik kesintisi olursa diye UPS kullanıyoruz. | We use a UPS in case there is a power outage. |
+| 53 | Hata loglarını inceliyoruz ki aynı sorun tekrar yaşanmasın. | We examine error logs so that the same problem doesn't happen again. |
+| 54 | Kötü amaçlı yazılımları engellemek için güvenlik duvarı kurduk. | We set up a firewall in order to prevent malicious software. |
+| 55 | Kullanıcı deneyimini iyileştirelim diye arayüzü yeniledik. | We renewed the interface so that we can improve user experience. |
+| 56 | Dönüşüm oranları artsın diye buton renklerini değiştirdik. | We changed button colors in order that conversion rates increase. |
+| 57 | Daha hızlı yüklensin diye görselleri optimize ettik. | We optimized images so that the site loads faster. |
+| 58 | Mobil uyumlu olsun diye responsive tasarım kullandık. | We used responsive design so that it is mobile-friendly. |
+| 59 | Erişilebilirlik standartlarına uygun olsun diye denetim yaptık. | We did an audit so that it complies with accessibility standards. |
+| 60 | Engelli kullanıcılar da faydalanabilsin diye ekran okuyucu desteği ekledik. | We added screen reader support so that disabled users can also benefit. |
+| 61 | Veri ihlali durumunda haberimiz olsun diye uyarı sistemi kurduk. | We set up an alert system so that we are notified in case of a data breach. |
+| 62 | Çalışanlar siber güvenlik konusunda bilinçlensin diye eğitim verdik. | We provided training so that employees become aware of cybersecurity. |
+| 63 | Şifreler güçlü olsun diye parola politikası belirledik. | We set a password policy so that passwords are strong. |
+| 64 | Eski çalışanlar sisteme giremesin diye hesapları anında kapattık. | We immediately closed accounts so that former employees can't access the system. |
+| 65 | İş sürekliliği sağlansın diye felaket kurtarma planı yaptık. | We made a disaster recovery plan in order that business continuity is ensured. |
+| 66 | Müşteri verileri güvende olsun diye ISO 27001 belgesi aldık. | We got the ISO 27001 certificate so that customer data is safe. |
+| 67 | Şüpheli işlemler tespit edilsin diye yapay zeka algoritması kullanıyoruz. | We use an AI algorithm so that suspicious transactions are detected. |
+| 68 | Manuel hatalar azalsın diye süreci otomasyona bağladık. | We automated the process so that manual errors decrease. |
+| 69 | İş akışı hızlansın diye onay mekanizmasını dijitalleştirdik. | We digitalized the approval mechanism so that the workflow speeds up. |
+| 70 | Ekip içi iletişim kolaylaşsın diye Slack kullanıyoruz. | We use Slack so that communication within the team becomes easier. |
+| 71 | Bilgi kaybolmasın diye kurumsal wiki oluşturduk. | We created a corporate wiki so that knowledge is not lost. |
+| 72 | Yeni çalışanlar hızlı adapte olsun diye onboarding programı hazırladık. | We prepared an onboarding program so that new employees adapt quickly. |
+| 73 | Performans ölçülebilsin diye KPI'lar belirledik. | We determined KPIs so that performance can be measured. |
+| 74 | Hedefler net görülsün diye dashboard hazırladık. | We prepared a dashboard so that targets can be seen clearly. |
+| 75 | Toplantılar verimli geçsin diye gündem maddelerini önceden paylaştık. | We shared the agenda items in advance so that meetings are efficient. |
+| 76 | Zaman kaybı olmasın diye toplantı süresine sınır koyduk. | We limited meeting duration so that there is no time loss. |
+| 77 | Herkes katkıda bulunsun diye beyaz tahta uygulaması kullandık. | We used a whiteboard app so that everyone contributes. |
+| 78 | Proje takibi şeffaf olsun diye herkese erişim verdik. | We gave access to everyone so that project tracking is transparent. |
+| 79 | Sorular hızlı cevaplansın diye ofis saatleri belirledik. | We set office hours so that questions are answered quickly. |
+| 80 | Dijital arşiv düzenli olsun diye isimlendirme standardı getirdik. | We introduced a naming standard so that the digital archive is organized. |
+| 81 | Versiyon kontrolü sağlansın diye Git kullanıyoruz. | We use Git in order that version control is ensured. |
+| 82 | Kod çakışmaları önlensin diye branch stratejisi uyguluyoruz. | We apply a branch strategy so that code conflicts are prevented. |
+| 83 | Hatalar hızlı bulunsun diye birim testleri yazıyoruz. | We write unit tests so that bugs are found quickly. |
+| 84 | Yazılım kalitesi artsın diye kod incelemesi yapıyoruz. | We do code reviews so that software quality increases. |
+| 85 | Sürekli entegrasyon sağlansın diye CI/CD pipeline kurduk. | We set up a CI/CD pipeline so that continuous integration is ensured. |
+| 86 | Canlıya alım risksiz olsun diye staging ortamı oluşturduk. | We created a staging environment so that going live is risk-free. |
+| 87 | Müşteri geri dönüşü hızlı gelsin diye anket gönderdik. | We sent a survey so that customer feedback comes quickly. |
+| 88 | Sadakat artsın diye puan sistemi ekledik. | We added a points system so that loyalty increases. |
+| 89 | Terk edilen sepetleri kurtaralım diye hatırlatma maili atıyoruz. | We send a reminder email so that we can recover abandoned carts. |
+| 90 | Organik trafik artsın diye SEO çalışması yaptık. | We did SEO work so that organic traffic increases. |
+| 91 | Arama motorlarında üst sıralara çıkalım diye içerik optimizasyonu yaptık. | We optimized content so that we rank higher in search engines. |
+| 92 | Marka bilinirliği artsın diye sosyal medya kampanyası başlattık. | We launched a social media campaign so that brand awareness increases. |
+| 93 | Daha geniş kitlelere ulaşalım diye influencer işbirliği yaptık. | We collaborated with influencers so that we reach wider audiences. |
+| 94 | Teknoloji sadece bir araçtır; önemli olan onu nasıl kullandığındır. | Technology is just a tool; the important thing is how you use it. |
+| 95 | İnsanlığa fayda sağlasın diye teknoloji üretiyoruz. | We produce technology so that it benefits humanity. |
+| 96 | Dünyayı daha iyi bir yer yapalım diye çabalıyoruz. | We are striving so that we can make the world a better place. |
+| 97 | Umarım bu cümleler amacını anlatmıştır. | I hope these sentences have explained their purpose. |
+| 98 | Bu konuyu öğrendin diye artık daha iyi ifade edebilirsin. | Now you can express yourself better because you learned this topic. |
+| 99 | Günlük 100 cümle hedefi aksamasın diye yazmaya devam ediyorum. | I continue writing so that the daily 100-sentence target doesn't fail. |
+| 100 | Ve 39. günü de tamamlamak üzereyim. | And I am about to complete the 39th day. |
+
+### 🎯 GÜN 39 AKTİVİTELERİ
+
+**Sabah (30 dk): Amaç Cümlesi Dönüştürme**
+- 15 "to + V1" cümlesini "so that / in order that" ile yeniden yaz.
+- Örnek: "I use a calendar to organize my time." → "I use a calendar so that I can organize my time."
+
+**Öğlen (30 dk): "In case" Kullanımı**
+- Teknoloji ve veri güvenliğiyle ilgili 15 tane "in case" cümlesi yaz.
+- Örnek: "I back up my data in case my computer crashes."
+
+**Akşam (45 dk): "Why I Use This Tool" Konuşması**
+- 2-3 dakikalık "En sevdiğim üç aracı neden kullanıyorum?" konuşması.
+- Her araç için en az 3 farklı so that/in order that cümlesi kullan.
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 40: Zero & First Conditional in Tech Context
+
+### 🧱 10 Temel Kalıp
+1. If the system overheats, it shuts down. (Sistem aşırı ısınırsa kapanır.)
+2. If you press this button, the machine starts. (Bu düğmeye basarsan makine başlar.)
+3. If the battery dies, you lose your data. (Pil biterse verilerini kaybedersin.)
+4. If you update now, you'll get the new features. (Şimdi güncellersen yeni özellikleri alacaksın.)
+5. If there is a bug, the developer will fix it. (Bir hata olursa geliştirici düzeltecek.)
+6. When the backup finishes, you'll see a notification. (Yedekleme bittiğinde bildirim göreceksin.)
+7. If you don't save, everything will be lost. (Kaydetmezsen her şey kaybolacak.)
+8. If the server is down, we can't work. (Sunucu çökükse çalışamayız.)
+9. If you enter the wrong password, the account gets locked. (Yanlış şifre girersen hesap kilitlenir.)
+10. If I have a tech problem, I ask the IT team. (Teknoloji sorunum olursa BT ekibine sorarım.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | press | basmak | If you press it, it works. |
+| 2 | enter | girmek | Enter the password. |
+| 3 | save | kaydetmek | If you save, it's safe. |
+| 4 | delete | silmek | If you delete, it's gone. |
+| 5 | restart | yeniden başlatmak | If it freezes, restart. |
+| 6 | freeze | donmak | If it freezes, wait. |
+| 7 | crash | çökmek | If it crashes, reboot. |
+| 8 | update | güncellemek | Update if you want features. |
+| 9 | upgrade | yükseltmek | Upgrade for better perf. |
+| 10 | reset | sıfırlamak | If it fails, reset. |
+| 11 | connect | bağlanmak | If you connect, it syncs. |
+| 12 | disconnect | bağlantıyı kesmek | If it disconnects, reconnect. |
+| 13 | sync | eşitlemek | It syncs when connected. |
+| 14 | upload | yüklemek | Upload if you want to share. |
+| 15 | download | indirmek | Download if you need it. |
+| 16 | install | kurmak | Install if you want to use it. |
+| 17 | uninstall | kaldırmak | Uninstall if you don't need it. |
+| 18 | recover | kurtarmak | Recover if you lost it. |
+| 19 | format | biçimlendirmek | Format if it's corrupted. |
+| 20 | troubleshoot | sorun gidermek | Troubleshoot if it's broken. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — Type 0 ve Type 1)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Sistem aşırı ısınırsa kapanır. | If the system overheats, it shuts down. |
+| 2 | Bu düğmeye basarsan makine başlar. | If you press this button, the machine starts. |
+| 3 | Pil biterse verilerini kaybedersin. | If the battery dies, you lose your data. |
+| 4 | Şimdi güncellersen yeni özellikleri alacaksın. | If you update now, you'll get the new features. |
+| 5 | Bir hata olursa geliştirici düzeltecek. | If there is a bug, the developer will fix it. |
+| 6 | Yedekleme bittiğinde bildirim göreceksin. | When the backup finishes, you'll see a notification. |
+| 7 | Kaydetmezsen her şey kaybolacak. | If you don't save, everything will be lost. |
+| 8 | Sunucu çökükse çalışamayız. | If the server is down, we can't work. |
+| 9 | Yanlış şifre girersen hesap kilitlenir. | If you enter the wrong password, the account gets locked. |
+| 10 | Teknoloji sorunum olursa BT ekibine sorarım. | If I have a tech problem, I ask the IT team. |
+| 11 | İnternet yavaşsa sayfa geç yüklenir. | If the internet is slow, the page loads late. |
+| 12 | Bilgisayar donarsa yeniden başlatırım. | If the computer freezes, I restart it. |
+| 13 | Mavi ekran alırsan panik yapma. | If you get a blue screen, don't panic. |
+| 14 | Faks çalışmıyorsa kabloyu kontrol et. | If the fax is not working, check the cable. |
+| 15 | Yazıcı kağıt sıkışırsa kapağı aç. | If the printer jams paper, open the lid. |
+| 16 | Toner biterse değiştir. | If the toner runs out, replace it. |
+| 17 | Tarama yapmıyorsa sürücüyü kontrol et. | If it doesn't scan, check the driver. |
+| 18 | Ses gelmiyorsa hoparlörü kontrol et. | If there's no sound, check the speaker. |
+| 19 | Görüntü yoksa kabloyu kontrol et. | If there's no display, check the cable. |
+| 20 | Klavye çalışmıyorsa pili değiştir. | If the keyboard doesn't work, change the battery. |
+| 21 | Fare donduysa USB'yi çıkar tak. | If the mouse freezes, unplug and replug the USB. |
+| 22 | Wi-Fi kesilirse modemi yeniden başlat. | If the Wi-Fi disconnects, restart the modem. |
+| 23 | Şifreyi unutursan sıfırlama e-postası alırsın. | If you forget your password, you'll get a reset email. |
+| 24 | Bağlantı güvenli değilse siteye girme. | If the connection is not secure, don't enter the site. |
+| 25 | "Bu site zararlı olabilir" uyarısı alırsan geri dön. | If you get a "This site may be harmful" warning, go back. |
+| 26 | Antivirüs virüs bulursa karantinaya alır. | If the antivirus finds a virus, it quarantines it. |
+| 27 | Dosya bulunamazsa arama yap. | If the file can't be found, do a search. |
+| 28 | Program yanıt vermezse görev yöneticisini aç. | If the program is not responding, open the task manager. |
+| 29 | Bir şey silinirse geri dönüşüm kutusuna bak. | If something is deleted, check the recycle bin. |
+| 30 | İki faktörlü doğrulama açarsan daha güvende olursun. | If you enable two-factor authentication, you'll be safer. |
+| 31 | Otomatik güncellemeleri kapatırsan manuel yapman gerekir. | If you turn off automatic updates, you'll need to do them manually. |
+| 32 | Uygulama izin isterse dikkatli ol. | If the app asks for permission, be careful. |
+| 33 | Bilmediğin bir linke tıklarsan virüs bulaşabilir. | If you click an unknown link, a virus may infect your device. |
+| 34 | E-posta şüpheliyse açma. | If the email is suspicious, don't open it. |
+| 35 | Dosyayı yanlışlıkla silersen hemen geri al. | If you accidentally delete the file, undo it immediately. |
+| 36 | Proje teslim tarihi yaklaşıyorsa mesaiye kalırım. | If the project deadline is approaching, I'll work overtime. |
+| 37 | Veriler buluttaysa her yerden erişebilirsin. | If the data is on the cloud, you can access it from anywhere. |
+| 38 | Çevrimdışıysan belgeler düzenlenemez. | If you are offline, the documents can't be edited. |
+| 39 | Şarjın azsa güç tasarrufuna al. | If your battery is low, switch to power saving mode. |
+| 40 | Ekran parlaklığı fazlaysa gözlerin yorulur. | If the screen brightness is too high, your eyes get tired. |
+| 41 | Hoparlörden ses gelmiyorsa sessize almış olabilirsin. | If there is no sound from the speaker, you might have muted it. |
+| 42 | Bluetooth bağlanmıyorsa eşleştirmeyi yenile. | If Bluetooth doesn't connect, refresh the pairing. |
+| 43 | Telefon ısınırsa kapatıp biraz bekle. | If the phone heats up, turn it off and wait a bit. |
+| 44 | Telefon suya düşerse hemen pirince yatır. | If the phone falls into water, immediately put it in rice. |
+| 45 | Uygulama çökerse geliştiriciye bildir. | If the app crashes, report it to the developer. |
+| 46 | Yazılım lisansın biterse yenileme yap. | If your software license expires, renew it. |
+| 47 | Deneme sürümü biterse satın alman gerekir. | If the trial version ends, you need to buy it. |
+| 48 | Ekran kartı arızalanırsa görüntü gider. | If the graphics card fails, the display goes away. |
+| 49 | RAM yetersizse bilgisayar yavaşlar. | If the RAM is insufficient, the computer slows down. |
+| 50 | Diskte yer kalmazsa sistem uyarı verir. | If the disk runs out of space, the system gives a warning. |
+
+#### SON 50 (Orta Seviye — Sistem ve Otomasyon Koşulları)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Yedekleme başarısız olursa sistem uyarı gönderir. | If the backup fails, the system will send an alert. |
+| 52 | Eğer saldırı tespit edilirse güvenlik duvarı otomatik devreye girer. | If an attack is detected, the firewall will automatically kick in. |
+| 53 | Oturum süren dolduysa tekrar giriş yapman gerekecek. | If your session has timed out, you will need to log in again. |
+| 54 | Birden fazla başarısız giriş denemesi olursa hesap kilitlenir. | If there are multiple failed login attempts, the account gets locked. |
+| 55 | Şüpheli bir IP tespit edilirse kara listeye alınır. | If a suspicious IP is detected, it is blacklisted. |
+| 56 | Eğer veri tabanı sorgusu uzun sürerse timeout oluşur. | If a database query takes too long, a timeout occurs. |
+| 57 | API anahtarın geçersizse istek reddedilir. | If your API key is invalid, the request is rejected. |
+| 58 | Eğer kota aşılırsa ek ücret yansır. | If the quota is exceeded, an additional fee will be charged. |
+| 59 | Web sitesi trafiği artarsa sunucu ölçeklenir. | If the website traffic increases, the server scales up. |
+| 60 | Sertifika süresi dolduysa tarayıcı uyarı verir. | If the certificate has expired, the browser gives a warning. |
+| 61 | Çerezleri temizlersen birçok sitede yeniden giriş yapman gerekir. | If you clear cookies, you'll have to log in again on many sites. |
+| 62 | DNS ayarları değişirse internete bağlanamayabilirsin. | If DNS settings change, you might not be able to connect to the internet. |
+| 63 | Yazılım güncel değilse güvenlik açıkları oluşur. | If the software is not up-to-date, security vulnerabilities occur. |
+| 64 | Eğer e-posta sunucusu çökerse mailler ulaşmaz. | If the email server crashes, emails won't be delivered. |
+| 65 | Abonelik iptal edilirse premium özellikler devre dışı kalır. | If the subscription is cancelled, premium features will be disabled. |
+| 66 | Sistem saatini değiştirirsen bazı uygulamalar çalışmaz. | If you change the system time, some applications won't work. |
+| 67 | Hata kodu 404 alıyorsan sayfa bulunamıyordur. | If you get error code 404, the page cannot be found. |
+| 68 | Hata kodu 500 alıyorsan sunucu hatası vardır. | If you get error code 500, there is a server error. |
+| 69 | Yönetici onayı olmadan dosya yüklenemez. | Files cannot be uploaded without admin approval. |
+| 70 | İşlem başarılı olursa yeşil tik göreceksin. | If the operation is successful, you will see a green tick. |
+| 71 | Ekran paylaşımına izin verirsen herkes masaüstünü görür. | If you allow screen sharing, everyone will see your desktop. |
+| 72 | Mikrofonu açmazsan toplantıda sesin duyulmaz. | If you don't unmute your microphone, your voice won't be heard in the meeting. |
+| 73 | Kamera izni vermezsen görüntün gitmez. | If you don't give camera permission, your video won't go through. |
+| 74 | Yazılımı kurarken "İleri" butonuna basarsan varsayılan ayarlarla kurulur. | If you click "Next" while installing the software, it will be installed with default settings. |
+| 75 | Eğer özel kurulum seçersen hangi bileşenlerin kurulacağını seçebilirsin. | If you choose custom installation, you can choose which components to install. |
+| 76 | Kullanım koşullarını kabul etmezsen uygulamayı kullanamazsın. | If you don't accept the terms of use, you can't use the app. |
+| 77 | Gizlilik ayarlarını değiştirmezsen verilerin toplanır. | If you don't change the privacy settings, your data will be collected. |
+| 78 | Yedekleme yapmazsan veri kaybı durumunda her şeyini kaybedersin. | If you don't back up, you'll lose everything in case of data loss. |
+| 79 | Güçlü şifre kullanmazsan hesabın kolayca ele geçirilebilir. | If you don't use a strong password, your account can be easily compromised. |
+| 80 | İki faktörlü doğrulamayı açmazsan hesabın risk altında olur. | If you don't turn on two-factor authentication, your account will be at risk. |
+| 81 | Düzenli olarak şifre değiştirirsen güvenliğin artar. | If you change your password regularly, your security will increase. |
+| 82 | Log kayıtlarını silersen saldırı tespiti zorlaşır. | If you delete log records, detecting an attack will become harder. |
+| 83 | Felaket kurtarma planın yoksa iş sürekliliğin tehlikeye girer. | If you don't have a disaster recovery plan, your business continuity will be at risk. |
+| 84 | Soğutma sistemi bozulursa sunucular aşırı ısınır ve kapanır. | If the cooling system breaks down, the servers overheat and shut down. |
+| 85 | Yedek jeneratör devreye girmezse veri merkezi karanlığa gömülür. | If the backup generator doesn't kick in, the data center will be plunged into darkness. |
+| 86 | Yazılım hatası kritik değilse bir sonraki sürüme ertelenir. | If the software bug is not critical, it's postponed to the next version. |
+| 87 | Eğer müşteri şikayeti acilse hemen müdahale edilir. | If the customer complaint is urgent, immediate intervention is made. |
+| 88 | Hata tekrarlanırsa kök neden analizi yapılır. | If the error repeats, a root cause analysis is performed. |
+| 89 | Bilgi işlem ekibi çağrıyı açtığında öncelik seviyesine göre sıralar. | When you open a ticket, the IT team ranks it according to priority level. |
+| 90 | Sorun çözülmezse ikinci seviye desteğe aktarılır. | If the problem is not solved, it's transferred to second-level support. |
+| 91 | Uzaktan bağlantı izni verirsen IT senin ekranını kontrol edebilir. | If you allow remote connection, IT can control your screen. |
+| 92 | Yazıcı arızası gidermek için sürücüyü yeniden yüklersen düzelir. | If you reinstall the driver, the printer malfunction may be fixed. |
+| 93 | Eğer şirket politikasına aykırı bir yazılım yüklersen uyarı alırsın. | If you install software contrary to company policy, you'll get a warning. |
+| 94 | Teknoloji etik kullanılırsa insanlık fayda görür. | If technology is used ethically, humanity benefits. |
+| 95 | Ama kötüye kullanılırsa telafisi olmayan zararlar doğar. | But if it's misused, irreparable damage occurs. |
+| 96 | Eğer bu hafta öğrendiklerimi uygularsam teknoloji okuryazarlığım artacak. | If I apply what I've learned this week, my technology literacy will increase. |
+| 97 | Eğer İngilizceyi teknoloji ile birleştirirsem iş imkanlarım genişler. | If I combine English with technology, my job opportunities will expand. |
+| 98 | Bu cümleler bana çok şey kattı. | These sentences have added a lot to me. |
+| 99 | Eğer devam edersem daha da katacak. | If I continue, they will add even more. |
+| 100 | 40. gün bitti, artık teknoloji konuşabiliyorum! | The 40th day is over, now I can talk about technology! |
+
+### 🎯 GÜN 40 AKTİVİTELERİ
+
+**Sabah (30 dk): Genel Doğru / Olasılık Cümleleri**
+- 15 Type 0 (genel doğru) ve 15 Type 1 (gelecek olasılık) teknoloji cümlesi yaz.
+
+**Öğlen (30 dk): Sistem Uyarı Mesajları**
+- Hayali bir yazılım için 15 tane "if" ile başlayan uyarı/otomasyon mesajı yaz.
+- Örnek: "If the system detects a threat, it will automatically quarantine the file."
+
+**Akşam (45 dk): "Tech Troubleshooting Guide" Konuşması**
+- 2-3 dakikalık "Bir teknoloji sorununu nasıl çözerim?" konuşması.
+- If/When kullanarak adım adım anlat.
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 41: Modal Verbs for Functions — can/could/may/might/will
+
+### 🧱 10 Temel Kalıp
+1. This tool can analyze data. (Bu araç veri analizi yapabilir.)
+2. With this app, you can edit photos easily. (Bu uygulamayla fotoğrafları kolayca düzenleyebilirsiniz.)
+3. The system will send you a notification. (Sistem sana bildirim gönderecek.)
+4. The software may crash if you overload it. (Aşırı yüklersen yazılım çökebilir.)
+5. The update might fix the bug. (Güncelleme hatayı düzeltebilir.)
+6. Can this device connect to Bluetooth? (Bu cihaz Bluetooth'a bağlanabilir mi?)
+7. You should check for updates regularly. (Güncellemeleri düzenli kontrol etmelisin.)
+8. You must use a strong password. (Güçlü bir şifre kullanmalısın.)
+9. The app could help you organize your tasks. (Uygulama görevlerini organize etmene yardımcı olabilir.)
+10. Will the new version be compatible? (Yeni sürüm uyumlu olacak mı?)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | capable of | -ebilmek | It is capable of scanning. |
+| 2 | able to | -ebilmek | I am able to fix it. |
+| 3 | allow | izin vermek | It allows you to edit. |
+| 4 | enable | olanak sağlamak | It enables remote access. |
+| 5 | disable | devre dışı bırakmak | You can disable it. |
+| 6 | operate | işletmek/çalıştırmak | How to operate the device. |
+| 7 | function | işlev/işlemek | The function works. |
+| 8 | perform | yerine getirmek | It performs well. |
+| 9 | execute | yürütmek | Execute the command. |
+| 10 | support | desteklemek | It supports 4K. |
+| 11 | require | gerektirmek | It requires a password. |
+| 12 | provide | sağlamak | It provides security. |
+| 13 | offer | sunmak | It offers many features. |
+| 14 | integrate | entegre etmek | It integrates with apps. |
+| 15 | compatible | uyumlu | It is compatible with iOS. |
+| 16 | reliable | güvenilir | The tool is reliable. |
+| 17 | efficient | verimli | It is very efficient. |
+| 18 | intuitive | sezgisel | The interface is intuitive. |
+| 19 | user-friendly | kullanıcı dostu | It's user-friendly. |
+| 20 | cutting-edge | son teknoloji | It's cutting-edge tech. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — Fonksiyon Anlatma)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Bu araç veri analizi yapabilir. | This tool can analyze data. |
+| 2 | Bu uygulamayla fotoğrafları kolayca düzenleyebilirsiniz. | With this app, you can edit photos easily. |
+| 3 | Sistem sana bildirim gönderecek. | The system will send you a notification. |
+| 4 | Aşırı yüklersen yazılım çökebilir. | The software may crash if you overload it. |
+| 5 | Güncelleme hatayı düzeltebilir. | The update might fix the bug. |
+| 6 | Bu cihaz Bluetooth'a bağlanabilir mi? | Can this device connect to Bluetooth? |
+| 7 | Güncellemeleri düzenli kontrol etmelisin. | You should check for updates regularly. |
+| 8 | Güçlü bir şifre kullanmalısın. | You must use a strong password. |
+| 9 | Uygulama görevlerini organize etmene yardımcı olabilir. | The app could help you organize your tasks. |
+| 10 | Yeni sürüm uyumlu olacak mı? | Will the new version be compatible? |
+| 11 | Bu program PDF dosyalarını düzenleyebilir. | This program can edit PDF files. |
+| 12 | Excel karmaşık formülleri hesaplayabilir. | Excel can calculate complex formulas. |
+| 13 | Google Drive dosyalarını yedekleyebilir. | Google Drive can back up your files. |
+| 14 | Zoom aynı anda 100 kişiyle görüşme yapabilir. | Zoom can host meetings with 100 people at the same time. |
+| 15 | Slack ekip iletişimini kolaylaştırabilir. | Slack can facilitate team communication. |
+| 16 | Yapay zeka görselleri saniyeler içinde üretebilir. | AI can generate images in seconds. |
+| 17 | Chatbot müşteri sorularını cevaplayabilir. | A chatbot can answer customer questions. |
+| 18 | Bu yazılım veritabanını otomatik yedekleyecek. | This software will automatically back up the database. |
+| 19 | Akıllı saat kalp ritmini takip edebilir. | A smartwatch can track your heart rate. |
+| 20 | GPS sana en kısa rotayı gösterebilir. | GPS can show you the shortest route. |
+| 21 | Telefonun yüz tanıma özelliği olabilir. | Your phone may have a face recognition feature. |
+| 22 | Şarj kablosu bozuk olabilir. | The charging cable might be broken. |
+| 23 | İşletim sistemi eski olabilir. | The operating system could be old. |
+| 24 | Modemi yeniden başlatmalısın. | You should restart the modem. |
+| 25 | Parolayı asla paylaşmamalısın. | You must never share your password. |
+| 26 | Çerezleri düzenli olarak temizlemelisin. | You should clear cookies regularly. |
+| 27 | Antivirüs taraması yapmalı mıyım? | Should I run an antivirus scan? |
+| 28 | Bu eklentiyi kaldırmalısın, bilgisayarı yavaşlatıyor. | You should remove this extension; it's slowing down the computer. |
+| 29 | Veri kurtarma yazılımı işe yarayabilir. | Data recovery software might work. |
+| 30 | Teknik destek sana yardımcı olabilir. | Technical support could help you. |
+| 31 | Programı yönetici olarak çalıştırmayı dene, çalışabilir. | Try running the program as administrator; it might work. |
+| 32 | Bilgisayarı formatlaman gerekebilir. | You may need to format the computer. |
+| 33 | Sabit disk arızalı olabilir. | The hard drive may be faulty. |
+| 34 | Verilerini kurtarabilecek misin? | Will you be able to recover your data? |
+| 35 | Yedekten dönebiliriz. | We can restore from backup. |
+| 36 | Bulut hizmeti ayda 1 TB depolama sunuyor. | The cloud service offers 1 TB of storage per month. |
+| 37 | Bu alet suya dayanıklı olmalı. | This device must be waterproof. |
+| 38 | Kullanma kılavuzu her şeyi açıklıyor. | The user manual explains everything. |
+| 39 | Uygulama arayüzü çok kullanışlı. | The app's interface is very useful. |
+| 40 | Kısayolları kullanabilir misin? | Can you use the shortcuts? |
+| 41 | Ekran görüntüsü alabilir misin? | Can you take a screenshot? |
+| 42 | Bana bu dosyayı mail atabilir misin? | Could you email me this file? |
+| 43 | Şifreni sıfırlamama izin verir misin? | Will you let me reset your password? |
+| 44 | Bu butona basarsan her şeyi silebilirsin. | If you press this button, you could delete everything. |
+| 45 | Eğitim videosu sana yardımcı olabilir. | The training video may help you. |
+| 46 | Sistem 7/24 çalışabilir. | The system can operate 24/7. |
+| 47 | Uygulama entegre çalışabiliyor mu? | Can the app work integrated? |
+| 48 | Bu özellik sadece premium üyelere sunuluyor. | This feature is offered only to premium members. |
+| 49 | Araç kullanıcı dostu. | The tool is user-friendly. |
+| 50 | Teknoloji hayatımızı kolaylaştırabilir. | Technology can make our lives easier. |
+
+#### SON 50 (Orta Seviye — Detaylı Fonksiyon Anlatımı)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Bu yazılım saatler süren işi dakikalar içinde yapabilir. | This software can do tasks that take hours in minutes. |
+| 52 | Makine öğrenmesi modeli büyük veri setlerini analiz edebilir. | The machine learning model can analyze large datasets. |
+| 53 | VPN bağlantınızı şifreleyerek gizliliğinizi korur. | VPN encrypts your connection, thus protecting your privacy. |
+| 54 | Antivirüs programı zararlı yazılımları tespit edip karantinaya alabilir. | The antivirus program can detect malware and quarantine it. |
+| 55 | Parola yöneticisi tüm şifrelerinizi güvenle saklayabilir. | A password manager can securely store all your passwords. |
+| 56 | E-ticaret platformu stok takibini otomatik yapabilir. | The e-commerce platform can automatically track stock. |
+| 57 | CRM yazılımı müşteri ilişkilerini yönetmeye yardımcı olur. | CRM software can help manage customer relationships. |
+| 58 | Proje yönetim aracı görev ataması yapabilir ve süreci takip edebilir. | The project management tool can assign tasks and track progress. |
+| 59 | Kod editörü sözdizimi hatalarını anında gösterebilir. | The code editor can instantly show syntax errors. |
+| 60 | Figma ile arayüz tasarımı yapabilir ve prototip oluşturabilirsiniz. | With Figma, you can design interfaces and create prototypes. |
+| 61 | Photoshop katmanlar ile çalışır, böylece düzenlemeler geri alınabilir olur. | Photoshop works with layers, so edits can be reversible. |
+| 62 | Premiere Pro videoları 4K çözünürlükte render alabilir. | Premiere Pro can render videos in 4K resolution. |
+| 63 | Bu araç farklı formatlarda dışa aktarım yapabilir. | This tool can export in different formats. |
+| 64 | Bulut bilişim sayesinde altyapı maliyetleri düşürülebilir. | Infrastructure costs can be reduced thanks to cloud computing. |
+| 65 | IoT cihazları sensörlerden veri toplayıp buluta gönderebilir. | IoT devices can collect data from sensors and send it to the cloud. |
+| 66 | 5G, gecikme süresini minimuma indirebilir. | 5G can minimize latency. |
+| 67 | Yapay zeka asistanı sesli komutları anlayıp işlem yapabilir. | An AI assistant can understand voice commands and take action. |
+| 68 | Blockchain, işlemleri merkeziyetsiz olarak kaydedebilir. | Blockchain can record transactions decentrally. |
+| 69 | Akıllı sözleşmeler kendi kendini icra edebilir. | Smart contracts can execute themselves. |
+| 70 | Robotik süreç otomasyonu tekrar eden görevleri devralabilir. | Robotic process automation can take over repetitive tasks. |
+| 71 | Sanal gerçeklik gözlüğü sizi bambaşka bir dünyaya götürebilir. | A VR headset can take you to a completely different world. |
+| 72 | Artırılmış gerçeklik mobilyanın odanda nasıl duracağını gösterebilir. | AR can show you how furniture will look in your room. |
+| 73 | 3D yazıcı ile prototip üretebilirsiniz. | You can produce prototypes with a 3D printer. |
+| 74 | Drone havadan görüntü alabilir ve haritalama yapabilir. | A drone can take aerial footage and do mapping. |
+| 75 | Güneş panelleri güneş enerjisini elektriğe dönüştürebilir. | Solar panels can convert solar energy into electricity. |
+| 76 | Akıllı ev sistemi ışıkları ve ısıyı uzaktan kontrol etmenizi sağlar. | A smart home system allows you to control lights and heating remotely. |
+| 77 | Robot süpürge evi sen yokken temizleyebilir. | A robot vacuum can clean the house while you are away. |
+| 78 | Navigasyon uygulaması trafiğe takılmaman için alternatif rota önerebilir. | The navigation app may suggest alternative routes so you don't get stuck in traffic. |
+| 79 | Çeviri uygulamaları 100'den fazla dili anında çevirebilir. | Translation apps can instantly translate more than 100 languages. |
+| 80 | Sesli asistan randevu oluşturabilir ve hatırlatma kurabilir. | The voice assistant can create appointments and set reminders. |
+| 81 | E-posta istemcisi mesajları önem sırasına göre filtreleyebilir. | The email client can filter messages by importance. |
+| 82 | Takvim uygulaması müsaitlik durumuna göre toplantı önerebilir. | The calendar app may suggest meetings based on availability. |
+| 83 | Not alma uygulaması el yazını metne çevirebilir. | The note-taking app can convert your handwriting to text. |
+| 84 | Bulut depolama dosyalarını tüm cihazların arasında eşitleyebilir. | Cloud storage can sync your files across all your devices. |
+| 85 | Şifreleme yazılımı verilerini meraklı gözlerden korur. | Encryption software protects your data from prying eyes. |
+| 86 | Güvenlik duvarı gelen ve giden trafiği denetleyebilir. | The firewall can monitor incoming and outgoing traffic. |
+| 87 | Yedekleme aracı dosyalarını belirlediğin sıklıkta kopyalayabilir. | The backup tool can copy your files at intervals you set. |
+| 88 | Uzaktan masaüstü uygulaması evdeki bilgisayarına bağlanmanı sağlar. | The remote desktop app enables you to connect to your home computer. |
+| 89 | Ekran kaydedici sunumlarını kaydedip paylaşmana olanak tanır. | The screen recorder allows you to record and share your presentations. |
+| 90 | Video konferans aracı sanal arka plan özelliği sunabilir. | The video conferencing tool may offer a virtual background feature. |
+| 91 | Anket aracı geri bildirim toplamayı kolaylaştırır. | The survey tool facilitates collecting feedback. |
+| 92 | E-imza yazılımı belgeleri dijital olarak imzalamana izin verir. | The e-signature software allows you to sign documents digitally. |
+| 93 | Ödeme sistemi farklı para birimleriyle işlem yapabilir. | The payment system can process transactions in different currencies. |
+| 94 | API farklı yazılımların birbiriyle konuşmasını sağlar. | The API enables different software to communicate with each other. |
+| 95 | Teknoloji bizi daha hızlı, daha güçlü, daha bağlantılı yapabilir. | Technology can make us faster, stronger, more connected. |
+| 96 | Ama bizi daha insan yapamaz, onu biz yapmalıyız. | But it can't make us more human; we must do that. |
+| 97 | Makinelerin yapamadığı şey sevmek. | What machines can't do is love. |
+| 98 | Bu yüzden teknolojiyi sevgiyle kullan. | So use technology with love. |
+| 99 | 41 gündür teknoloji destekli İngilizce öğreniyorum. | I have been learning English with the help of technology for 41 days. |
+| 100 | Ve bu harika bir şey. | And this is a wonderful thing. |
+
+### 🎯 GÜN 41 AKTİVİTELERİ
+
+**Sabah (30 dk): Fonksiyon Listesi**
+- Sevdiğin 5 teknoloji aracını seç, her birinin 4'er fonksiyonunu anlat.
+- can/could/may/might/will kullan (toplam 20 cümle).
+
+**Öğlen (30 dk): Özellik Karşılaştırma**
+- İki benzer uygulamanın özelliklerini can/can't kullanarak kıyasla.
+- 15 cümle yaz.
+
+**Akşam (45 dk): "My Favorite App" Sunumu**
+- 2-3 dakikalık "En sevdiğim uygulama ve neler yapabilir" konuşması.
+- Tüm modalları kullan.
+- Ses kaydı al.
+
+---
+
+## 📘 GÜN 42: Linking Words for Process Description + HAFTA 7 FİNAL
+
+### 🧱 10 Temel Kalıp
+1. First, you open the app. (Önce uygulamayı açarsın.)
+2. Then, you enter your username. (Sonra kullanıcı adını girersin.)
+3. Next, the system verifies your identity. (Ardından sistem kimliğini doğrular.)
+4. After that, you see the dashboard. (Ondan sonra paneli görürsün.)
+5. Finally, you can start using the tool. (Son olarak aracı kullanmaya başlayabilirsin.)
+6. Before doing that, make sure you saved. (Ondan önce kaydettiğinden emin ol.)
+7. While the update is running, don't turn off the device. (Güncelleme çalışırken cihazı kapatma.)
+8. Once it's done, restart the computer. (Bittiğinde bilgisayarı yeniden başlat.)
+9. To begin with, check your internet connection. (Öncelikle internet bağlantını kontrol et.)
+10. The last step is to confirm the settings. (Son adım ayarları onaylamaktır.)
+
+### 📚 20 Hedef Kelime
+
+| # | İngilizce | Türkçe | Cümle İçinde Örnek |
+|:---|:---|:---|:---|
+| 1 | first | ilk olarak | First, plug it in. |
+| 2 | then | sonra | Then, turn it on. |
+| 3 | next | ardından | Next, open the app. |
+| 4 | after that | ondan sonra | After that, sign in. |
+| 5 | finally | son olarak | Finally, use it. |
+| 6 | before | önce | Before that, save. |
+| 7 | after | sonra | After saving, exit. |
+| 8 | while | iken/-ken | While loading, wait. |
+| 9 | once | -diğinde (bitince) | Once done, check. |
+| 10 | until | -e kadar | Wait until it's done. |
+| 11 | as soon as | -er -mez (hemen) | As soon as it opens, click. |
+| 12 | during | sırasında | During the setup, wait. |
+| 13 | initially | başlangıçta | Initially it was slow. |
+| 14 | subsequently | sonradan/ardından | Subsequently, it improved. |
+| 15 | eventually | en sonunda | Eventually, it worked. |
+| 16 | meanwhile | bu arada | Meanwhile, back up data. |
+| 17 | at first | ilk başta | At first, it was hard. |
+| 18 | in the end | sonunda | In the end, it was easy. |
+| 19 | step by step | adım adım | Follow it step by step. |
+| 20 | gradually | kademeli olarak | It gradually improved. |
+
+### 📝 100 CÜMLE (Türkçe → İngilizce)
+
+#### İLK 50 (Temel Seviye — Süreç Anlatımı)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 1 | Önce uygulamayı aç. | First, open the app. |
+| 2 | Sonra kullanıcı adını gir. | Then, enter your username. |
+| 3 | Ardından sistem kimliğini doğrular. | Next, the system verifies your identity. |
+| 4 | Ondan sonra paneli görürsün. | After that, you see the dashboard. |
+| 5 | Son olarak aracı kullanmaya başlayabilirsin. | Finally, you can start using the tool. |
+| 6 | Ondan önce kaydettiğinden emin ol. | Before doing that, make sure you have saved. |
+| 7 | Güncelleme çalışırken cihazı kapatma. | While the update is running, don't turn off the device. |
+| 8 | Bittiğinde bilgisayarı yeniden başlat. | Once it's done, restart the computer. |
+| 9 | Öncelikle internet bağlantını kontrol et. | To begin with, check your internet connection. |
+| 10 | Son adım ayarları onaylamaktır. | The last step is to confirm the settings. |
+| 11 | Önce kabloyu prize tak. | First, plug the cable into the socket. |
+| 12 | Sonra güç düğmesine bas. | Then, press the power button. |
+| 13 | Bilgisayar açılırken bekle. | Wait while the computer starts up. |
+| 14 | Açılır açılmaz şifreni gir. | As soon as it turns on, enter your password. |
+| 15 | Masaüstü göründüğünde tarayıcıyı aç. | Once the desktop appears, open the browser. |
+| 16 | Adres çubuğuna site adını yaz. | Type the site name into the address bar. |
+| 17 | Enter'a bas. | Press enter. |
+| 18 | Site yüklenene kadar bekle. | Wait until the site loads. |
+| 19 | Kullanıcı adı ve şifreni gir. | Enter your username and password. |
+| 20 | Giriş yap butonuna tıkla. | Click the login button. |
+| 21 | İki faktörlü kod gelirse onu da gir. | If a two-factor code comes, enter that too. |
+| 22 | Başarıyla giriş yaptıktan sonra işlemlerine başla. | After logging in successfully, start your operations. |
+| 23 | Programı kurmadan önce sistem gereksinimlerini kontrol et. | Before installing the program, check the system requirements. |
+| 24 | Kurulum dosyasını resmi siteden indir. | Download the setup file from the official site. |
+| 25 | İndirme bitince dosyaya çift tıkla. | Once the download is complete, double-click the file. |
+| 26 | Kullanıcı hesabı denetimi sorarsa "Evet" de. | If User Account Control asks, say "Yes." |
+| 27 | Kurulum sihirbazı açıldığında talimatları takip et. | When the setup wizard opens, follow the instructions. |
+| 28 | Lisans sözleşmesini kabul et. | Accept the license agreement. |
+| 29 | Kurulum konumunu seç veya varsayılanı kullan. | Choose the install location or use the default. |
+| 30 | "İleri"ye tıkla. | Click "Next." |
+| 31 | Kurulum bitene kadar bekle. | Wait until the installation is complete. |
+| 32 | Kurulum tamamlandıktan sonra bilgisayarı yeniden başlat. | Restart the computer after the installation is complete. |
+| 33 | Bilgisayar açıldıktan sonra programı masaüstünden başlat. | After the computer turns on, launch the program from the desktop. |
+| 34 | İlk açılışta sizden bazı izinler istenebilir. | On the first launch, some permissions may be requested from you. |
+| 35 | Onlara izin ver. | Allow them. |
+| 36 | Hesap oluştur ekranında bilgilerini doldur. | Fill in your information on the create account screen. |
+| 37 | E-posta adresini doğrula. | Verify your email address. |
+| 38 | E-posta kutuna gelen kodu gir. | Enter the code that came to your inbox. |
+| 39 | Artık programı kullanmaya hazırsın. | You are now ready to use the program. |
+| 40 | Önce ayarları yap. | First, make the settings. |
+| 41 | Dil seçeneğini Türkçe yapabilirsin. | You can set the language option to English (or your preferred). |
+| 42 | Bildirim tercihlerini yapılandır. | Configure notification preferences. |
+| 43 | Gizlilik ayarlarını gözden geçir. | Review privacy settings. |
+| 44 | Temayı seç (açık/koyu). | Choose the theme (light/dark). |
+| 45 | Şifreni değiştirmeyi unutma. | Don't forget to change your password. |
+| 46 | Son olarak arayüzü kişiselleştir. | Finally, personalize the interface. |
+| 47 | Tüm adımları tamamladın. | You have completed all the steps. |
+| 48 | Tebrikler, kurulum başarılı! | Congratulations, the installation was successful! |
+| 49 | İlk başta biraz karışık gelebilir. | At first, it may seem a bit confusing. |
+| 50 | Ama zamanla alışacaksın. | But you will get used to it over time. |
+
+#### SON 50 (Orta Seviye — Karmaşık Süreç Anlatımı)
+
+| # | Türkçe | İngilizce |
+|:---|:---|:---|
+| 51 | Yazılım geliştirme süreci planlama ile başlar. | The software development process begins with planning. |
+| 52 | İlk olarak gereksinimler toplanır. | First, requirements are collected. |
+| 53 | Müşterinin ne istediği anlaşılır. | What the customer wants is understood. |
+| 54 | Daha sonra analiz aşamasına geçilir. | Then, the analysis phase is moved onto. |
+| 55 | Bu aşamada teknik fizibilite değerlendirilir. | At this stage, technical feasibility is evaluated. |
+| 56 | Ardından tasarım süreci başlar. | Next, the design process begins. |
+| 57 | Arayüz ve veri tabanı tasarımı yapılır. | The interface and database design are made. |
+| 58 | Tasarım onaylandıktan sonra kodlama başlar. | After the design is approved, coding begins. |
+| 59 | Geliştiriciler görevleri paylaşır. | Developers share the tasks. |
+| 60 | Kodlama süresince sürekli entegrasyon yapılır. | Continuous integration is done during coding. |
+| 61 | Her gün kodlar ana depoya gönderilir. | Every day, codes are sent to the main repository. |
+| 62 | Kod yazımı bittikten sonra test aşamasına geçilir. | After coding is finished, the testing phase is moved onto. |
+| 63 | Önce birim testleri yapılır. | First, unit tests are performed. |
+| 64 | Daha sonra entegrasyon testleri yapılır. | Then, integration tests are done. |
+| 65 | Hatalar bulunursa geri bildirim yapılır. | If bugs are found, feedback is given. |
+| 66 | Geliştirici hataları düzeltir. | The developer fixes the bugs. |
+| 67 | Test başarıyla geçildikten sonra kullanıcı kabul testi yapılır. | After the test is passed successfully, user acceptance testing is done. |
+| 68 | Müşteri yazılımı kontrol eder. | The client checks the software. |
+| 69 | Onay verirse yazılım canlıya alınır. | If approved, the software goes live. |
+| 70 | Canlıya alımdan önce son bir yedekleme yapılır. | One last backup is made before going live. |
+| 71 | Eski sürüm kaldırılır. | The old version is removed. |
+| 72 | Yeni sürüm yüklenir. | The new version is installed. |
+| 73 | Canlıya alım sonrası sistem bir süre izlenir. | The system is monitored for a while after the launch. |
+| 74 | Eğer bir sorun olursa acil müdahale ekibi devreye girer. | If there is a problem, the emergency response team steps in. |
+| 75 | Sorun giderilince raporlama yapılır. | When the problem is solved, reporting is done. |
+| 76 | Tüm süreç boyunca dokümantasyon yapılır. | Documentation is done throughout the entire process. |
+| 77 | Toplantı tutanakları, tasarım dökümanları ve kod yorumları saklanır. | Meeting minutes, design documents, and code comments are kept. |
+| 78 | Bu sayede gelecekteki projeler için bilgi birikimi oluşur. | In this way, knowledge accumulation is formed for future projects. |
+| 79 | Teknoloji üretmek disiplinler arası bir iştir. | Producing technology is an interdisciplinary job. |
+| 80 | Adım adım ilerlerseniz dağlar aşılır. | If you proceed step by step, mountains can be crossed. |
+| 81 | İlk başta imkansız gibi görünen şeyler parçalara bölünür. | Things that seem impossible at first are divided into pieces. |
+| 82 | Her parça teker teker çözülür. | Each piece is solved one by one. |
+| 83 | Ve sonunda bütün ortaya çıkar. | And in the end, the whole emerges. |
+| 84 | Bir web sitesi kurmak da böyledir. | Setting up a website is like this too. |
+| 85 | Önce alan adı ve hosting alınır. | First, a domain name and hosting are purchased. |
+| 86 | Ardından platform seçilir. | Next, the platform is chosen. |
+| 87 | Şablon yüklenir ve içerik girilir. | A template is loaded and content is entered. |
+| 88 | SEO ayarları yapılır. | SEO settings are configured. |
+| 89 | Site test edilir. | The site is tested. |
+| 90 | Ve sonunda yayına alınır. | And finally, it is published. |
+| 91 | Her şey bir süreçtir. | Everything is a process. |
+| 92 | Önemli olan ilk adımı atmak ve devam etmektir. | The important thing is to take the first step and continue. |
+| 93 | Ben de 42 gün önce bir adım attım. | I also took a step 42 days ago. |
+| 94 | Önce ilk cümleyi yazdım. | First, I wrote the first sentence. |
+| 95 | Sonra ikincisini. | Then the second one. |
+| 96 | Adım adım binlere ulaştım. | Step by step, I reached thousands. |
+| 97 | Bu süreçte İngilizcem gelişti. | In this process, my English improved. |
+| 98 | Teknoloji de bu işin içindeydi hep. | Technology was always a part of this too. |
+| 99 | Sana da adım adım ilerlemeni tavsiye ederim. | I recommend that you proceed step by step too. |
+| 100 | 7. hafta bitti! 🖥️ | Week 7 is over! 🖥️ |
+
+### 🎯 GÜN 42 AKTİVİTELERİ — HAFTA 7 FİNAL
+
+**Sabah (30 dk): Kullanım Kılavuzu**
+- Sevdiğin bir uygulamanın nasıl kullanılacağını adım adım anlatan 20 cümle yaz.
+- First, then, next, after that, finally kullan.
+
+**Öğlen (30 dk): Hafta 7 Genel Tekrar**
+- 6 günde öğrendiğin tüm gramer konularını gözden geçir.
+- Her konudan 3 örnek cümle yaz (toplam 18 cümle).
+
+**Akşam (45 dk): Büyük Final — Teknoloji Süreç Sunumu**
+- 3-4 dakikalık "Bir teknoloji ürünü nasıl geliştirilir?" konuşması.
+- TÜM hafta 7 konularını kullan:
+  - Passive Voice
+  - Relative Clauses with Prepositions
+  - Clauses of Purpose
+  - Conditionals
+  - Modals for Functions
+  - Process Linking Words
+- Ses kaydı al. TEKNOLOJİ UZMANI GİBİ KONUŞ! 🎉
+
+---
+
+## 📊 HAFTA 7 — 6 GÜNLÜK ÖZET TABLO
+
+| Gün | Gramer Odağı | Toplam Cümle | Ana Aktivite |
+|:---|:---|:---|:---|:---|
+| 37 | Passive Voice — All Tenses (Tech) | ✅ 50+50 | "A Day in IT Admin Life" Konuşması |
+| 38 | Relative Clauses with Prepositions | ✅ 50+50 | "My Essential Tools" Konuşması |
+| 39 | Clauses of Purpose (so that/in order that) | ✅ 50+50 | "Why I Use This Tool" Konuşması |
+| 40 | Zero & First Conditional (Tech) | ✅ 50+50 | "Tech Troubleshooting Guide" Konuşması |
+| 41 | Modal Verbs for Functions | ✅ 50+50 | "My Favorite App" Sunumu |
+| 42 | Linking Words for Process + Final | ✅ 50+50 | "How to Develop a Tech Product" Sunumu |
+
+---
+
+## 📈 42 GÜNLÜK GENEL İLERLEME
+
+| Gramer Konusu | Durum |
+|:---|:---:|
+| Tüm A1-A2 Konuları | ✅ Tamam |
+| Tüm B1 Geçiş Konuları (Hafta 1-6) | ✅ Tamam |
+| **Passive Voice — All Tenses** | ✅ Tamam |
+| **Relative Clauses with Prepositions** | ✅ Tamam |
+| **Clauses of Purpose** | ✅ Tamam |
+| **Conditionals in Tech Context** | ✅ Tamam |
+| **Modal Verbs for Functions** | ✅ Tamam |
+| **Process Linking Words** | ✅ Tamam |
+| **Toplam Cümle Pratiği** | **4200 cümle** |
+| **Toplam Kelime** | **840 kelime** |
+
+---
+
+7 hafta, 42 gün, **4200 cümle**, **840 kelime**! YOLUN YARISINDAN FAZLASI TAMAM! 🎉
+
+Artık:
+- ✅ Tüm zamanlarda pasif çatı kurabiliyorsun
+- ✅ Edatlı ilgi cümleleriyle üst düzey anlatım yapıyorsun
+- ✅ Amaç cümleleriyle araçların neden kullanıldığını açıklıyorsun
+- ✅ Teknoloji bağlamında koşul cümleleri kuruyorsun
+- ✅ Araçların fonksiyonlarını modal verbs ile anlatıyorsun
+- ✅ Süreçleri adım adım bağlaçlarla açıklıyorsun
+
+Devam edelim mi? Sırada **Hafta 8 — Yurt Dışı, Seyahat & Uyum** var! ✈️

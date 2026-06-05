@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gün 2 - Present Simple — Olumsuz Cümleler & Sorular</title>
+<style>
+:root {
+    --bg-color: #FAFAFA;
+    --text-color: #333;
+    --heading-color: #2C3E50;
+    --primary-color: #3498DB;
+    --primary-hover: #2980B9;
+    --card-bg: #FFFFFF;
+    --shadow: 0 2px 12px rgba(0,0,0,0.08);
+    --border-radius: 12px;
+}
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #f0f0f0;
+    --heading-color: #e0e0e0;
+    --primary-color: #3498DB;
+    --card-bg: #2d2d2d;
+    --shadow: 0 2px 12px rgba(0,0,0,0.3);
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+.container {
+    max-width: 750px;
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+h1, h2, h3 {
+    color: var(--heading-color);
+}
+.theme-toggle {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: var(--text-color);
+}
+.tabs {
+    display: flex;
+    overflow-x: auto;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+}
+.tab {
+    padding: 10px 15px;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    font-weight: bold;
+    color: #777;
+    white-space: nowrap;
+}
+.tab.active {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+}
+.progress-container {
+    height: 4px;
+    background: #ddd;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.progress-bar {
+    height: 100%;
+    background: var(--primary-color);
+    width: 20%;
+    transition: width 0.3s;
+}
+.tab-content {
+    display: none;
+}
+.tab-content.active {
+    display: block;
+    animation: fadeIn 0.3s;
+}
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+.card {
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    padding: 20px;
+    margin-bottom: 15px;
+}
+button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+button:hover {
+    background-color: var(--primary-hover);
+}
+button.success { background-color: #2ECC71; }
+button.success:hover { background-color: #27AE60; }
+button.warning { background-color: #E67E22; }
+button.warning:hover { background-color: #D35400; }
+button.icon-btn {
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+.grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+@media (max-width: 600px) {
+    .grid-2 { grid-template-columns: 1fr; }
+}
+.hidden { display: none !important; }
+.sentence-card {
+    text-align: center;
+    padding: 40px 20px;
+}
+.tr-sentence {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.en-sentence {
+    font-size: 20px;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+    min-height: 30px;
+}
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.milestone {
+    text-align: center;
+    font-size: 24px;
+    color: var(--primary-color);
+    margin: 30px 0;
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h2>Gün 2: Present Simple — Olumsuz Cümleler & Sorular</h2>
+        <button class="theme-toggle" id="themeToggle" title="Tema Değiştir">🌙</button>
+    </header>
+
+    <div class="tabs">
+        <div class="tab active" data-target="gramer">📘 Gramer</div>
+        <div class="tab" data-target="kelimeler">📝 Kelimeler</div>
+        <div class="tab" data-target="kaliplar">💬 Kalıplar</div>
+        <div class="tab" data-target="cumleler">✍️ Cümleler</div>
+        <div class="tab" data-target="aktivite">✅ Aktivite</div>
+    </div>
+    
+    <div class="progress-container">
+        <div class="progress-bar" id="tabProgress" style="width: 20%;"></div>
+    </div>
+
+    <!-- 1. GRAMER -->
+    <div id="gramer" class="tab-content active">
+        <div class="card">
+            <h3>Gramer Konusu: Present Simple — Olumsuz Cümleler & Sorular</h3>
+            <p>Aşağıda bu günün temel kalıpları ve örnekleri yer almaktadır.</p>
+            <ul>
+                <li><strong>... yapmam.</strong> <br> <span style='color: var(--primary-color);'>I don't...</span></li>
+            </ul>
+            <div style="margin-top: 20px;">
+                <button onclick="switchTab(1)">Anladım, Devam Et →</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. KELİMELER -->
+    <div id="kelimeler" class="tab-content">
+        <div style="margin-bottom: 15px;">
+            <button onclick="toggleAllWords()">Türkçesini Göster/Gizle</button>
+        </div>
+        <div class="grid-2">
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>skip</strong>
+                    <button class="icon-btn" onclick="speak(`skip`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">atlamak/es geçmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>stay</strong>
+                    <button class="icon-btn" onclick="speak(`stay`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">kalmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>forget</strong>
+                    <button class="icon-btn" onclick="speak(`forget`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">unutmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>rush</strong>
+                    <button class="icon-btn" onclick="speak(`rush`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">acele etmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>complain</strong>
+                    <button class="icon-btn" onclick="speak(`complain`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">şikayet etmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>oversleep</strong>
+                    <button class="icon-btn" onclick="speak(`oversleep`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">uyuyakalmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>nap</strong>
+                    <button class="icon-btn" onclick="speak(`nap`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">şekerleme yapmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>snooze</strong>
+                    <button class="icon-btn" onclick="speak(`snooze`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">ertelemek (alarm)</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>check</strong>
+                    <button class="icon-btn" onclick="speak(`check`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">kontrol etmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>prefer</strong>
+                    <button class="icon-btn" onclick="speak(`prefer`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">tercih etmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>weekend</strong>
+                    <button class="icon-btn" onclick="speak(`weekend`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">hafta sonu</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>weekday</strong>
+                    <button class="icon-btn" onclick="speak(`weekday`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">hafta içi</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>early</strong>
+                    <button class="icon-btn" onclick="speak(`early`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">erken</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>late</strong>
+                    <button class="icon-btn" onclick="speak(`late`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">geç</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>workout</strong>
+                    <button class="icon-btn" onclick="speak(`workout`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">antrenman</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>healthy</strong>
+                    <button class="icon-btn" onclick="speak(`healthy`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">sağlıklı</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>tired</strong>
+                    <button class="icon-btn" onclick="speak(`tired`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">yorgun</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>bored</strong>
+                    <button class="icon-btn" onclick="speak(`bored`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">sıkılmış</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>stressed</strong>
+                    <button class="icon-btn" onclick="speak(`stressed`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">stresli</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>organized</strong>
+                    <button class="icon-btn" onclick="speak(`organized`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">düzenli</div>
+            </div>
+        </div>
+        <div style="margin-top: 20px;">
+            <button onclick="switchTab(2)">Kelimeleri Öğrendim →</button>
+        </div>
+    </div>
+
+    <!-- 3. KALIPLAR -->
+    <div id="kaliplar" class="tab-content">
+        <div class="grid-2">
+            <div class="card pattern-card">
+                <h3 style="margin-top: 0;">... yapmam.</h3>
+                <div class="pattern-en hidden" style="color: var(--primary-color); margin-bottom: 10px;">I don't...</div>
+                <div style="display: flex; gap: 10px;">
+                    <button onclick="togglePattern(this)">Göster/Gizle</button>
+                    <button class="icon-btn" onclick="speak(`I don't...`)">🔊</button>
+                </div>
+            </div>
+        </div>
+        <div style="margin-top: 20px;">
+            <button onclick="switchTab(3)">Kalıpları Öğrendim →</button>
+        </div>
+    </div>
+
+    <!-- 4. CÜMLELER -->
+    <div id="cumleler" class="tab-content">
+        <div class="card sentence-card" id="sentenceContainer">
+            <div style="text-align: left; margin-bottom: 10px; font-weight: bold;">Cümle <span id="sIndex">1</span> / <span id="sTotal">100</span></div>
+            <div class="progress-container" style="height: 6px;">
+                <div class="progress-bar" id="sentenceProgress" style="width: 1%;"></div>
+            </div>
+            
+            <div id="milestoneMsg" class="milestone hidden"></div>
+
+            <div id="sentenceStudyArea">
+                <div class="tr-sentence" id="trSentence">Türkçe cümle burada</div>
+                <div class="en-sentence hidden" id="enSentence">English sentence here</div>
+                
+                <button id="showAnswerBtn" onclick="showAnswer()">Cevabı Göster</button>
+                
+                <div class="action-buttons hidden" id="answerBtns">
+                    <button class="success" onclick="nextSentence(true)">✅ Doğru Bildim</button>
+                    <button class="warning" onclick="nextSentence(false)">🔄 Tekrar Et</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3 style="cursor: pointer; margin: 0;" onclick="toggleWrongList()">Tekrar Listesi (<span id="wrongCount">0</span> cümle) 🔽</h3>
+            <div id="wrongListContainer" class="hidden" style="margin-top: 15px;">
+                <ul id="wrongList"></ul>
+                <button onclick="startWrongListReview()" id="reviewBtn" class="hidden" style="margin-top: 10px;">Tümünü Tekrar Et</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 5. AKTİVİTE -->
+    <div id="aktivite" class="tab-content">
+        <div class="card">
+            <h3>Günün Aktivitesi</h3>
+            <div style="line-height: 1.6; margin-bottom: 20px;">
+                **Sabah (30 dk): Soru-Cevap Pratiği**<br>- 50 soruyu yüksek sesle kendine sor.<br>- Her soruya tam cümleyle, yüksek sesle cevap ver.<br>- Ses kaydı al, dinle, telaffuz hatalarını düzelt.<br><br>**Öğlen (30 dk): Olumsuz Cümle Çeviri**<br>- Olumsuz cümlelerden 25 tanesini Türkçe'den İngilizce'ye çevir.<br>- Don't/doesn't kullanımına dikkat et.<br>- Yanlışlarını analiz et.<br><br>**Akşam (45 dk): Yazma — Röportaj**<br>- Hayali bir röportaj yaz: Bir gazeteci sana rutinini soruyor.<br>- 10 soru ve 10 cevap yaz.<br>- Yazdıklarını sesli oku, kaydet.
+            </div>
+            <label style="display: flex; align-items: center; cursor: pointer; font-size: 18px;">
+                <input type="checkbox" style="width: 20px; height: 20px; margin-right: 10px;">
+                Tamamladım ✅
+            </label>
+        </div>
+        
+        <div class="card" style="text-align: center; font-style: italic; color: var(--primary-color);">
+            "Success is the sum of small efforts, repeated day in and day out."
+        </div>
+    </div>
+</div>
+
+<script>
+    // Data
+    const sentences = [{"tr": "Ben hafta sonu erken kalkmam.", "en": "I don't wake up early on weekends."}, {"tr": "Ben kahvaltıyı atlamam.", "en": "I don't skip breakfast."}, {"tr": "Ben geç saatlere kadar oturmam.", "en": "I don't stay up late."}, {"tr": "Ben sigara içmem.", "en": "I don't smoke."}, {"tr": "Ben alkol kullanmam.", "en": "I don't drink alcohol."}, {"tr": "Ben et yemem.", "en": "I don't eat meat."}, {"tr": "Sabahları acele etmem.", "en": "I don't rush in the morning."}, {"tr": "Alarmımı ertelemem.", "en": "I don't hit snooze on my alarm."}, {"tr": "Ben genellikle uyuyakalmam.", "en": "I don't usually oversleep."}, {"tr": "Gün içinde şekerleme yapmam.", "en": "I don't nap during the day."}, {"tr": "Ben televizyon izlemem.", "en": "I don't watch TV."}, {"tr": "Ben sosyal medyada çok vakit geçirmem.", "en": "I don't spend much time on social media."}, {"tr": "Ben fast food yemem.", "en": "I don't eat fast food."}, {"tr": "İşe geç kalmam.", "en": "I don't arrive late to work."}, {"tr": "Toplantıları kaçırmam.", "en": "I don't miss meetings."}, {"tr": "Çok fazla şikayet etmem.", "en": "I don't complain too much."}, {"tr": "Sabahları kahve içmem.", "en": "I don't drink coffee in the morning."}, {"tr": "Ben tatlı sevmem.", "en": "I don't like sweets."}, {"tr": "Ben soğuk havayı sevmem.", "en": "I don't like cold weather."}, {"tr": "Kalabalıktan hoşlanmam.", "en": "I don't like crowds."}, {"tr": "Sen erken kalkar mısın?", "en": "Do you wake up early?"}, {"tr": "Kahvaltı yapar mısın?", "en": "Do you have breakfast?"}, {"tr": "Çay sever misin?", "en": "Do you like tea?"}, {"tr": "İşe nasıl gidersin?", "en": "How do you go to work?"}, {"tr": "Saat kaçta işe başlarsın?", "en": "What time do you start work?"}, {"tr": "Öğle yemeğini nerede yersin?", "en": "Where do you eat lunch?"}, {"tr": "İşten sonra ne yaparsın?", "en": "What do you do after work?"}, {"tr": "Hafta sonları çalışır mısın?", "en": "Do you work on weekends?"}, {"tr": "Spor yapar mısın?", "en": "Do you exercise?"}, {"tr": "Ne sıklıkla spor yaparsın?", "en": "How often do you exercise?"}, {"tr": "Kitap okur musun?", "en": "Do you read books?"}, {"tr": "Saat kaçta uyursun?", "en": "What time do you sleep?"}, {"tr": "Günde kaç saat uyursun?", "en": "How many hours do you sleep per day?"}, {"tr": "Su içmeyi sever misin?", "en": "Do you like drinking water?"}, {"tr": "Müzik dinler misin?", "en": "Do you listen to music?"}, {"tr": "Yemek yapmayı sever misin?", "en": "Do you like cooking?"}, {"tr": "Evet, severim.", "en": "Yes, I do."}, {"tr": "Hayır, sevmem.", "en": "No, I don't."}, {"tr": "Evet, uyanırım.", "en": "Yes, I do."}, {"tr": "Hayır, uyanmam.", "en": "No, I don't."}, {"tr": "Neden kahvaltı yapmazsın?", "en": "Why don't you have breakfast?"}, {"tr": "Neden erken kalkmazsın?", "en": "Why don't you wake up early?"}, {"tr": "Neden spor yapmazsın?", "en": "Why don't you exercise?"}, {"tr": "Ben tembel değilim.", "en": "I am not lazy."}, {"tr": "Ben sabah insanı değilim.", "en": "I am not a morning person."}, {"tr": "Ben çok organize biri değilim.", "en": "I am not a very organized person."}, {"tr": "O (erkek) kahve sevmez.", "en": "He doesn't like coffee."}, {"tr": "O (kadın) et yemez.", "en": "She doesn't eat meat."}, {"tr": "O (erkek) televizyon izlemez.", "en": "He doesn't watch TV."}, {"tr": "Kardeşin seninle yaşar mı?", "en": "Does your sibling live with you?"}, {"tr": "Keşke daha erken kalksam ama yapamıyorum.", "en": "I wish I woke up earlier but I can't."}, {"tr": "Sabahları kendimi yorgun hissetmemek için erkenden yatarım.", "en": "I go to bed early so that I don't feel tired in the morning."}, {"tr": "Telefonuma bakmadan duramam.", "en": "I can't help checking my phone."}, {"tr": "Alarm kurmazsam uyanamam.", "en": "I can't wake up if I don't set an alarm."}, {"tr": "Kahve içmezsem başım ağrır.", "en": "If I don't drink coffee, I get a headache."}, {"tr": "İşe geç kalmaktan nefret ederim.", "en": "I hate being late for work."}, {"tr": "Trafikte vakit kaybetmek istemiyorum.", "en": "I don't want to waste time in traffic."}, {"tr": "Sabah toplantılarını sevmem çünkü sabahları yavaş olurum.", "en": "I don't like morning meetings because I am slow in the morning."}, {"tr": "Hafta içi dışarı çıkmayı tercih etmem.", "en": "I don't prefer going out on weekdays."}, {"tr": "Evde yalnız kalmaktan korkmam.", "en": "I don't mind staying home alone."}, {"tr": "Her gün aynı şeyi yapmaktan sıkılır mısın?", "en": "Do you get bored of doing the same thing every day?"}, {"tr": "Rutininin en sevmediğin yanı ne?", "en": "What is the part of your routine you don't like the most?"}, {"tr": "Hiç egzersiz yapmamayı dener misin?", "en": "Do you ever skip exercising completely?"}, {"tr": "Sabahları kendini nasıl motive edersin?", "en": "How do you motivate yourself in the morning?"}, {"tr": "Gün içinde hiç mola vermez misin?", "en": "Don't you take any breaks during the day?"}, {"tr": "Neden daha sağlıklı beslenmeyi denemezsin?", "en": "Why don't you try eating healthier?"}, {"tr": "Erken kalkmak sana zor gelmez mi?", "en": "Isn't it difficult for you to wake up early?"}, {"tr": "İşten sonra enerjin kalmadığında ne yaparsın?", "en": "What do you do when you don't have any energy left after work?"}, {"tr": "Akşamları çok yemek yememeye çalışırım.", "en": "I try not to eat too much in the evenings."}, {"tr": "Telefonda çok vakit geçirmemeye çalışıyorum.", "en": "I'm trying not to spend too much time on my phone."}, {"tr": "Hafta içi alkol içmem.", "en": "I don't drink alcohol on weekdays."}, {"tr": "Uyumadan önce kafein tüketmem.", "en": "I don't consume caffeine before sleep."}, {"tr": "Gürültülü ortamlarda çalışamam.", "en": "I can't work in noisy environments."}, {"tr": "İnsanlar beni kolayca rahatsız etmez.", "en": "People don't disturb me easily."}, {"tr": "Odaklanmakta zorluk çekmem.", "en": "I don't have difficulty focusing."}, {"tr": "Çok sosyal biri değilim.", "en": "I'm not a very social person."}, {"tr": "Yeni insanlarla tanışmayı sevmem.", "en": "I don't like meeting new people."}, {"tr": "Değişiklikten hoşlanır mısın?", "en": "Do you like change?"}, {"tr": "Hayır, rutinimi bozmayı sevmem.", "en": "No, I don't like breaking my routine."}, {"tr": "Patronun sana yardım eder mi?", "en": "Does your boss help you?"}, {"tr": "İş arkadaşlarınla iyi anlaşır mısın?", "en": "Do you get along well with your colleagues?"}, {"tr": "Şirketin uzaktan çalışmaya izin veriyor mu?", "en": "Does your company allow remote work?"}, {"tr": "Maaşından memnun musun?", "en": "Are you satisfied with your salary?"}, {"tr": "İşini seviyor musun?", "en": "Do you like your job?"}, {"tr": "Kariyerini değiştirmek ister misin?", "en": "Do you want to change your career?"}, {"tr": "Ben işimi seviyorum ama bazen yorucu oluyor.", "en": "I like my job but it is sometimes tiring."}, {"tr": "Rutinimi değiştirmek istemiyorum.", "en": "I don't want to change my routine."}, {"tr": "Yeni alışkanlıklar edinmek kolay değil.", "en": "It is not easy to form new habits."}, {"tr": "Neden meditasyon yapmayı denemezsin?", "en": "Why don't you try meditating?"}, {"tr": "Kendine neden daha fazla zaman ayırmazsın?", "en": "Why don't you make more time for yourself?"}, {"tr": "Uyku düzenin nasıl?", "en": "What is your sleep schedule like?"}, {"tr": "Düzenli uyur musun?", "en": "Do you sleep regularly?"}, {"tr": "Hayır, uyku düzenim pek iyi değil.", "en": "No, my sleep schedule is not very good."}, {"tr": "Uykusuzluk çeker misin?", "en": "Do you suffer from insomnia?"}, {"tr": "Bazen uykuya dalmakta zorlanırım.", "en": "I sometimes have difficulty falling asleep."}, {"tr": "Gece geç saatlere kadar telefonuma bakarım.", "en": "I look at my phone until late at night."}, {"tr": "Bunu bırakmaya çalışıyorum.", "en": "I'm trying to quit this."}, {"tr": "Sağlıklı alışkanlıklar edinmek istiyorum.", "en": "I want to develop healthy habits."}, {"tr": "Nereden başlayacağımı bilmiyorum.", "en": "I don't know where to start."}, {"tr": "Bana bir tavsiye verebilir misin?", "en": "Can you give me a piece of advice?"}];
+    
+    // Theme logic
+    const themeToggle = document.getElementById('themeToggle');
+    let isDark = false;
+    themeToggle.addEventListener('click', () => {
+        isDark = !isDark;
+        document.body.setAttribute('data-theme', isDark ? 'dark' : 'light');
+        themeToggle.textContent = isDark ? '☀️' : '🌙';
+    });
+
+    // Tab logic
+    const tabs = document.querySelectorAll('.tab');
+    const tabContents = document.querySelectorAll('.tab-content');
+    const tabProgress = document.getElementById('tabProgress');
+    
+    function switchTab(index) {
+        tabs.forEach(t => t.classList.remove('active'));
+        tabContents.forEach(c => c.classList.remove('active'));
+        tabs[index].classList.add('active');
+        const target = tabs[index].getAttribute('data-target');
+        document.getElementById(target).classList.add('active');
+        tabProgress.style.width = ((index + 1) / tabs.length * 100) + '%';
+        window.scrollTo(0,0);
+    }
+
+    tabs.forEach((tab, index) => {
+        tab.addEventListener('click', () => switchTab(index));
+    });
+
+    // Words logic
+    let wordsVisible = false;
+    function toggleAllWords() {
+        wordsVisible = !wordsVisible;
+        document.querySelectorAll('.word-tr').forEach(el => {
+            if(wordsVisible) el.classList.remove('hidden');
+            else el.classList.add('hidden');
+        });
+    }
+
+    // Patterns logic
+    function togglePattern(btn) {
+        const enDiv = btn.parentElement.parentElement.querySelector('.pattern-en');
+        enDiv.classList.toggle('hidden');
+    }
+
+    // TTS
+    function speak(text) {
+        if ('speechSynthesis' in window) {
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'en-US';
+            window.speechSynthesis.speak(utterance);
+        }
+    }
+
+    // Sentences logic
+    let currentIndex = 0;
+    let wrongSentences = [];
+    let isReviewMode = false;
+    let currentList = sentences;
+
+    const trEl = document.getElementById('trSentence');
+    const enEl = document.getElementById('enSentence');
+    const showBtn = document.getElementById('showAnswerBtn');
+    const ansBtns = document.getElementById('answerBtns');
+    const sIndexEl = document.getElementById('sIndex');
+    const sTotalEl = document.getElementById('sTotal');
+    const sProgEl = document.getElementById('sentenceProgress');
+    const studyArea = document.getElementById('sentenceStudyArea');
+    const milestoneMsg = document.getElementById('milestoneMsg');
+
+    function loadSentence() {
+        if (currentIndex >= currentList.length) {
+            studyArea.classList.add('hidden');
+            milestoneMsg.classList.remove('hidden');
+            milestoneMsg.innerHTML = isReviewMode ? "Tekrar tamamlandı! 🎉<br><br><button onclick='location.reload()'>Başa Dön</button>" : "Tüm cümleler tamamlandı! 🎉";
+            return;
+        }
+        
+        studyArea.classList.remove('hidden');
+        milestoneMsg.classList.add('hidden');
+        
+        trEl.textContent = currentList[currentIndex].tr;
+        enEl.textContent = currentList[currentIndex].en;
+        enEl.classList.add('hidden');
+        showBtn.classList.remove('hidden');
+        ansBtns.classList.add('hidden');
+        
+        sIndexEl.textContent = currentIndex + 1;
+        sTotalEl.textContent = currentList.length;
+        sProgEl.style.width = ((currentIndex + 1) / currentList.length * 100) + '%';
+    }
+
+    function showAnswer() {
+        enEl.classList.remove('hidden');
+        showBtn.classList.add('hidden');
+        ansBtns.classList.remove('hidden');
+        speak(currentList[currentIndex].en);
+    }
+
+    function nextSentence(knewIt) {
+        if (!knewIt) {
+            if (!isReviewMode) {
+                wrongSentences.push(currentList[currentIndex]);
+                updateWrongListUI();
+            } else {
+                wrongSentences.push(currentList[currentIndex]);
+            }
+        }
+
+        currentIndex++;
+        
+        if (!isReviewMode && currentIndex > 0) {
+            if (currentIndex === 50) {
+                showMilestone("Yarı yoldasın! 🎯");
+                return;
+            } else if (currentIndex % 10 === 0 && currentIndex !== currentList.length && currentIndex !== 50) {
+                showMilestone(currentIndex + " cümle tamamlandı! ☕");
+                return;
+            }
+        }
+        
+        loadSentence();
+    }
+    
+    function showMilestone(msg) {
+        studyArea.classList.add('hidden');
+        milestoneMsg.classList.remove('hidden');
+        milestoneMsg.innerHTML = msg + '<br><br><button onclick="loadSentence()">Devam Et</button>';
+    }
+
+    function updateWrongListUI() {
+        document.getElementById('wrongCount').textContent = wrongSentences.length;
+        const ul = document.getElementById('wrongList');
+        ul.innerHTML = '';
+        wrongSentences.forEach((s) => {
+            const li = document.createElement('li');
+            li.textContent = s.tr + " - " + s.en;
+            li.style.marginBottom = "5px";
+            ul.appendChild(li);
+        });
+        if(wrongSentences.length > 0) document.getElementById('reviewBtn').classList.remove('hidden');
+    }
+
+    function toggleWrongList() {
+        document.getElementById('wrongListContainer').classList.toggle('hidden');
+    }
+    
+    function startWrongListReview() {
+        if(wrongSentences.length === 0) return;
+        isReviewMode = true;
+        currentList = [...wrongSentences];
+        wrongSentences = []; 
+        updateWrongListUI();
+        currentIndex = 0;
+        document.getElementById('wrongListContainer').classList.add('hidden');
+        loadSentence();
+    }
+
+    loadSentence();
+</script>
+</body>
+</html>

@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gün 6 - Like/Hate/Love + V-ing & Want to + V1</title>
+<style>
+:root {
+    --bg-color: #FAFAFA;
+    --text-color: #333;
+    --heading-color: #2C3E50;
+    --primary-color: #3498DB;
+    --primary-hover: #2980B9;
+    --card-bg: #FFFFFF;
+    --shadow: 0 2px 12px rgba(0,0,0,0.08);
+    --border-radius: 12px;
+}
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #f0f0f0;
+    --heading-color: #e0e0e0;
+    --primary-color: #3498DB;
+    --card-bg: #2d2d2d;
+    --shadow: 0 2px 12px rgba(0,0,0,0.3);
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+.container {
+    max-width: 750px;
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+h1, h2, h3 {
+    color: var(--heading-color);
+}
+.theme-toggle {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: var(--text-color);
+}
+.tabs {
+    display: flex;
+    overflow-x: auto;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+}
+.tab {
+    padding: 10px 15px;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    font-weight: bold;
+    color: #777;
+    white-space: nowrap;
+}
+.tab.active {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+}
+.progress-container {
+    height: 4px;
+    background: #ddd;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.progress-bar {
+    height: 100%;
+    background: var(--primary-color);
+    width: 20%;
+    transition: width 0.3s;
+}
+.tab-content {
+    display: none;
+}
+.tab-content.active {
+    display: block;
+    animation: fadeIn 0.3s;
+}
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+.card {
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    padding: 20px;
+    margin-bottom: 15px;
+}
+button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+button:hover {
+    background-color: var(--primary-hover);
+}
+button.success { background-color: #2ECC71; }
+button.success:hover { background-color: #27AE60; }
+button.warning { background-color: #E67E22; }
+button.warning:hover { background-color: #D35400; }
+button.icon-btn {
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+.grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+@media (max-width: 600px) {
+    .grid-2 { grid-template-columns: 1fr; }
+}
+.hidden { display: none !important; }
+.sentence-card {
+    text-align: center;
+    padding: 40px 20px;
+}
+.tr-sentence {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.en-sentence {
+    font-size: 20px;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+    min-height: 30px;
+}
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.milestone {
+    text-align: center;
+    font-size: 24px;
+    color: var(--primary-color);
+    margin: 30px 0;
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h2>Gün 6: Like/Hate/Love + V-ing & Want to + V1</h2>
+        <button class="theme-toggle" id="themeToggle" title="Tema Değiştir">🌙</button>
+    </header>
+
+    <div class="tabs">
+        <div class="tab active" data-target="gramer">📘 Gramer</div>
+        <div class="tab" data-target="kelimeler">📝 Kelimeler</div>
+        <div class="tab" data-target="kaliplar">💬 Kalıplar</div>
+        <div class="tab" data-target="cumleler">✍️ Cümleler</div>
+        <div class="tab" data-target="aktivite">✅ Aktivite</div>
+    </div>
+    
+    <div class="progress-container">
+        <div class="progress-bar" id="tabProgress" style="width: 20%;"></div>
+    </div>
+
+    <!-- 1. GRAMER -->
+    <div id="gramer" class="tab-content active">
+        <div class="card">
+            <h3>Gramer Konusu: Like/Hate/Love + V-ing & Want to + V1</h3>
+            <p>Aşağıda bu günün temel kalıpları ve örnekleri yer almaktadır.</p>
+            <ul>
+                <li><strong>Kitap okumayı severim.</strong> <br> <span style='color: var(--primary-color);'>I like reading.</span></li>
+            </ul>
+            <div style="margin-top: 20px;">
+                <button onclick="switchTab(1)">Anladım, Devam Et →</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. KELİMELER -->
+    <div id="kelimeler" class="tab-content">
+        <div style="margin-bottom: 15px;">
+            <button onclick="toggleAllWords()">Türkçesini Göster/Gizle</button>
+        </div>
+        <div class="grid-2">
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>love</strong>
+                    <button class="icon-btn" onclick="speak(`love`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">bayılmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>hate</strong>
+                    <button class="icon-btn" onclick="speak(`hate`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">nefret etmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>prefer</strong>
+                    <button class="icon-btn" onclick="speak(`prefer`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">tercih etmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>want</strong>
+                    <button class="icon-btn" onclick="speak(`want`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">istemek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>would like</strong>
+                    <button class="icon-btn" onclick="speak(`would like`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">istemek (kibar)</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>enjoy</strong>
+                    <button class="icon-btn" onclick="speak(`enjoy`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">keyif almak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>mind</strong>
+                    <button class="icon-btn" onclick="speak(`mind`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">rahatsız olmak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>stand</strong>
+                    <button class="icon-btn" onclick="speak(`stand`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">tahammül etmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>keen</strong>
+                    <button class="icon-btn" onclick="speak(`keen`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">hevesli</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>fond</strong>
+                    <button class="icon-btn" onclick="speak(`fond`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">düşkün</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>interested</strong>
+                    <button class="icon-btn" onclick="speak(`interested`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">ilgili</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>crazy</strong>
+                    <button class="icon-btn" onclick="speak(`crazy`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">deli gibi sevmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>desire</strong>
+                    <button class="icon-btn" onclick="speak(`desire`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">arzu</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>wish</strong>
+                    <button class="icon-btn" onclick="speak(`wish`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">dilemek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>intend</strong>
+                    <button class="icon-btn" onclick="speak(`intend`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">niyet etmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>plan</strong>
+                    <button class="icon-btn" onclick="speak(`plan`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">planlamak</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>decide</strong>
+                    <button class="icon-btn" onclick="speak(`decide`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">karar vermek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>choose</strong>
+                    <button class="icon-btn" onclick="speak(`choose`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">seçmek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>expect</strong>
+                    <button class="icon-btn" onclick="speak(`expect`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">ummak/beklemek</div>
+            </div>
+            <div class="card word-card">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <strong>hope</strong>
+                    <button class="icon-btn" onclick="speak(`hope`)">🔊</button>
+                </div>
+                <div class="word-tr hidden" style="margin-top: 10px; color: #777;">umut etmek</div>
+            </div>
+        </div>
+        <div style="margin-top: 20px;">
+            <button onclick="switchTab(2)">Kelimeleri Öğrendim →</button>
+        </div>
+    </div>
+
+    <!-- 3. KALIPLAR -->
+    <div id="kaliplar" class="tab-content">
+        <div class="grid-2">
+            <div class="card pattern-card">
+                <h3 style="margin-top: 0;">Kitap okumayı severim.</h3>
+                <div class="pattern-en hidden" style="color: var(--primary-color); margin-bottom: 10px;">I like reading.</div>
+                <div style="display: flex; gap: 10px;">
+                    <button onclick="togglePattern(this)">Göster/Gizle</button>
+                    <button class="icon-btn" onclick="speak(`I like reading.`)">🔊</button>
+                </div>
+            </div>
+        </div>
+        <div style="margin-top: 20px;">
+            <button onclick="switchTab(3)">Kalıpları Öğrendim →</button>
+        </div>
+    </div>
+
+    <!-- 4. CÜMLELER -->
+    <div id="cumleler" class="tab-content">
+        <div class="card sentence-card" id="sentenceContainer">
+            <div style="text-align: left; margin-bottom: 10px; font-weight: bold;">Cümle <span id="sIndex">1</span> / <span id="sTotal">100</span></div>
+            <div class="progress-container" style="height: 6px;">
+                <div class="progress-bar" id="sentenceProgress" style="width: 1%;"></div>
+            </div>
+            
+            <div id="milestoneMsg" class="milestone hidden"></div>
+
+            <div id="sentenceStudyArea">
+                <div class="tr-sentence" id="trSentence">Türkçe cümle burada</div>
+                <div class="en-sentence hidden" id="enSentence">English sentence here</div>
+                
+                <button id="showAnswerBtn" onclick="showAnswer()">Cevabı Göster</button>
+                
+                <div class="action-buttons hidden" id="answerBtns">
+                    <button class="success" onclick="nextSentence(true)">✅ Doğru Bildim</button>
+                    <button class="warning" onclick="nextSentence(false)">🔄 Tekrar Et</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3 style="cursor: pointer; margin: 0;" onclick="toggleWrongList()">Tekrar Listesi (<span id="wrongCount">0</span> cümle) 🔽</h3>
+            <div id="wrongListContainer" class="hidden" style="margin-top: 15px;">
+                <ul id="wrongList"></ul>
+                <button onclick="startWrongListReview()" id="reviewBtn" class="hidden" style="margin-top: 10px;">Tümünü Tekrar Et</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 5. AKTİVİTE -->
+    <div id="aktivite" class="tab-content">
+        <div class="card">
+            <h3>Günün Aktivitesi</h3>
+            <div style="line-height: 1.6; margin-bottom: 20px;">
+                **Sabah (30 dk): Tercih Listesi**<br>- 20 şeyi sevdiğin/sevmek istediğin/nefret ettiğin şeklinde kategorize et.<br>- Her kategori için "like/love/hate/want to/would like to" ile tam cümleler yaz.<br><br>**Öğlen (30 dk): Hedef Cümleleri**<br>- "Kısa vadede ne istiyorum?" sorusuna 10 cümleyle cevap ver. (want to)<br>- "Uzun vadede ne isterdim?" sorusuna 10 cümleyle cevap ver. (would like to / hope to)<br><br>**Akşam (45 dk): Haftanın Özeti — Büyük Konuşma**<br>- 3 dakikalık "Who I am and what I want" başlıklı İngilizce konuşma yap.<br>- Bu hafta öğrendiğin tüm yapıları kullan:<br>  - Present Simple rutinler<br>  - Sıklık zarfları<br>  - Zaman edatları (in/on/at/before/after/by)<br>  - to + V1 (amaç)<br>  - V-ing (sevdiğin/nefret ettiğin şeyler)<br>  - want to / would like to (hedefler)<br>- Ses kaydı al. 1. gün ile 6. gün kayıtlarını karşılaştır. Gelişimini gör!
+            </div>
+            <label style="display: flex; align-items: center; cursor: pointer; font-size: 18px;">
+                <input type="checkbox" style="width: 20px; height: 20px; margin-right: 10px;">
+                Tamamladım ✅
+            </label>
+        </div>
+        
+        <div class="card" style="text-align: center; font-style: italic; color: var(--primary-color);">
+            "Success is the sum of small efforts, repeated day in and day out."
+        </div>
+    </div>
+</div>
+
+<script>
+    // Data
+    const sentences = [{"tr": "Futbol oynamayı severim.", "en": "I like playing football."}, {"tr": "Müzik dinlemeye bayılırım.", "en": "I love listening to music."}, {"tr": "Erken kalkmaktan nefret ederim.", "en": "I hate waking up early."}, {"tr": "Yemek yapmaktan keyif alırım.", "en": "I enjoy cooking."}, {"tr": "Beklemekten rahatsız olmam.", "en": "I don't mind waiting."}, {"tr": "Televizyon izlemeyi severim.", "en": "I like watching TV."}, {"tr": "Kitap okumaya bayılırım.", "en": "I love reading books."}, {"tr": "Soğuk havadan nefret ederim.", "en": "I hate cold weather."}, {"tr": "Yürüyüş yapmaktan keyif alırım.", "en": "I enjoy walking."}, {"tr": "Gürültüye tahammül edemem.", "en": "I can't stand noise."}, {"tr": "Kahve içmeyi severim.", "en": "I like drinking coffee."}, {"tr": "Seyahat etmeye bayılırım.", "en": "I love travelling."}, {"tr": "Spor salonuna gitmekten nefret ederim.", "en": "I hate going to the gym."}, {"tr": "Fotoğraf çekmekten keyif alırım.", "en": "I enjoy taking photos."}, {"tr": "Kalabalığa tahammül edemem.", "en": "I can't stand crowds."}, {"tr": "Yeni şeyler öğrenmeyi severim.", "en": "I like learning new things."}, {"tr": "Doğada olmaya bayılırım.", "en": "I love being in nature."}, {"tr": "Trafikte kalmaktan nefret ederim.", "en": "I hate being stuck in traffic."}, {"tr": "Resim yapmaktan keyif alırım.", "en": "I enjoy painting."}, {"tr": "Evde yalnız kalmayı severim.", "en": "I like staying home alone."}, {"tr": "Köpekleri gezdirmeyi severim.", "en": "I like walking dogs."}, {"tr": "Deniz kenarında oturmaya bayılırım.", "en": "I love sitting by the sea."}, {"tr": "Bulaşık yıkamaktan nefret ederim.", "en": "I hate washing dishes."}, {"tr": "Bahçeyle uğraşmaktan keyif alırım.", "en": "I enjoy gardening."}, {"tr": "Sıcak havaya tahammül edemem.", "en": "I can't stand hot weather."}, {"tr": "Dışarı çıkmaktansa evde kalmayı tercih ederim.", "en": "I prefer staying home to going out."}, {"tr": "Çay içmeyi kahveye tercih ederim.", "en": "I prefer drinking tea to coffee."}, {"tr": "Yürümeyi koşmaya tercih ederim.", "en": "I prefer walking to running."}, {"tr": "Sabahları çalışmayı akşamları çalışmaya tercih ederim.", "en": "I prefer working in the morning to working in the evening."}, {"tr": "Spora çok meraklıyım.", "en": "I'm keen on sports."}, {"tr": "Müziğe düşkünüm.", "en": "I'm fond of music."}, {"tr": "Tarihe ilgiliyim.", "en": "I'm interested in history."}, {"tr": "Futbol delisiyim.", "en": "I'm crazy about football."}, {"tr": "Kedilere bayılırım.", "en": "I'm crazy about cats."}, {"tr": "Yüzmeye bayılırım.", "en": "I love swimming."}, {"tr": "Koşmaktan hoşlanmam.", "en": "I don't like running."}, {"tr": "Alışverişe gitmeye bayılırım.", "en": "I love going shopping."}, {"tr": "Toplantılardan nefret ederim.", "en": "I hate meetings."}, {"tr": "Yemek yemeyi çok severim.", "en": "I really like eating."}, {"tr": "Dans etmekten hiç hoşlanmam.", "en": "I don't enjoy dancing at all."}, {"tr": "Şarkı söylemekten çekinirim.", "en": "I am shy about singing."}, {"tr": "Topluluk önünde konuşmaktan korkarım.", "en": "I am afraid of public speaking."}, {"tr": "İnsanlara yardım etmekten keyif alırım.", "en": "I enjoy helping people."}, {"tr": "Gülmeyi severim.", "en": "I like laughing."}, {"tr": "Ağlamaktan nefret ederim.", "en": "I hate crying."}, {"tr": "Yalnız kalmaktan hoşlanmam.", "en": "I don't like being alone."}, {"tr": "Yeni tarifler denemekten keyif alırım.", "en": "I enjoy trying new recipes."}, {"tr": "Sabahları sessizlikten hoşlanırım.", "en": "I like silence in the morning."}, {"tr": "Çocuklarla oynamaya bayılırım.", "en": "I love playing with children."}, {"tr": "Erken yatmaktan hoşlanırım.", "en": "I like going to bed early."}, {"tr": "İngilizce öğrenmek istiyorum.", "en": "I want to learn English."}, {"tr": "Yeni bir iş bulmak istiyorum.", "en": "I want to find a new job."}, {"tr": "Yurt dışına çıkmak istiyorum.", "en": "I want to go abroad."}, {"tr": "Bir araba satın almak istiyorum.", "en": "I want to buy a car."}, {"tr": "Daha sağlıklı olmak istiyorum.", "en": "I want to be healthier."}, {"tr": "Kilo vermek istiyorum.", "en": "I want to lose weight."}, {"tr": "Spor salonuna yazılmak istiyorum.", "en": "I want to join a gym."}, {"tr": "Bir dil kursuna gitmek isterim.", "en": "I would like to go to a language course."}, {"tr": "Bir gün Amerika'yı ziyaret etmek isterim.", "en": "I would like to visit America one day."}, {"tr": "Sizinle çalışmak isterim.", "en": "I would like to work with you."}, {"tr": "Yeni insanlarla tanışmak isterim.", "en": "I would like to meet new people."}, {"tr": "Kariyerimi değiştirmeyi düşünüyorum.", "en": "I am thinking of changing my career."}, {"tr": "İngilizce öğrenmeye karar verdim.", "en": "I decided to learn English."}, {"tr": "Erken kalkmaya karar verdim.", "en": "I decided to wake up early."}, {"tr": "Daha az şeker tüketmeye karar verdim.", "en": "I decided to consume less sugar."}, {"tr": "Bu yaz tatile gitmeyi planlıyorum.", "en": "I plan to go on holiday this summer."}, {"tr": "Yeni bir eve taşınmayı planlıyorum.", "en": "I plan to move to a new house."}, {"tr": "Kendi işimi kurmayı planlıyorum.", "en": "I plan to start my own business."}, {"tr": "Yakında seni ziyaret etmeyi umuyorum.", "en": "I hope to visit you soon."}, {"tr": "Sınavı geçmeyi umuyorum.", "en": "I hope to pass the exam."}, {"tr": "Bir gün akıcı konuşmayı umuyorum.", "en": "I hope to speak fluently one day."}, {"tr": "Daha fazla kitap okumak niyetindeyim.", "en": "I intend to read more books."}, {"tr": "İngilizce öğrenmeye niyetliyim.", "en": "I intend to learn English."}, {"tr": "Bu alışkanlığı bırakmak istiyorum.", "en": "I want to quit this habit."}, {"tr": "Daha düzenli olmayı isterdim.", "en": "I would like to be more organized."}, {"tr": "Stres yapmayı bırakmak istiyorum.", "en": "I want to stop stressing out."}, {"tr": "Zamanımı daha iyi yönetmek istiyorum.", "en": "I want to manage my time better."}, {"tr": "Meditasyon yapmayı öğrenmek isterim.", "en": "I would like to learn to meditate."}, {"tr": "Daha fazla uyumak istiyorum.", "en": "I want to sleep more."}, {"tr": "Daha fazla para kazanmaya ihtiyacım var.", "en": "I need to earn more money."}, {"tr": "Sağlıklı yemek tarifleri öğrenmek isterim.", "en": "I would like to learn healthy recipes."}, {"tr": "İngilizce altyazısız film izleyebilmek istiyorum.", "en": "I want to be able to watch movies without English subtitles."}, {"tr": "İngilizce rüya görmek istiyorum.", "en": "I want to dream in English."}, {"tr": "Yurt dışında çalışmayı çok isterim.", "en": "I would really like to work abroad."}, {"tr": "Her gün spor yapmayı alışkanlık haline getirmek istiyorum.", "en": "I want to make exercising every day a habit."}, {"tr": "Kendime daha fazla güvenmek istiyorum.", "en": "I want to trust myself more."}, {"tr": "Hobilerime daha çok vakit ayırmak istiyorum.", "en": "I want to spare more time for my hobbies."}, {"tr": "Ailemle daha fazla vakit geçirmek istiyorum.", "en": "I want to spend more time with my family."}, {"tr": "İş yerinde terfi almayı umuyorum.", "en": "I hope to get a promotion at work."}, {"tr": "Maaş zammı bekliyorum.", "en": "I expect to get a raise."}, {"tr": "Bu projeyi zamanında bitirmeyi bekliyorum.", "en": "I expect to finish this project on time."}, {"tr": "Olumlu düşünmeyi seçiyorum.", "en": "I choose to think positively."}, {"tr": "Affetmeyi seçiyorum.", "en": "I choose to forgive."}, {"tr": "Devam etmeyi seçiyorum.", "en": "I choose to continue."}, {"tr": "Vazgeçmemeyi seçiyorum.", "en": "I choose not to give up."}, {"tr": "İngilizce konuşmaktan korkmuyorum.", "en": "I am not afraid of speaking English."}, {"tr": "Hata yapmaktan çekinmiyorum.", "en": "I don't hesitate to make mistakes."}, {"tr": "Geri bildirim almaya açığım.", "en": "I am open to receiving feedback."}, {"tr": "Değişime hazırım.", "en": "I am ready to change."}, {"tr": "Hayatımın kontrolünü elime almak istiyorum.", "en": "I want to take control of my life."}];
+    
+    // Theme logic
+    const themeToggle = document.getElementById('themeToggle');
+    let isDark = false;
+    themeToggle.addEventListener('click', () => {
+        isDark = !isDark;
+        document.body.setAttribute('data-theme', isDark ? 'dark' : 'light');
+        themeToggle.textContent = isDark ? '☀️' : '🌙';
+    });
+
+    // Tab logic
+    const tabs = document.querySelectorAll('.tab');
+    const tabContents = document.querySelectorAll('.tab-content');
+    const tabProgress = document.getElementById('tabProgress');
+    
+    function switchTab(index) {
+        tabs.forEach(t => t.classList.remove('active'));
+        tabContents.forEach(c => c.classList.remove('active'));
+        tabs[index].classList.add('active');
+        const target = tabs[index].getAttribute('data-target');
+        document.getElementById(target).classList.add('active');
+        tabProgress.style.width = ((index + 1) / tabs.length * 100) + '%';
+        window.scrollTo(0,0);
+    }
+
+    tabs.forEach((tab, index) => {
+        tab.addEventListener('click', () => switchTab(index));
+    });
+
+    // Words logic
+    let wordsVisible = false;
+    function toggleAllWords() {
+        wordsVisible = !wordsVisible;
+        document.querySelectorAll('.word-tr').forEach(el => {
+            if(wordsVisible) el.classList.remove('hidden');
+            else el.classList.add('hidden');
+        });
+    }
+
+    // Patterns logic
+    function togglePattern(btn) {
+        const enDiv = btn.parentElement.parentElement.querySelector('.pattern-en');
+        enDiv.classList.toggle('hidden');
+    }
+
+    // TTS
+    function speak(text) {
+        if ('speechSynthesis' in window) {
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'en-US';
+            window.speechSynthesis.speak(utterance);
+        }
+    }
+
+    // Sentences logic
+    let currentIndex = 0;
+    let wrongSentences = [];
+    let isReviewMode = false;
+    let currentList = sentences;
+
+    const trEl = document.getElementById('trSentence');
+    const enEl = document.getElementById('enSentence');
+    const showBtn = document.getElementById('showAnswerBtn');
+    const ansBtns = document.getElementById('answerBtns');
+    const sIndexEl = document.getElementById('sIndex');
+    const sTotalEl = document.getElementById('sTotal');
+    const sProgEl = document.getElementById('sentenceProgress');
+    const studyArea = document.getElementById('sentenceStudyArea');
+    const milestoneMsg = document.getElementById('milestoneMsg');
+
+    function loadSentence() {
+        if (currentIndex >= currentList.length) {
+            studyArea.classList.add('hidden');
+            milestoneMsg.classList.remove('hidden');
+            milestoneMsg.innerHTML = isReviewMode ? "Tekrar tamamlandı! 🎉<br><br><button onclick='location.reload()'>Başa Dön</button>" : "Tüm cümleler tamamlandı! 🎉";
+            return;
+        }
+        
+        studyArea.classList.remove('hidden');
+        milestoneMsg.classList.add('hidden');
+        
+        trEl.textContent = currentList[currentIndex].tr;
+        enEl.textContent = currentList[currentIndex].en;
+        enEl.classList.add('hidden');
+        showBtn.classList.remove('hidden');
+        ansBtns.classList.add('hidden');
+        
+        sIndexEl.textContent = currentIndex + 1;
+        sTotalEl.textContent = currentList.length;
+        sProgEl.style.width = ((currentIndex + 1) / currentList.length * 100) + '%';
+    }
+
+    function showAnswer() {
+        enEl.classList.remove('hidden');
+        showBtn.classList.add('hidden');
+        ansBtns.classList.remove('hidden');
+        speak(currentList[currentIndex].en);
+    }
+
+    function nextSentence(knewIt) {
+        if (!knewIt) {
+            if (!isReviewMode) {
+                wrongSentences.push(currentList[currentIndex]);
+                updateWrongListUI();
+            } else {
+                wrongSentences.push(currentList[currentIndex]);
+            }
+        }
+
+        currentIndex++;
+        
+        if (!isReviewMode && currentIndex > 0) {
+            if (currentIndex === 50) {
+                showMilestone("Yarı yoldasın! 🎯");
+                return;
+            } else if (currentIndex % 10 === 0 && currentIndex !== currentList.length && currentIndex !== 50) {
+                showMilestone(currentIndex + " cümle tamamlandı! ☕");
+                return;
+            }
+        }
+        
+        loadSentence();
+    }
+    
+    function showMilestone(msg) {
+        studyArea.classList.add('hidden');
+        milestoneMsg.classList.remove('hidden');
+        milestoneMsg.innerHTML = msg + '<br><br><button onclick="loadSentence()">Devam Et</button>';
+    }
+
+    function updateWrongListUI() {
+        document.getElementById('wrongCount').textContent = wrongSentences.length;
+        const ul = document.getElementById('wrongList');
+        ul.innerHTML = '';
+        wrongSentences.forEach((s) => {
+            const li = document.createElement('li');
+            li.textContent = s.tr + " - " + s.en;
+            li.style.marginBottom = "5px";
+            ul.appendChild(li);
+        });
+        if(wrongSentences.length > 0) document.getElementById('reviewBtn').classList.remove('hidden');
+    }
+
+    function toggleWrongList() {
+        document.getElementById('wrongListContainer').classList.toggle('hidden');
+    }
+    
+    function startWrongListReview() {
+        if(wrongSentences.length === 0) return;
+        isReviewMode = true;
+        currentList = [...wrongSentences];
+        wrongSentences = []; 
+        updateWrongListUI();
+        currentIndex = 0;
+        document.getElementById('wrongListContainer').classList.add('hidden');
+        loadSentence();
+    }
+
+    loadSentence();
+</script>
+</body>
+</html>
